@@ -1,0 +1,34 @@
+name: Validate & build KB bundle
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate exercises
+        run: npx -y ajv-cli validate -s schemas/exercise.schema.json -d 'exercises/*.json' --strict=false
+
+      - name: Validate programs
+        run: npx -y ajv-cli validate -s schemas/program.schema.json -d 'programs/*.json' --strict=false
+
+      - name: Validate channel.json
+        run: npx -y ajv-cli validate -s schemas/channel.schema.json -d channel.json --strict=false
+
+      - name: Build bundle
+        run: node scripts/build-bundle.mjs
+
+      - name: Upload bundle artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: kb-bundle
+          path: dist/
