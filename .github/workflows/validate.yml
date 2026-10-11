@@ -1,4 +1,8 @@
-name: Validate & build KB bundle
+name: Validate & publish KB bundle
+
+# NOTE (2026-10-11): GitHub Apps cannot write .github/workflows/* via the API
+# (missing Workflows permission), so this file is maintained by hand.
+# If you change it here, paste the new version via the GitHub web UI.
 
 on:
   push:
@@ -6,7 +10,7 @@ on:
   pull_request:
 
 jobs:
-  validate-build:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,19 +20,70 @@ jobs:
           node-version: '22'
 
       - name: Validate exercises
-        run: npx -y ajv-cli validate -s schemas/exercise.schema.json -d 'exercises/*.json' --strict=false
+        run: npx -y ajv-cli validate -s schemas/exercise.schema.json -d 'exercises/*.json'
 
       - name: Validate programs
-        run: npx -y ajv-cli validate -s schemas/program.schema.json -d 'programs/*.json' --strict=false
+        run: npx -y ajv-cli validate -s schemas/program.schema.json -d 'programs/*.json'
 
       - name: Validate channel.json
-        run: npx -y ajv-cli validate -s schemas/channel.schema.json -d channel.json --strict=false
+        run: npx -y ajv-cli validate -s schemas/channel.schema.json -d channel.json
 
       - name: Build bundle
-        run: node scripts/build-bundle.mjs
+        run: node scripts/build-bundle.mjs --write-channel
+
+      - name: Verify committed channel hash matches a fresh build
+        # --write-channel rewrites channel.json in place. If the committed
+        # sha256 differs from what a fresh build produces, the diff is
+        # non-empty and this step fails the run.
+        run: git diff --exit-code channel.json
 
       - name: Upload bundle artifact
         uses: actions/upload-artifact@v4
         with:
           name: kb-bundle
           path: dist/
+
+  release:
+    # Publish versioned bundles only on main pushes (not PRs).
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # create/update the versioned release
+      pages: write # deploy the Pages mirror
+      id-token: write # required by deploy-pages
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build bundle
+        run: node scripts/build-bundle.mjs --write-channel
+
+      - name: Read KB version
+        id: version
+        run: echo "v=$(node -p "require('./kb-version.json').version")" >> "$GITHUB_OUTPUT"
+
+      - name: Publish versioned release assets
+        # The app fetches kb-bundle-<v>.json from this release; channel.json
+        # tells it the latest version + sha256 to verify against.
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: kb-v${{ steps.version.outputs.v }}
+          name: KB bundle v${{ steps.version.outputs.v }}
+          files: |
+            dist/kb-bundle-*.json
+            dist/kb-bundle-*.json.sha256
+            channel.json
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+      - name: Deploy Pages mirror
+        # Web/CORS-friendly mirror of the bundles. Requires Pages enabled in
+        # repo Settings (Source: GitHub Actions) — one-time manual setup.
+        uses: actions/deploy-pages@v4
