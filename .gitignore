@@ -1,0 +1,6 @@
+# build output — bundles ship as GitHub Release assets, not commits
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
