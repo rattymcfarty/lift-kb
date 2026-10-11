@@ -24,8 +24,8 @@ Every asset committed here must be recorded in `media/manifest.json`:
   "prompt": "<full prompt>",
   "licenseCheck": "Terms reviewed <date>; output ownership assigned to user; CC0 dedication applied.",
   "coachReviewed": false,
-  "coachReviewer": null,
-  "coachReviewDate": null
+  "reviewedBy": null,
+  "reviewDate": null
 }
 ```
 
@@ -34,3 +34,6 @@ Every asset committed here must be recorded in `media/manifest.json`:
 `coachReviewed` must be `true` before an asset ships in a bundle release.
 AI anatomy errors are a **safety liability** — a wrong joint angle in a demo
 image can injure someone. No exceptions.
+
+`reviewedBy` records the reviewer's role or handle (e.g. `"coach:lead"`),
+never a personal name — no PII in the manifest.
