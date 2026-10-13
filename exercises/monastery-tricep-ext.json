@@ -1,0 +1,44 @@
+{
+  "id": "monastery-tricep-ext",
+  "schemaVersion": 1,
+  "name": "Monastery Tricep Extension",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Triceps"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Cable"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "push",
+  "instructions": [
+    "Kneel facing a cable machine, holding a rope or bar overhead.",
+    "Extend the elbows to press the weight up and slightly forward.",
+    "Squeeze the triceps at full extension.",
+    "Lower slowly behind the head. An overhead cable triceps builder."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "An intermediate cable press-pattern exercise targeting the triceps. Monastery Tricep Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.",
+  "image": "assets/exercises/monastery-tricep-ext.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

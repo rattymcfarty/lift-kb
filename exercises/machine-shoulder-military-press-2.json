@@ -1,0 +1,49 @@
+{
+  "id": "machine-shoulder-military-press-2",
+  "schemaVersion": 1,
+  "name": "Machine Shoulder (Military) Press",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Front Delts"
+    ],
+    "secondary": [
+      "Triceps"
+    ]
+  },
+  "equipment": [
+    "Machine"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "push",
+  "instructions": [
+    "Sit down on the Shoulder Press Machine and select the weight.",
+    "Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.",
+    "Now lift the handles as you exhale and you extend the arms fully. At the top of the position make sure that you hold the contraction for a second.",
+    "Lower the handles slowly back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "A beginner machine press-pattern exercise targeting the front delts. Machine Shoulder (Military) Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.",
+  "image": "assets/exercises/machine-shoulder-military-press-2.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}
