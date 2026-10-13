@@ -1,0 +1,50 @@
+{
+  "id": "stiff-legged-dumbbell-deadlift",
+  "schemaVersion": 1,
+  "name": "Stiff-Legged Dumbbell Deadlift",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Glutes",
+      "Lower Back"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Grasp a couple of dumbbells holding them by your side at arm's length.",
+    "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",
+    "Keeping the knees stationary, lower the dumbbells to over the top of your feet by bending at the waist while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Exhale as you perform this movement",
+    "Start bringing your torso up straight again by extending your hips and waist until you are back at the starting position. Inhale as you perform this movement.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "A beginner dumbbell hinge-pattern exercise for the hamstrings. Stiff-Legged Dumbbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/stiff-legged-dumbbell-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

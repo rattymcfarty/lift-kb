@@ -1,0 +1,44 @@
+{
+  "id": "thoracic-extension-stretch",
+  "schemaVersion": 1,
+  "name": "Thoracic Extension Stretch",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Upper Back"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "mobility",
+  "instructions": [
+    "Sit or kneel and place your mid-back over a foam roller or bench edge.",
+    "Support your head with your hands.",
+    "Extend backward over the roller, opening the chest \u2014 ribs down, movement from the mid-back.",
+    "Work different segments of the mid-back and repeat."
+  ],
+  "cues": [
+    "Move slowly, no forcing",
+    "Breathe into the stretch",
+    "Stay relaxed outside the target area"
+  ],
+  "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent \u2014 reaching, bending, and getting up from the floor.",
+  "overview": "A beginner just your bodyweight mobility drill targeting the upper back. Thoracic Extension Stretch restores range of motion that desk life and hard training both tend to steal.",
+  "image": "assets/exercises/thoracic-extension-stretch.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Mobility"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "split-squats-2",
+  "schemaVersion": 1,
+  "name": "Split Squats",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Calves",
+      "Glutes",
+      "Quadriceps"
+    ]
+  },
+  "equipment": [
+    "Other"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "mobility",
+  "instructions": [
+    "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
+    "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
+  ],
+  "cues": [
+    "Move slowly, no forcing",
+    "Breathe into the stretch",
+    "Stay relaxed outside the target area"
+  ],
+  "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent \u2014 reaching, bending, and getting up from the floor.",
+  "overview": "Split Squats is an intermediate mobility exercise for the hamstrings, performed with minimal equipment. Regular mobility work keeps joints moving freely and makes strength training safer.",
+  "image": "assets/exercises/split-squats-2.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Mobility"
+}

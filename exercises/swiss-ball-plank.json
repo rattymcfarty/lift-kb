@@ -1,0 +1,44 @@
+{
+  "id": "swiss-ball-plank",
+  "schemaVersion": 1,
+  "name": "Swiss Ball Plank",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Other"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "core",
+  "instructions": [
+    "Place your forearms on a Swiss ball in a plank, body in a straight line.",
+    "Brace hard \u2014 the unstable surface forces constant correction.",
+    "Keep the hips level; don't sag or pike.",
+    "Breathe steadily and hold 20-40 seconds."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "An intermediate minimal equipment core exercise for the abs. Swiss Ball Plank builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/swiss-ball-plank.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "squat-to-press-db",
+  "schemaVersion": 1,
+  "name": "Squat to Press (Dumbbell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Front Delts",
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "squat",
+  "instructions": [
+    "Hold dumbbells at shoulder height, feet shoulder-width apart.",
+    "Squat down until thighs are parallel.",
+    "Drive up explosively, pressing the dumbbells overhead as you stand.",
+    "Lower the weights to your shoulders. A thruster \u2014 full-body power and conditioning."
+  ],
+  "cues": [
+    "Knees track over toes",
+    "Chest tall, brace the core",
+    "Drive through the whole foot"
+  ],
+  "longevityNotes": "Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.",
+  "overview": "Squat to Press (Dumbbell) is an intermediate lower-body exercise that builds the quadriceps, usually performed with dumbbells. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.",
+  "image": "assets/exercises/squat-to-press-db.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

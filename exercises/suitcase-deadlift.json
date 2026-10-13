@@ -1,0 +1,47 @@
+{
+  "id": "suitcase-deadlift",
+  "schemaVersion": 1,
+  "name": "Suitcase Deadlift",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes",
+      "Abs"
+    ]
+  },
+  "equipment": [
+    "Barbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Stand beside a loaded barbell as if holding a suitcase.",
+    "Squat down and grip the bar with one hand, the other arm out for balance.",
+    "Drive through the legs to stand, resisting the urge to lean.",
+    "Lower with control. Brutal on the obliques and grip."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An intermediate barbell hinge-pattern exercise for the quadriceps. Suitcase Deadlift builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/suitcase-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

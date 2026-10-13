@@ -1,0 +1,47 @@
+{
+  "id": "triceps-pushdown-2",
+  "schemaVersion": 1,
+  "name": "Triceps Pushdown",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Triceps"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Cable"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "push",
+  "instructions": [
+    "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
+    "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position.",
+    "Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement.",
+    "After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Triceps Pushdown is a beginner pushing exercise for the triceps, performed with a cable machine. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/triceps-pushdown-2.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

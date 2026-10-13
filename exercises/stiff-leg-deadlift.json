@@ -1,0 +1,47 @@
+{
+  "id": "stiff-leg-deadlift",
+  "schemaVersion": 1,
+  "name": "Stiff-Leg Deadlift",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Glutes",
+      "Lower Back"
+    ]
+  },
+  "equipment": [
+    "Barbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Stand with feet hip-width apart, holding a barbell at thigh level.",
+    "With a slight knee bend, hinge at the hips and lower the bar along your legs.",
+    "Descend until you feel a deep hamstring stretch, back flat.",
+    "Drive the hips forward to stand, squeezing the glutes. Distinct from Romanian \u2014 knees stay nearly straight."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "Stiff-Leg Deadlift is an intermediate hip-hinge exercise targeting the hamstrings, performed with a barbell. The hinge is the foundation of safe lifting \u2014 it teaches you to load the hips, not the spine.",
+  "image": "assets/exercises/stiff-leg-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}
