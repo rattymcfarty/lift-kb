@@ -1,0 +1,51 @@
+{
+  "id": "seated-cable-rows-3",
+  "schemaVersion": 1,
+  "name": "Seated Cable Rows",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Upper Back"
+    ],
+    "secondary": [
+      "Biceps",
+      "Lats",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Cable"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "pull",
+  "instructions": [
+    "For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
+    "Lean over as you keep the natural alignment of your back and grab the V-bar handles.",
+    "With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.",
+    "Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "Seated Cable Rows is a beginner pulling exercise for the upper back, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.",
+  "image": "assets/exercises/seated-cable-rows-3.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

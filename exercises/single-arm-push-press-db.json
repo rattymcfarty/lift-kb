@@ -1,0 +1,47 @@
+{
+  "id": "single-arm-push-press-db",
+  "schemaVersion": 1,
+  "name": "Single-Arm Push Press (Dumbbell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Front Delts"
+    ],
+    "secondary": [
+      "Triceps",
+      "Quadriceps"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "push",
+  "instructions": [
+    "Hold a dumbbell at shoulder height, feet hip-width apart.",
+    "Dip slightly at the knees, then drive up, using leg momentum to press the weight overhead.",
+    "Lock out with the bicep by your ear.",
+    "Lower to the shoulder and repeat. The leg drive lets you handle heavier weight."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Single-Arm Push Press (Dumbbell) is an intermediate pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/single-arm-push-press-db.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Vertical Push"
+}

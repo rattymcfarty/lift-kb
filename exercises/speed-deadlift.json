@@ -1,0 +1,47 @@
+{
+  "id": "speed-deadlift",
+  "schemaVersion": 1,
+  "name": "Speed Deadlift",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Hamstrings",
+      "Lower Back"
+    ]
+  },
+  "equipment": [
+    "Barbell"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Load a barbell to 50-70% of your max.",
+    "Set up for a conventional deadlift and pull as explosively as possible.",
+    "Lock out fast with a strong glute squeeze.",
+    "Lower with control and reset. Trains rate of force development for powerlifters."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "Speed Deadlift is an advanced hip-hinge exercise targeting the glutes, performed with a barbell. The hinge is the foundation of safe lifting \u2014 it teaches you to load the hips, not the spine.",
+  "image": "assets/exercises/speed-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

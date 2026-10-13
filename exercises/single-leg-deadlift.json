@@ -1,0 +1,47 @@
+{
+  "id": "single-leg-deadlift",
+  "schemaVersion": 1,
+  "name": "Single-Leg Deadlift",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Glutes",
+      "Lower Back"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Stand on one leg with a soft knee, arms at your sides.",
+    "Hinge at the hips, extending the free leg straight behind you as your torso lowers.",
+    "Reach toward the floor, keeping the hips square and the back flat.",
+    "Drive the standing heel into the floor to return. Add a dumbbell or kettlebell when bodyweight is easy."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An intermediate bodyweight hinge-pattern exercise for the hamstrings. Single-Leg Deadlift builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/single-leg-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

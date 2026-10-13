@@ -1,0 +1,47 @@
+{
+  "id": "side-plank",
+  "schemaVersion": 1,
+  "name": "Side Plank",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": [
+      "Abs",
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "Lie on your side with your forearm on the floor, elbow under shoulder.",
+    "Lift your hips so your body forms a straight line from head to feet.",
+    "Hold, keeping the hips from sagging or rotating.",
+    "Breathe steadily and switch sides. Builds lateral core stability."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "A beginner just your bodyweight core exercise for the abs. Side Plank builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/side-plank.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

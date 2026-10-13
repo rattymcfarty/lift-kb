@@ -1,0 +1,46 @@
+{
+  "id": "side-plank-reach-through",
+  "schemaVersion": 1,
+  "name": "Side Plank with Reach-Through",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": [
+      "Forearms"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "core",
+  "instructions": [
+    "Set up in a side plank \u2014 elbow under shoulder, body straight, feet stacked.",
+    "Brace hard and reach the top arm under your torso, rotating the trunk.",
+    "Open the chest back up, reaching the arm to the ceiling.",
+    "Keep the hips lifted throughout. Complete all reps, then switch sides."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "Side Plank with Reach-Through is an intermediate core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.",
+  "image": "assets/exercises/side-plank-reach-through.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}
