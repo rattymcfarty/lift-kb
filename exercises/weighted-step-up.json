@@ -1,0 +1,46 @@
+{
+  "id": "weighted-step-up",
+  "schemaVersion": 1,
+  "name": "Step-Up (Weighted)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "squat",
+  "instructions": [
+    "Hold dumbbells at your sides, facing a knee-high box or bench.",
+    "Step up with one foot, driving through the heel to stand on the box.",
+    "Bring the trailing foot up, then step back down with control.",
+    "Alternate legs. Don't push off the trailing foot \u2014 the working leg does it all."
+  ],
+  "cues": [
+    "Knees track over toes",
+    "Chest tall, brace the core",
+    "Drive through the whole foot"
+  ],
+  "longevityNotes": "Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.",
+  "overview": "A beginner dumbbell squat-pattern exercise for the quadriceps. Step-Up (Weighted) develops leg strength through a full range of motion, which carries straight into daily life.",
+  "image": "assets/exercises/weighted-step-up.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Squat"
+}

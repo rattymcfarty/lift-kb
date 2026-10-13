@@ -1,0 +1,46 @@
+{
+  "id": "windshield-wipers",
+  "schemaVersion": 1,
+  "name": "Windshield Wipers",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": [
+      "Abs"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "core",
+  "instructions": [
+    "Hang from a bar or lie on the floor with arms out, legs raised vertical.",
+    "Keeping the legs straight, rotate them to one side.",
+    "Lower as far as you can control, then sweep to the other side.",
+    "Move like a windshield wiper. Elite oblique and core control."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "An advanced just your bodyweight core exercise for the abs. Windshield Wipers builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/windshield-wipers.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

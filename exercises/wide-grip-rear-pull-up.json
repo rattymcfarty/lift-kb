@@ -1,0 +1,51 @@
+{
+  "id": "wide-grip-rear-pull-up",
+  "schemaVersion": 1,
+  "name": "Wide-Grip Rear Pull-Up",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Lats"
+    ],
+    "secondary": [
+      "Biceps",
+      "Upper Back",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "pull",
+  "instructions": [
+    "Grab the pull-up bar with the palms facing forward using a wide grip.",
+    "As you have both arms extended in front of you holding the bar, bring your torso forward and head so that there is an imaginary line from the pull-up bar to the back of your neck. This is your starting position.",
+    "Pull your torso up until the bar is near the back of your neck. To do this, draw the shoulders and upper arms down and back while slightly leaning your head forward. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+    "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "Wide-Grip Rear Pull-Up is an intermediate pulling exercise for the lats, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.",
+  "image": "assets/exercises/wide-grip-rear-pull-up.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Vertical Pull"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "walkout-plank",
+  "schemaVersion": 1,
+  "name": "Walkout Plank",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": [
+      "Front Delts",
+      "Hamstrings"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "From standing, fold forward and walk your hands out to a plank.",
+    "Hold the plank for 2-3 seconds with a tight, straight body.",
+    "Walk the hands back in and stand up.",
+    "Repeat for reps. Combines a hamstring stretch with core work."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "A beginner just your bodyweight core exercise for the abs. Walkout Plank builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/walkout-plank.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

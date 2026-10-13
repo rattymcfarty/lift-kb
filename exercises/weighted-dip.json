@@ -1,0 +1,47 @@
+{
+  "id": "weighted-dip",
+  "schemaVersion": 1,
+  "name": "Weighted Dip",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Triceps"
+    ],
+    "secondary": [
+      "Chest",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "push",
+  "instructions": [
+    "Attach weight via a dip belt or hold a dumbbell between your feet.",
+    "Grip the parallel bars and lift yourself to straight arms.",
+    "Lower with control until your shoulders drop below your elbows.",
+    "Press explosively back up. Lean slightly forward to emphasize the chest."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Weighted Dip is an advanced pushing exercise for the triceps, performed with just your bodyweight. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/weighted-dip.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Vertical Push"
+}

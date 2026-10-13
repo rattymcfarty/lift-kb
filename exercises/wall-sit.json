@@ -1,0 +1,46 @@
+{
+  "id": "wall-sit",
+  "schemaVersion": 1,
+  "name": "Wall Sit",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "squat",
+  "instructions": [
+    "Lean your back flat against a wall, feet shoulder-width apart and about two feet out.",
+    "Slide down until your thighs are parallel to the floor, knees over ankles.",
+    "Press your lower back into the wall and hold, breathing steadily.",
+    "Keep the weight through your heels for the prescribed time."
+  ],
+  "cues": [
+    "Knees track over toes",
+    "Chest tall, brace the core",
+    "Drive through the whole foot"
+  ],
+  "longevityNotes": "Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.",
+  "overview": "A beginner bodyweight squat-pattern exercise for the quadriceps. Wall Sit develops leg strength through a full range of motion, which carries straight into daily life.",
+  "image": "assets/exercises/wall-sit.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Squat"
+}

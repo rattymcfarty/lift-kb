@@ -1,0 +1,44 @@
+{
+  "id": "wall-press-dead-bug",
+  "schemaVersion": 1,
+  "name": "Wall Press Dead Bug",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "Lie on your back with your head near a wall, knees bent 90 degrees over hips.",
+    "Press your hands into the wall overhead to fire the core.",
+    "Flatten your lower back into the floor.",
+    "Slowly extend one leg toward the floor without letting the back arch. Alternate legs, keeping wall pressure."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "A beginner just your bodyweight core exercise for the abs. Wall Press Dead Bug builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/wall-press-dead-bug.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

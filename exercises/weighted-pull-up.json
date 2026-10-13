@@ -1,0 +1,47 @@
+{
+  "id": "weighted-pull-up",
+  "schemaVersion": 1,
+  "name": "Pull-Up (Weighted)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Lats"
+    ],
+    "secondary": [
+      "Biceps",
+      "Upper Back"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "pull",
+  "instructions": [
+    "Attach weight with a dip belt or hold a dumbbell between your feet.",
+    "Hang from the bar with arms fully extended.",
+    "Pull until your chin clears the bar, keeping the core tight.",
+    "Lower with control. The gold standard for relative upper-body strength."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "Pull-Up (Weighted) is an advanced pulling exercise for the lats, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.",
+  "image": "assets/exercises/weighted-pull-up.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Vertical Pull"
+}

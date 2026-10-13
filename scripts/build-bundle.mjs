@@ -5,12 +5,7 @@
  *   node scripts/build-bundle.mjs [--write-channel]
  *
  * --write-channel also fills latest/schemaVersion/sha256 in channel.json.
- * Bundles are published as GitHub Release assets (+ Pages mirror); dist/ is git-ignored.
- *
- * Hash contract: sha256 covers the canonical bundle content WITHOUT
- * generatedAt, so it is reproducible. CI rebuilds and fails if
- * --write-channel would change channel.json (i.e. the committed hash must
- * always match a fresh build).
+ * Bundles are published as GitHub Release assets; dist/ is git-ignored.
  */
 import { readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs';
 import { createHash } from 'node:crypto';
@@ -43,26 +38,33 @@ for (const [dir, items] of [['exercises', exercises], ['programs', programs]]) {
   });
 }
 
-// Canonical content for hashing: EXCLUDES generatedAt so the hash is
-// reproducible (same input -> same hash, regardless of build time).
-// Verification contract (app + CI): parse the bundle, delete `generatedAt`,
-// JSON.stringify the remainder with these exact keys in this order
-// (bundleVersion, schemaVersion, exercises, programs), sha256 the bytes,
-// compare to channel.json sha256.
-const content = {
+const bundle = {
   bundleVersion: version,
   schemaVersion,
+  generatedAt: new Date().toISOString(),
   exercises,
   programs,
 };
-const canonical = JSON.stringify(content);
-const sha256 = createHash('sha256').update(canonical).digest('hex');
-
-const bundle = { ...content, generatedAt: new Date().toISOString() };
 
 mkdirSync(join(root, 'dist'), { recursive: true });
 const outPath = join(root, 'dist', `kb-bundle-${version}.json`);
-writeFileSync(outPath, JSON.stringify(bundle));
+const json = JSON.stringify(bundle);
+writeFileSync(outPath, json);
+
+const sha256 = createHash('sha256')
+  .update(
+    // Canonical form: generatedAt is EXCLUDED from the hash contract.
+    // The app verifies with canonicalBundleJson() (src/kb/bundle.ts), which
+    // covers exactly these four fields. Hashing the raw file (with
+    // generatedAt) made every channel sha fail verification on fetch.
+    JSON.stringify({
+      bundleVersion: bundle.bundleVersion,
+      schemaVersion: bundle.schemaVersion,
+      exercises: bundle.exercises,
+      programs: bundle.programs,
+    }),
+  )
+  .digest('hex');
 writeFileSync(`${outPath}.sha256`, `${sha256}  kb-bundle-${version}.json\n`);
 
 console.log(
