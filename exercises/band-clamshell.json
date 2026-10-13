@@ -1,0 +1,46 @@
+{
+  "id": "band-clamshell",
+  "schemaVersion": 1,
+  "name": "Band Clamshell",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Abductors"
+    ]
+  },
+  "equipment": [
+    "Other"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "squat",
+  "instructions": [
+    "Lie on your side with a mini band above your knees, hips stacked, knees bent about 45 degrees.",
+    "Keep your feet together and rotate the top knee open against the band.",
+    "Pause at the top without rolling the hips backward.",
+    "Lower slowly with control. Complete all reps, then switch sides."
+  ],
+  "cues": [
+    "Knees track over toes",
+    "Chest tall, brace the core",
+    "Drive through the whole foot"
+  ],
+  "longevityNotes": "Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.",
+  "overview": "Band Clamshell is a beginner lower-body exercise that builds the glutes, usually performed with minimal equipment. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.",
+  "image": "assets/exercises/band-clamshell.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "assisted-dip",
+  "schemaVersion": 1,
+  "name": "Assisted Dip",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Triceps"
+    ],
+    "secondary": [
+      "Chest",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Machine"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "push",
+  "instructions": [
+    "Set up at the assisted dip machine or loop a band over the dip bars.",
+    "Kneel on the platform or place your feet in the band, gripping the bars.",
+    "Lower your body until shoulders are below elbows.",
+    "Press back up to straight arms. Reduce assistance as you get stronger."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "A beginner machine press-pattern exercise targeting the triceps. Assisted Dip builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.",
+  "image": "assets/exercises/assisted-dip.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Vertical Push"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "barbell-walking-lunge",
+  "schemaVersion": 1,
+  "name": "Barbell Walking Lunge",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Calves",
+      "Glutes",
+      "Hamstrings"
+    ]
+  },
+  "equipment": [
+    "Barbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "lunge",
+  "instructions": [
+    "Begin standing with your feet shoulder width apart and a barbell across your upper back.",
+    "Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.",
+    "Drive through the heel of your lead foot and extend both knees to raise yourself back up.",
+    "Step forward with your rear foot, repeating the lunge on the opposite leg."
+  ],
+  "cues": [
+    "Torso tall over hips",
+    "Front knee over ankle",
+    "Push through the front heel"
+  ],
+  "longevityNotes": "Single-leg strength is balance insurance \u2014 the ability to catch yourself on one leg prevents falls. Train lunges for control, not maximal load.",
+  "overview": "Barbell Walking Lunge is a beginner single-leg exercise for the quadriceps, performed with a barbell. Training one leg at a time builds balance and evens out side-to-side differences.",
+  "image": "assets/exercises/barbell-walking-lunge.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Lunge"
+}

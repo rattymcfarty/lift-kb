@@ -1,0 +1,46 @@
+{
+  "id": "barbell-shrug",
+  "schemaVersion": 1,
+  "name": "Barbell Shrug",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Upper Back"
+    ],
+    "secondary": [
+      "Forearms"
+    ]
+  },
+  "equipment": [
+    "Barbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "pull",
+  "instructions": [
+    "Stand tall holding a barbell at arm's length, grip just outside the hips.",
+    "Shrug your shoulders straight up toward your ears \u2014 don't roll them.",
+    "Squeeze hard at the top for a full second.",
+    "Lower slowly to a dead hang. A power-shrug variant may use slight leg drive; keep the back flat."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "Barbell Shrug is a beginner pulling exercise for the upper back, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.",
+  "image": "assets/exercises/barbell-shrug.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

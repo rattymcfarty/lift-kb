@@ -1,0 +1,46 @@
+{
+  "id": "band-hip-abduction",
+  "schemaVersion": 1,
+  "name": "Band Hip Abduction",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abductors"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Other"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "squat",
+  "instructions": [
+    "Place a mini band just above your knees and stand with feet hip-width apart, knees slightly bent.",
+    "Keeping your torso still, press one knee outward against the band.",
+    "Pause briefly at full abduction.",
+    "Return slowly without letting the knees collapse inward. Complete all reps, then switch sides."
+  ],
+  "cues": [
+    "Knees track over toes",
+    "Chest tall, brace the core",
+    "Drive through the whole foot"
+  ],
+  "longevityNotes": "Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.",
+  "overview": "A beginner minimal-equipment squat-pattern exercise for the abductors. Band Hip Abduction develops leg strength through a full range of motion, which carries straight into daily life.",
+  "image": "assets/exercises/band-hip-abduction.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}
