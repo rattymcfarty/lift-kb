@@ -1,0 +1,47 @@
+{
+  "id": "gorilla-row-kb",
+  "schemaVersion": 1,
+  "name": "Kettlebell Gorilla Row",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Lats"
+    ],
+    "secondary": [
+      "Upper Back",
+      "Biceps"
+    ]
+  },
+  "equipment": [
+    "Kettlebell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "pull",
+  "instructions": [
+    "Hinge over two kettlebells on the floor, gripping both.",
+    "Row one kettlebell to your hip while the other stays grounded.",
+    "Alternate sides without rotating the torso.",
+    "Keep the back flat and core braced. An anti-rotation row variation."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "An intermediate kettlebell pull-pattern exercise for the lats. Kettlebell Gorilla Row strengthens the back of the upper body, which pays off in posture and shoulder health.",
+  "image": "assets/exercises/gorilla-row-kb.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Horizontal Pull"
+}

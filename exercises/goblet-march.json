@@ -1,0 +1,47 @@
+{
+  "id": "goblet-march",
+  "schemaVersion": 1,
+  "name": "Goblet March",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes",
+      "Abs"
+    ]
+  },
+  "equipment": [
+    "Kettlebell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "Hold a kettlebell or dumbbell at your chest in the goblet position.",
+    "Stand tall and march in place, driving each knee to hip height.",
+    "Brace the core and keep the torso vertical \u2014 don't lean back.",
+    "Continue for time or steps. Builds hip flexor strength and marching coordination."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "A beginner a kettlebell core exercise for the quadriceps. Goblet March builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/goblet-march.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Carry"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "hardstyle-plank",
+  "schemaVersion": 1,
+  "name": "Hardstyle Plank",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "core",
+  "instructions": [
+    "Set up in a forearm plank, elbows under shoulders.",
+    "Actively pull your elbows toward your toes and your toes toward your elbows to create full-body tension.",
+    "Squeeze the glutes hard and brace the abs as if for a punch.",
+    "Breathe shallowly behind the brace and hold 10-20 seconds \u2014 tension matters more than duration."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "An intermediate just your bodyweight core exercise for the abs. Hardstyle Plank builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/hardstyle-plank.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

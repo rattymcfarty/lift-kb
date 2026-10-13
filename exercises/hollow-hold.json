@@ -1,0 +1,44 @@
+{
+  "id": "hollow-hold",
+  "schemaVersion": 1,
+  "name": "Hollow Hold",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "Lie on your back, arms extended overhead, legs straight.",
+    "Press your lower back firmly into the floor \u2014 no gap.",
+    "Lift shoulders and legs slightly off the ground into a shallow banana shape.",
+    "Keep ribs down and hold 15-30 seconds; bend the knees if the back starts to arch."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "A beginner just your bodyweight core exercise for the abs. Hollow Hold builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/hollow-hold.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

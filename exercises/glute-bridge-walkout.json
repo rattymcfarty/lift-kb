@@ -1,0 +1,47 @@
+{
+  "id": "glute-bridge-walkout",
+  "schemaVersion": 1,
+  "name": "Glute Bridge Walkout",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Hamstrings",
+      "Calves"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Start in a glute bridge with hips fully extended.",
+    "Keeping the hips lifted, take small steps outward with alternating feet.",
+    "Walk out as far as you can while keeping the hips level \u2014 no sagging.",
+    "Walk the feet back in. The further you walk, the harder the hamstrings work."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An intermediate bodyweight hinge-pattern exercise for the glutes. Glute Bridge Walkout builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/glute-bridge-walkout.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

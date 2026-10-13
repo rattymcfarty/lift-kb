@@ -1,0 +1,46 @@
+{
+  "id": "glute-bridge-bw",
+  "schemaVersion": 1,
+  "name": "Glute Bridge (Bodyweight)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Hamstrings"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Lie on your back with knees bent, feet flat on the floor hip-width apart.",
+    "Drive through your heels to lift your hips until knees, hips, and shoulders form a line.",
+    "Squeeze the glutes hard at the top for 1-2 seconds.",
+    "Lower with control. Keep the ribs down \u2014 don't overarch the lower back."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "A beginner bodyweight hinge-pattern exercise for the glutes. Glute Bridge (Bodyweight) builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/glute-bridge-bw.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

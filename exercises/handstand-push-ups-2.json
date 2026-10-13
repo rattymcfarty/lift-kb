@@ -1,0 +1,49 @@
+{
+  "id": "handstand-push-ups-2",
+  "schemaVersion": 1,
+  "name": "Handstand Push-Ups",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Front Delts"
+    ],
+    "secondary": [
+      "Triceps"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "push",
+  "instructions": [
+    "With your back to the wall bend at the waist and place both hands on the floor at shoulder width.",
+    "Kick yourself up against the wall with your arms straight. Your body should be upside down with the arms and legs fully extended. Keep your whole body as straight as possible. Tip: If doing this for the first time, have a spotter help you. Also, make sure that you keep facing the wall with your head, rather than looking down.",
+    "Slowly lower yourself to the ground as you inhale until your head almost touches the floor. Tip: It is of utmost importance that you come down slow in order to avoid head injury.",
+    "Push yourself back up slowly as you exhale until your elbows are nearly locked.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Handstand Push-Ups is an advanced pushing exercise for the front delts, performed with just your bodyweight. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/handstand-push-ups-2.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Horizontal Push"
+}
