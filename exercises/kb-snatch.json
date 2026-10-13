@@ -1,0 +1,47 @@
+{
+  "id": "kb-snatch",
+  "schemaVersion": 1,
+  "name": "Snatch (Kettlebell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Full-Body"
+    ],
+    "secondary": [
+      "Quadriceps",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Kettlebell"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Swing a kettlebell between your legs, then explosively extend the hips.",
+    "Punch your hand through as the bell travels overhead in one motion.",
+    "Catch it locked out with a straight arm \u2014 don't bang the wrist.",
+    "Lower to the swing and repeat. A full-body power developer."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An advanced kettlebell hinge-pattern exercise for the full-body. Snatch (Kettlebell) builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/kb-snatch.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Olympic"
+}

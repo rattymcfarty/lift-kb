@@ -1,0 +1,49 @@
+{
+  "id": "iron-cross",
+  "schemaVersion": 1,
+  "name": "Iron Cross",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Front Delts"
+    ],
+    "secondary": [
+      "Chest",
+      "Glutes",
+      "Hamstrings",
+      "Lower Back"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "push",
+  "instructions": [
+    "Perform the movement with control through a full range of motion.",
+    "Repeat for the prescribed number of reps, resting as needed between sets."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Iron Cross is an intermediate pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/iron-cross.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

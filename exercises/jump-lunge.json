@@ -1,0 +1,47 @@
+{
+  "id": "jump-lunge",
+  "schemaVersion": 1,
+  "name": "Jump Lunge",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes",
+      "Calves"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "lunge",
+  "instructions": [
+    "Start in a lunge with the front knee at 90 degrees.",
+    "Explode upward, switching legs mid-air.",
+    "Land softly in the opposite lunge, absorbing through both legs.",
+    "Keep the torso tall and alternate continuously for reps or time."
+  ],
+  "cues": [
+    "Torso tall over hips",
+    "Front knee over ankle",
+    "Push through the front heel"
+  ],
+  "longevityNotes": "Single-leg strength is balance insurance \u2014 the ability to catch yourself on one leg prevents falls. Train lunges for control, not maximal load.",
+  "overview": "Jump Lunge is an intermediate single-leg exercise for the quadriceps, performed with just your bodyweight. Training one leg at a time builds balance and evens out side-to-side differences.",
+  "image": "assets/exercises/jump-lunge.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Lunge"
+}
