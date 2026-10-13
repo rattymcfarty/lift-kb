@@ -1,0 +1,44 @@
+{
+  "id": "dumbbell-wrist-extension",
+  "schemaVersion": 1,
+  "name": "Dumbbell Wrist Extension",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Forearms"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "pull",
+  "instructions": [
+    "Rest your forearm on a bench or thigh, wrist hanging off the edge, palm down, holding a light dumbbell.",
+    "Extend the wrist upward, lifting the dumbbell.",
+    "Pause briefly at the top, then lower slowly.",
+    "Keep the forearm still \u2014 only the wrist moves. Use light weight and higher reps."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "A beginner dumbbell pull-pattern exercise for the forearms. Dumbbell Wrist Extension strengthens the back of the upper body, which pays off in posture and shoulder health.",
+  "image": "assets/exercises/dumbbell-wrist-extension.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

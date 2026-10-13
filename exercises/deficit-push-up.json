@@ -1,0 +1,47 @@
+{
+  "id": "deficit-push-up",
+  "schemaVersion": 1,
+  "name": "Deficit Push-Up",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Chest"
+    ],
+    "secondary": [
+      "Triceps",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "push",
+  "instructions": [
+    "Place your hands on two low platforms or dumbbells, slightly wider than shoulders.",
+    "Assume a plank position with a straight line from head to heels.",
+    "Lower your chest below hand level, getting a deep stretch.",
+    "Press back up to full arm extension. The deficit increases range of motion."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Deficit Push-Up is an intermediate pushing exercise for the chest, performed with just your bodyweight. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/deficit-push-up.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Horizontal Push"
+}
