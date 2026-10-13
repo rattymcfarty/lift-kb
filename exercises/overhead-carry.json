@@ -1,0 +1,47 @@
+{
+  "id": "overhead-carry",
+  "schemaVersion": 1,
+  "name": "Overhead Carry",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Front Delts"
+    ],
+    "secondary": [
+      "Abs",
+      "Middle Delts"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "carry",
+  "instructions": [
+    "Press dumbbells overhead, locking the elbows with active, shrugged-up shoulders.",
+    "Brace your core hard \u2014 ribs down, no leaning to either side.",
+    "Walk slowly with short, controlled steps, weights stacked over your shoulders.",
+    "Set the weights down safely when the distance or time is complete."
+  ],
+  "cues": [
+    "Tall posture, ribs down",
+    "Grip hard, breathe behind the brace",
+    "Short, quick steps"
+  ],
+  "longevityNotes": "Grip strength and loaded walking correlate strongly with longevity. Carries are simple, safe, and brutally effective \u2014 do them often.",
+  "overview": "An intermediate loaded carry with dumbbells for the front delts. Overhead Carry builds the grip, core, and postural strength used every time you haul groceries or luggage.",
+  "image": "assets/exercises/overhead-carry.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Carry"
+}

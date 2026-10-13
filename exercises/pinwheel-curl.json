@@ -1,0 +1,46 @@
+{
+  "id": "pinwheel-curl",
+  "schemaVersion": 1,
+  "name": "Pinwheel Curl",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Biceps"
+    ],
+    "secondary": [
+      "Forearms"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "pull",
+  "instructions": [
+    "Hold dumbbells with a neutral (hammer) grip at your sides.",
+    "Curl one dumbbell across your body toward the opposite shoulder.",
+    "Alternate arms in a continuous pinwheel motion.",
+    "Keep the elbows pinned to your sides. Hits the brachialis and forearms."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "A beginner dumbbell pull-pattern exercise for the biceps. Pinwheel Curl strengthens the back of the upper body, which pays off in posture and shoulder health.",
+  "image": "assets/exercises/pinwheel-curl.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

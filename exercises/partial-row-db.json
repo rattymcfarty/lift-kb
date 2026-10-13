@@ -1,0 +1,46 @@
+{
+  "id": "partial-row-db",
+  "schemaVersion": 1,
+  "name": "Partial Row (Dumbbell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Lats"
+    ],
+    "secondary": [
+      "Upper Back"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "pull",
+  "instructions": [
+    "Hinge forward holding dumbbells, arms hanging.",
+    "Row the weights through the top half of the range only \u2014 from mid-shin to hip.",
+    "Keep constant tension; don't rest at the bottom.",
+    "Squeeze the back at the top of each partial rep. Overloads the contracted position."
+  ],
+  "cues": [
+    "Chest up, shoulders down",
+    "Pull the elbows to the ribs",
+    "Squeeze at the top"
+  ],
+  "longevityNotes": "Pull twice as much as you push and your posture will age well. Rowing and pull-up strength are among the best predictors of a capable, pain-free upper body later in life.",
+  "overview": "Partial Row (Dumbbell) is an intermediate pulling exercise for the lats, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.",
+  "image": "assets/exercises/partial-row-db.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Horizontal Pull"
+}

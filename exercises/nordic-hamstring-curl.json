@@ -1,0 +1,46 @@
+{
+  "id": "nordic-hamstring-curl",
+  "schemaVersion": 1,
+  "name": "Nordic Hamstring Curl",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Kneel with your feet firmly anchored (partner, bench, or foot hooks).",
+    "Keep your body in a straight line from knees to head \u2014 hips extended.",
+    "Lower yourself slowly toward the floor, resisting with the hamstrings.",
+    "Go as far as you can control, catch yourself with your hands, and push back up."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An advanced bodyweight hinge-pattern exercise for the hamstrings. Nordic Hamstring Curl builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/nordic-hamstring-curl.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pistol-squat",
+  "schemaVersion": 1,
+  "name": "Pistol Squat",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "squat",
+  "instructions": [
+    "Stand on one leg with the other extended forward.",
+    "Squat down on the standing leg, keeping the free leg off the floor.",
+    "Descend until your hip is below your knee, torso upright.",
+    "Drive through the heel to stand. The king of bodyweight single-leg strength."
+  ],
+  "cues": [
+    "Knees track over toes",
+    "Chest tall, brace the core",
+    "Drive through the whole foot"
+  ],
+  "longevityNotes": "Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.",
+  "overview": "Pistol Squat is an advanced lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.",
+  "image": "assets/exercises/pistol-squat.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Squat"
+}

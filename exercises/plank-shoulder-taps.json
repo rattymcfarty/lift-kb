@@ -1,0 +1,46 @@
+{
+  "id": "plank-shoulder-taps",
+  "schemaVersion": 1,
+  "name": "Plank with Shoulder Taps",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": [
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "core",
+  "instructions": [
+    "Start in a high plank, hands under shoulders, feet slightly wider than usual.",
+    "Brace hard and, without rotating the hips, tap your left shoulder with your right hand.",
+    "Return, then tap the right shoulder with the left hand.",
+    "Keep the hips dead still and alternate for reps or time."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "An intermediate just your bodyweight core exercise for the abs. Plank with Shoulder Taps builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/plank-shoulder-taps.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pigeon-stretch-thoracic-rotation",
+  "schemaVersion": 1,
+  "name": "Pigeon Stretch with Thoracic Rotation",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Upper Back"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "mobility",
+  "instructions": [
+    "From a lunge, lower your front shin to the floor for pigeon pose, back leg extended.",
+    "Square your hips as best you can.",
+    "Place the hand opposite the front leg down and open the other arm to the ceiling, rotating the mid-back.",
+    "Follow your hand with your eyes and hold 30 seconds per side."
+  ],
+  "cues": [
+    "Move slowly, no forcing",
+    "Breathe into the stretch",
+    "Stay relaxed outside the target area"
+  ],
+  "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent \u2014 reaching, bending, and getting up from the floor.",
+  "overview": "A beginner just your bodyweight mobility drill targeting the glutes. Pigeon Stretch with Thoracic Rotation restores range of motion that desk life and hard training both tend to steal.",
+  "image": "assets/exercises/pigeon-stretch-thoracic-rotation.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Mobility"
+}
