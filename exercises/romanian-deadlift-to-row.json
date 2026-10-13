@@ -1,0 +1,48 @@
+{
+  "id": "romanian-deadlift-to-row",
+  "schemaVersion": 1,
+  "name": "Romanian Deadlift to Row",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Glutes",
+      "Lats",
+      "Upper Back"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Hold dumbbells at your sides and hinge at the hips until you feel the hamstrings load.",
+    "At the bottom of the hinge, row both dumbbells to your ribs.",
+    "Lower the weights back to the hang, then drive the hips forward to stand.",
+    "Each rep is one hinge plus one row \u2014 keep the back flat throughout."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An intermediate dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift to Row builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/romanian-deadlift-to-row.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

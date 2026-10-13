@@ -1,0 +1,49 @@
+{
+  "id": "pushups",
+  "schemaVersion": 1,
+  "name": "Pushups",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Chest"
+    ],
+    "secondary": [
+      "Front Delts",
+      "Triceps"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "push",
+  "instructions": [
+    "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
+    "Next, lower yourself downward until your chest almost touches the floor as you inhale.",
+    "Now breathe out and press your upper body back up to the starting position while squeezing your chest.",
+    "After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed."
+  ],
+  "cues": [
+    "Ribs down, glutes tight",
+    "Control the lowering",
+    "Press without flaring the elbows"
+  ],
+  "longevityNotes": "Pressing keeps shoulders useful, but joint-friendly volume beats grinding maxes. Full range, controlled tempo, and balanced pulling keep the shoulders healthy for decades.",
+  "overview": "Pushups is a beginner pushing exercise for the chest, performed with just your bodyweight. Pressing strength keeps daily pushing tasks \u2014 and your shoulders \u2014 working well for decades.",
+  "image": "assets/exercises/pushups.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Free Exercise DB (public domain)",
+      "publisher": "yuhonas",
+      "url": "https://github.com/yuhonas/free-exercise-db"
+    }
+  ],
+  "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Horizontal Push"
+}

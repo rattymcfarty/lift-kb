@@ -1,0 +1,44 @@
+{
+  "id": "reverse-nordic-curl",
+  "schemaVersion": 1,
+  "name": "Reverse Nordic Curl",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "core",
+  "instructions": [
+    "Kneel on a pad with a partner holding your ankles or feet hooked under something sturdy.",
+    "Keeping a straight line from knees to head, lean back as far as you can control.",
+    "Use the quads to brake the descent \u2014 don't just fall.",
+    "Pull yourself back up. An intense bodyweight quad builder."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "Reverse Nordic Curl is an advanced core exercise targeting the quadriceps, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.",
+  "image": "assets/exercises/reverse-nordic-curl.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Other"
+}

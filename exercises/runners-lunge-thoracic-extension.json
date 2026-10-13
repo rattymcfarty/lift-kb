@@ -1,0 +1,46 @@
+{
+  "id": "runners-lunge-thoracic-extension",
+  "schemaVersion": 1,
+  "name": "Runner's Lunge with Thoracic Extension",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Quadriceps"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "mobility",
+  "instructions": [
+    "Step into a deep runner's lunge, back knee resting on the floor.",
+    "Place both hands on the front thigh.",
+    "Lift the chest and gently arch the mid-back, looking slightly upward.",
+    "Feel the hip-flexor stretch and hold 20-30 seconds per side, breathing deeply."
+  ],
+  "cues": [
+    "Move slowly, no forcing",
+    "Breathe into the stretch",
+    "Stay relaxed outside the target area"
+  ],
+  "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent \u2014 reaching, bending, and getting up from the floor.",
+  "overview": "A beginner just your bodyweight mobility drill targeting the glutes. Runner's Lunge with Thoracic Extension restores range of motion that desk life and hard training both tend to steal.",
+  "image": "assets/exercises/runners-lunge-thoracic-extension.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Mobility"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "roman-chair-sit-up",
+  "schemaVersion": 1,
+  "name": "Roman Chair Sit-Up",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Machine"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "core",
+  "instructions": [
+    "Hook your feet under the pads of a roman chair and cross your arms at your chest.",
+    "Lower your torso back until roughly parallel to the floor \u2014 only as far as you control.",
+    "Sit up by contracting the abs; avoid yanking with the hip flexors.",
+    "Keep it controlled; add load only when bodyweight is easy."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "An intermediate a machine core exercise for the abs. Roman Chair Sit-Up builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/roman-chair-sit-up.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}
