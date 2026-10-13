@@ -1,0 +1,48 @@
+{
+  "id": "broad-jump",
+  "schemaVersion": 1,
+  "name": "Broad Jump",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes",
+      "Hamstrings",
+      "Calves"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Stand with feet shoulder-width apart, arms at your sides.",
+    "Dip into a quarter squat, swinging your arms back.",
+    "Explode forward, swinging arms overhead and jumping for maximum horizontal distance.",
+    "Land softly on both feet with bent knees. Reset and repeat. Measures explosive power."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "An intermediate bodyweight hinge-pattern exercise for the quadriceps. Broad Jump builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/broad-jump.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Cardio"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "db-romanian-deadlift",
+  "schemaVersion": 1,
+  "name": "Romanian Deadlift (Dumbbell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Stand holding dumbbells at your thighs, feet hip-width apart.",
+    "Push the hips back, lowering the dumbbells along your legs.",
+    "Descend until you feel a strong hamstring stretch, back flat.",
+    "Drive the hips forward to stand. The dumbbells allow a natural path."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "A beginner dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift (Dumbbell) builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/db-romanian-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

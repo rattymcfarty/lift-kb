@@ -1,0 +1,47 @@
+{
+  "id": "db-sumo-deadlift",
+  "schemaVersion": 1,
+  "name": "Sumo Deadlift (Dumbbell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes"
+    ],
+    "secondary": [
+      "Quadriceps",
+      "Adductors"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Stand with feet wide, toes out, holding a dumbbell between your legs.",
+    "Squat down gripping the dumbbell, back flat and chest up.",
+    "Drive through the heels, extending the hips to stand.",
+    "The wide stance shortens the range and emphasizes the glutes and quads."
+  ],
+  "cues": [
+    "Hips back, spine long",
+    "Feel the hamstrings load",
+    "Squeeze glutes to finish"
+  ],
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "overview": "A beginner dumbbell hinge-pattern exercise for the glutes. Sumo Deadlift (Dumbbell) builds posterior-chain strength that protects your back in everyday lifting.",
+  "image": "assets/exercises/db-sumo-deadlift.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Hinge"
+}

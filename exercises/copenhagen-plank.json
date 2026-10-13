@@ -1,0 +1,47 @@
+{
+  "id": "copenhagen-plank",
+  "schemaVersion": 1,
+  "name": "Copenhagen Plank",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Adductors"
+    ],
+    "secondary": [
+      "Abs",
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "core",
+  "instructions": [
+    "Lie on your side with your top foot resting on a bench, bottom leg under it.",
+    "Plant your forearm on the floor and lift your hips into a side plank.",
+    "Hold a straight line from head to heels, squeezing the top inner thigh down into the bench.",
+    "Hold for time, then switch sides. An elite adductor and lateral-core strengthener."
+  ],
+  "cues": [
+    "Breathe behind the brace",
+    "No sagging or hiking",
+    "Slow and controlled"
+  ],
+  "longevityNotes": "A stable trunk protects the spine through every decade. Train the core for endurance and control rather than chasing burn.",
+  "overview": "An advanced just your bodyweight core exercise for the adductors. Copenhagen Plank builds the trunk stability that underpins safe movement as you age.",
+  "image": "assets/exercises/copenhagen-plank.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-12",
+  "category": "Core"
+}
