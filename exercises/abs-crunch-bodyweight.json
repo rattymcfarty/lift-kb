@@ -1,0 +1,43 @@
+{
+  "id": "abs-crunch-bodyweight",
+  "schemaVersion": 1,
+  "name": "Abs Crunch (Bodyweight)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "Set up for the Abs Crunch (Bodyweight) with just your bodyweight. Get into position with your core braced.",
+    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
+    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+  ],
+  "cues": [
+    "Breathe steadily",
+    "Ribs down",
+    "Move slowly, no forcing"
+  ],
+  "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
+  "overview": "Abs Crunch (Bodyweight) is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "image": "assets/exercises/abs-crunch-bodyweight.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Core"
+}

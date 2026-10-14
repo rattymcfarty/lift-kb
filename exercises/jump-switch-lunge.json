@@ -1,0 +1,46 @@
+{
+  "id": "jump-switch-lunge",
+  "schemaVersion": 1,
+  "name": "Jump Switch Lunge",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps",
+      "Hamstrings"
+    ],
+    "secondary": [
+      "Calves"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "cardio",
+  "instructions": [
+    "Set up for the Jump Switch Lunge with just your bodyweight. Start easy and find your rhythm.",
+    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
+    "Cool down gradually rather than stopping abruptly."
+  ],
+  "cues": [
+    "Steady rhythm",
+    "Breathe rhythmically",
+    "Stay relaxed"
+  ],
+  "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
+  "overview": "Jump Switch Lunge is a intermediate cardio exercise for the quadriceps and hamstrings, performed with just your bodyweight.",
+  "image": "assets/exercises/jump-switch-lunge.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Cardio"
+}

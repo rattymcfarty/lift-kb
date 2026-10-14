@@ -1,0 +1,46 @@
+{
+  "id": "sling-shot-bench-press-barbell",
+  "schemaVersion": 1,
+  "name": "Sling Shot Bench Press (Barbell)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Chest",
+      "Triceps"
+    ],
+    "secondary": [
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Barbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "push",
+  "instructions": [
+    "Set up for the Sling Shot Bench Press (Barbell) with a barbell. Get into a stable position with your core braced.",
+    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
+    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+  ],
+  "cues": [
+    "Brace your core",
+    "Keep wrists stacked",
+    "Control the lowering"
+  ],
+  "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
+  "overview": "Sling Shot Bench Press (Barbell) is a intermediate horizontal push exercise for the chest and triceps, performed with a barbell.",
+  "image": "assets/exercises/sling-shot-bench-press-barbell.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Horizontal Push"
+}

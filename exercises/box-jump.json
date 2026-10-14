@@ -1,0 +1,46 @@
+{
+  "id": "box-jump",
+  "schemaVersion": 1,
+  "name": "Box Jump",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Other",
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Glutes"
+    ]
+  },
+  "equipment": [
+    "Other"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "cardio",
+  "instructions": [
+    "Set up for the Box Jump with an implement. Start easy and find your rhythm.",
+    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
+    "Cool down gradually rather than stopping abruptly."
+  ],
+  "cues": [
+    "Steady rhythm",
+    "Breathe rhythmically",
+    "Stay relaxed"
+  ],
+  "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
+  "overview": "Box Jump is a intermediate cardio exercise for the other and quadriceps, performed with an implement.",
+  "image": "assets/exercises/box-jump.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Cardio"
+}

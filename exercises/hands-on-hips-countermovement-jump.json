@@ -1,0 +1,47 @@
+{
+  "id": "hands-on-hips-countermovement-jump",
+  "schemaVersion": 1,
+  "name": "Hands on Hips Countermovement Jump",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps",
+      "Calves"
+    ],
+    "secondary": [
+      "Glutes",
+      "Hamstrings"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "cardio",
+  "instructions": [
+    "Set up for the Hands on Hips Countermovement Jump with just your bodyweight. Start easy and find your rhythm.",
+    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
+    "Cool down gradually rather than stopping abruptly."
+  ],
+  "cues": [
+    "Steady rhythm",
+    "Breathe rhythmically",
+    "Stay relaxed"
+  ],
+  "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
+  "overview": "Hands on Hips Countermovement Jump is a intermediate cardio exercise for the quadriceps and calves, performed with just your bodyweight.",
+  "image": "assets/exercises/hands-on-hips-countermovement-jump.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Cardio"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "back-extension",
+  "schemaVersion": 1,
+  "name": "Back Extension",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Lower Back",
+      "Glutes"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Set up for the Back Extension with just your bodyweight. Stand tall with your core braced.",
+    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
+    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+  ],
+  "cues": [
+    "Hips back, flat back",
+    "Squeeze glutes at the top",
+    "Don't round your back"
+  ],
+  "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
+  "overview": "Back Extension is a intermediate other exercise for the lower back and glutes, performed with just your bodyweight.",
+  "image": "assets/exercises/back-extension.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Other"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "kettlebell-swing",
+  "schemaVersion": 1,
+  "name": "Kettlebell Swing",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "secondary": [
+      "Hamstrings",
+      "Front Delts"
+    ]
+  },
+  "equipment": [
+    "Kettlebell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "hinge",
+  "instructions": [
+    "Set up for the Kettlebell Swing with a kettlebell. Stand tall with your core braced.",
+    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
+    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+  ],
+  "cues": [
+    "Hips back, flat back",
+    "Squeeze glutes at the top",
+    "Don't round your back"
+  ],
+  "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
+  "overview": "Kettlebell Swing is a intermediate hinge exercise for the quadriceps and glutes, performed with a kettlebell.",
+  "image": "assets/exercises/kettlebell-swing.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Hinge"
+}

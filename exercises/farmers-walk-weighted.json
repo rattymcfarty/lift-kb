@@ -1,0 +1,44 @@
+{
+  "id": "farmers-walk-weighted",
+  "schemaVersion": 1,
+  "name": "Farmer's Walk (Weighted)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Forearms",
+      "Upper Back"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "carry",
+  "instructions": [
+    "Set up for the Farmer's Walk (Weighted) with dumbbells. Pick the weight up with a flat back and braced core.",
+    "Stand tall — ribs down, shoulders back — and walk with short, steady steps.",
+    "Keep your torso still and level; do not lean away from the load. Set the weight down with control."
+  ],
+  "cues": [
+    "Stand tall",
+    "Ribs down",
+    "Short steady steps"
+  ],
+  "longevityNotes": "Carrying is the most functional strength there is — groceries, luggage, a grandchild. Loaded carries build grip, posture, and core stability in one movement.",
+  "overview": "Farmer's Walk (Weighted) is a intermediate carry exercise for the forearms and upper back, performed with dumbbells.",
+  "image": "assets/exercises/farmers-walk-weighted.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Carry"
+}

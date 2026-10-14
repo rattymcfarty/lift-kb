@@ -1,0 +1,43 @@
+{
+  "id": "turkish-get-up",
+  "schemaVersion": 1,
+  "name": "Turkish Get Up",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Full-Body"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Kettlebell"
+  ],
+  "difficulty": "advanced",
+  "movementPattern": "lunge",
+  "instructions": [
+    "Set up for the Turkish Get Up with a kettlebell. Stand tall with your core braced.",
+    "Step into the lunge position and lower until both knees are bent, keeping your torso upright.",
+    "Drive through your front foot to return to the start, keeping your hips level."
+  ],
+  "cues": [
+    "Torso upright",
+    "Hips level",
+    "Drive through the front foot"
+  ],
+  "longevityNotes": "Single-leg strength and balance are what keep you steady on uneven ground and stairs. Lunge work trains the stability that prevents the falls that change lives.",
+  "overview": "Turkish Get Up is an advanced other exercise for the full-body, performed with a kettlebell.",
+  "image": "assets/exercises/turkish-get-up.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Other"
+}

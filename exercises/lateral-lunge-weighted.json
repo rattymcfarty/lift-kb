@@ -1,0 +1,47 @@
+{
+  "id": "lateral-lunge-weighted",
+  "schemaVersion": 1,
+  "name": "Lateral Lunge (Weighted)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "secondary": [
+      "Adductors",
+      "Hamstrings"
+    ]
+  },
+  "equipment": [
+    "Bodyweight"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "lunge",
+  "instructions": [
+    "Set up for the Lateral Lunge (Weighted) with just your bodyweight. Stand tall with your core braced.",
+    "Step into the lunge position and lower until both knees are bent, keeping your torso upright.",
+    "Drive through your front foot to return to the start, keeping your hips level."
+  ],
+  "cues": [
+    "Torso upright",
+    "Hips level",
+    "Drive through the front foot"
+  ],
+  "longevityNotes": "Single-leg strength and balance are what keep you steady on uneven ground and stairs. Lunge work trains the stability that prevents the falls that change lives.",
+  "overview": "Lateral Lunge (Weighted) is a intermediate lunge exercise for the quadriceps and glutes, performed with just your bodyweight.",
+  "image": "assets/exercises/lateral-lunge-weighted.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Lunge"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "leg-raise-captains-chair",
+  "schemaVersion": 1,
+  "name": "Leg Raise (Captain's Chair)",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Abs"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Machine"
+  ],
+  "difficulty": "beginner",
+  "movementPattern": "core",
+  "instructions": [
+    "Set up for the Leg Raise (Captain's Chair) with a machine. Get into position with your core braced.",
+    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
+    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+  ],
+  "cues": [
+    "Breathe steadily",
+    "Ribs down",
+    "Move slowly, no forcing"
+  ],
+  "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
+  "overview": "Leg Raise (Captain's Chair) is a beginner core exercise for the abs, performed with a machine.",
+  "image": "assets/exercises/leg-raise-captains-chair.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Core"
+}

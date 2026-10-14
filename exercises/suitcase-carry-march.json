@@ -1,0 +1,46 @@
+{
+  "id": "suitcase-carry-march",
+  "schemaVersion": 1,
+  "name": "Suitcase Carry March",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Glutes",
+      "Quadriceps"
+    ],
+    "secondary": [
+      "Adductors"
+    ]
+  },
+  "equipment": [
+    "Dumbbell"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "carry",
+  "instructions": [
+    "Set up for the Suitcase Carry March with dumbbells. Pick the weight up with a flat back and braced core.",
+    "Stand tall — ribs down, shoulders back — and walk with short, steady steps.",
+    "Keep your torso still and level; do not lean away from the load. Set the weight down with control."
+  ],
+  "cues": [
+    "Stand tall",
+    "Ribs down",
+    "Short steady steps"
+  ],
+  "longevityNotes": "Carrying is the most functional strength there is — groceries, luggage, a grandchild. Loaded carries build grip, posture, and core stability in one movement.",
+  "overview": "Suitcase Carry March is a intermediate carry exercise for the glutes and quadriceps, performed with dumbbells.",
+  "image": "assets/exercises/suitcase-carry-march.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Carry"
+}

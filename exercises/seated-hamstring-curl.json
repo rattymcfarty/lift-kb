@@ -1,0 +1,43 @@
+{
+  "id": "seated-hamstring-curl",
+  "schemaVersion": 1,
+  "name": "Seated Hamstring Curl",
+  "aliases": [],
+  "muscles": {
+    "primary": [
+      "Hamstrings"
+    ],
+    "secondary": []
+  },
+  "equipment": [
+    "Machine"
+  ],
+  "difficulty": "intermediate",
+  "movementPattern": "pull",
+  "instructions": [
+    "Set up for the Seated Hamstring Curl with a machine. Get into a stable position with your core braced.",
+    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
+    "Lower back to the start with control, letting your arms extend fully without losing tension."
+  ],
+  "cues": [
+    "Drive elbows back",
+    "Squeeze shoulder blades",
+    "Full range, no swinging"
+  ],
+  "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
+  "overview": "Seated Hamstring Curl is a intermediate other exercise for the hamstrings, performed with a machine.",
+  "image": "assets/exercises/seated-hamstring-curl.png",
+  "demoMedia": {
+    "images": [],
+    "video": null
+  },
+  "deprecated": false,
+  "sources": [
+    {
+      "title": "Original to the LIFT knowledge base"
+    }
+  ],
+  "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
+  "updatedAt": "2026-10-13",
+  "category": "Other"
+}
