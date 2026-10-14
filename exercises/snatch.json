@@ -15,7 +15,8 @@
     ]
   },
   "equipment": [
-    "Barbell"
+    "Barbell",
+    "Dumbbell"
   ],
   "difficulty": "intermediate",
   "movementPattern": "hinge",
@@ -33,7 +34,7 @@
     "Feel the hamstrings load",
     "Squeeze glutes to finish"
   ],
-  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly \u2014 the goal is a back that never complains about picking things up.",
+  "longevityNotes": "A strong hinge is back insurance. Learn it light, groove it often, and add load slowly — the goal is a back that never complains about picking things up.",
   "overview": "An intermediate barbell hinge-pattern exercise for the quadriceps. Snatch builds posterior-chain strength that protects your back in everyday lifting.",
   "image": "assets/exercises/snatch.png",
   "demoMedia": {
@@ -49,6 +50,6 @@
     }
   ],
   "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-14",
   "category": "Olympic"
 }

@@ -37,7 +37,7 @@
     "images": [],
     "video": null
   },
-  "deprecated": false,
+  "deprecated": true,
   "sources": [
     {
       "title": "Free Exercise DB (public domain)",
@@ -46,6 +46,7 @@
     }
   ],
   "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-12",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "replacedBy": "seated-cable-rows"
 }

@@ -12,7 +12,7 @@
     ]
   },
   "equipment": [
-    "Other"
+    "Cable"
   ],
   "difficulty": "intermediate",
   "movementPattern": "pull",
@@ -41,6 +41,6 @@
     }
   ],
   "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-14",
   "category": "Horizontal Pull"
 }

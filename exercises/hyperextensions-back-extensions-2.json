@@ -30,14 +30,14 @@
     "Breathe into the stretch",
     "Stay relaxed outside the target area"
   ],
-  "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent \u2014 reaching, bending, and getting up from the floor.",
+  "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
   "overview": "A beginner minimal equipment mobility drill targeting the lower back. Hyperextensions (Back Extensions) restores range of motion that desk life and hard training both tend to steal.",
   "image": "assets/exercises/hyperextensions-back-extensions-2.png",
   "demoMedia": {
     "images": [],
     "video": null
   },
-  "deprecated": false,
+  "deprecated": true,
   "sources": [
     {
       "title": "Free Exercise DB (public domain)",
@@ -46,6 +46,7 @@
     }
   ],
   "attribution": "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-12",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "replacedBy": "hyperextensions-back-extensions"
 }
