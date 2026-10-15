@@ -4,3 +4,13 @@ dist/
 # OS / editor
 .DS_Store
 Thumbs.db
+
+# secrets / local-only (never commit)
+secrets/
+*.enc
+*.jks
+*.keystore
+*.p12
+*.pem
+.env
+.env.*

@@ -1,0 +1,16 @@
+#!/bin/bash
+# Installed by scripts/install-hooks.sh (core.hooksPath). Blocks commits that
+# contain secrets/PII or that would be authored with a real personal email.
+set -e
+root="$(git rev-parse --show-toplevel)"
+
+email="$(git config user.email || true)"
+if [ "${LIFT_ALLOW_REAL_EMAIL:-0}" != "1" ] && ! echo "$email" | grep -qE '(users\.noreply\.github\.com|noreply@anthropic\.com)$'; then
+  echo "pre-commit: refusing to commit as '$email' — this repository is PUBLIC and the address would be"
+  echo "            published in the history forever. Use your GitHub noreply address:"
+  echo "              git config user.email <id>+<username>@users.noreply.github.com"
+  echo "            (or  <username>@users.noreply.github.com). Override once with LIFT_ALLOW_REAL_EMAIL=1."
+  exit 1
+fi
+
+bash "$root/scripts/secrets-scan.sh" --staged
