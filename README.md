@@ -49,6 +49,11 @@ channel.json   release channel descriptor (CI fills sha256)
 kb-version.json  current bundle version + schemaVersion
 ```
 
+## For AI agents / recovery
+
+See `CLAUDE.md` here and, in the app repo (`rattymcfarty/lift-app`), `CLAUDE.md`,
+`docs/ops/HANDOFF.md` and `docs/ops/RECOVERY.md`.
+
 ## Contributing
 
 1. Add/edit JSON under `exercises/` or `programs/`.
