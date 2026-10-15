@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Library Deadlift with a barbell. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Set the bar on blocks or in a rack at about knee height.",
+    "Stand with feet hip-width apart and grip the bar just outside your legs.",
+    "Hinge to position your shoulders over the bar with a flat back.",
+    "Drive through your feet and extend your hips and knees to stand.",
+    "Lower the bar back to the supports under control."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Flat back",
+    "Push the floor away",
+    "Squeeze the glutes"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Library Deadlift is a intermediate hinge exercise for the quadriceps and glutes, performed with a barbell.",
+  "overview": "A deadlift variant that uses a partial range with the bar lifted from an elevated start to focus on the upper portion of the pull.",
   "image": "assets/exercises/library-deadlift.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Hinge"
+  "updatedAt": "2026-10-14",
+  "category": "Hinge",
+  "commonMistakes": [
+    "Rounding the back",
+    "Jerking the bar",
+    "Overextending at the top"
+  ],
+  "safetyNotes": "Use a belt if needed and a load you can control; avoid with acute back pain."
 }

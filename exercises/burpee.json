@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Burpee with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand with feet shoulder-width apart.",
+    "Squat down and place your hands on the floor in front of you.",
+    "Jump or step your feet back into a high plank.",
+    "Lower your chest to the floor, then press back up (optional), and bring your feet back toward your hands.",
+    "Jump up explosively with arms overhead and repeat."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Keep a tight plank",
+    "Jump and land softly",
+    "Smooth rhythm"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Burpee is a intermediate cardio exercise for the other, performed with just your bodyweight.",
+  "overview": "A full-body conditioning move that combines a squat, plank and jump into one fluid rep.",
   "image": "assets/exercises/burpee.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Letting the hips sag in the plank",
+    "Landing hard on stiff legs",
+    "Rushing until form breaks"
+  ],
+  "safetyNotes": "Step instead of jump if your wrists, knees or back need a lower-impact option."
 }

@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Jump Rope with an implement. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Hold the rope handles at hip height with elbows close to your body.",
+    "Swing the rope using your wrists, not your arms.",
+    "Jump just high enough to clear the rope.",
+    "Land softly on the balls of your feet.",
+    "Keep a steady rhythm."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Small jumps",
+    "Turn with the wrists",
+    "Soft landings"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Jump Rope is a beginner cardio exercise for the other, performed with an implement.",
+  "overview": "A skill-based cardio exercise using a rope to improve coordination and conditioning.",
   "image": "assets/exercises/jump-rope.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Jumping too high",
+    "Using the whole arm to turn the rope",
+    "Landing flat-footed"
+  ],
+  "safetyNotes": "Use a firm surface; skip if you have Achilles or shin problems."
 }

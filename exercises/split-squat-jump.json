@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Split Squat Jump with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Start in a split squat position.",
+    "Jump up explosively.",
+    "Switch legs mid-air.",
+    "Land softly in a split squat.",
+    "Repeat."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Land soft",
+    "Chest tall",
+    "Drive up"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Split Squat Jump is a intermediate cardio exercise for the quadriceps and glutes, performed with just your bodyweight.",
+  "overview": "A plyometric split squat that jumps and switches legs mid-air.",
   "image": "assets/exercises/split-squat-jump.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Landing stiff",
+    "Knee caving",
+    "Leaning forward"
+  ],
+  "safetyNotes": "Skip with knee pain."
 }

@@ -15,17 +15,19 @@
   "difficulty": "advanced",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Dragon Flag with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Lie on a bench and grip the bench behind your head with both hands.",
+    "Lift your body into a straight line with only your upper back on the bench.",
+    "Keep your body rigid and slowly lower it toward the bench without bending at the hips.",
+    "Stop before your lower back arches.",
+    "Raise back up by squeezing your abs."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Rigid body",
+    "Slow lowering",
+    "Abs braced"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Dragon Flag is an advanced core exercise for the abs, performed with just your bodyweight.",
+  "overview": "An advanced core exercise where you lower your straight body from a bench using your abs, hips and upper back.",
   "image": "assets/exercises/dragon-flag.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Bending at the hips",
+    "Arching the lower back",
+    "Dropping quickly"
+  ],
+  "safetyNotes": "Advanced exercise; use bent-knee versions first. Avoid if you have neck or lower-back problems."
 }

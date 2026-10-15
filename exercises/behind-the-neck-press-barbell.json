@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Behind-the-Neck Press (Barbell) with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Sit or stand with a barbell resting on your upper back and hold it with a wide overhand grip.",
+    "Brace your core and keep your head slightly forward of the bar path.",
+    "Press the bar straight up until your arms are fully extended overhead.",
+    "Lower the bar slowly to about ear level, no lower.",
+    "Re-rack the bar carefully when finished."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Stop at ear level",
+    "Ribs down",
+    "Slow, controlled path"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Behind-the-Neck Press (Barbell) is a intermediate vertical push exercise for the front delts and triceps, performed with a barbell.",
+  "overview": "A barbell overhead press with the bar lowered behind the head. It targets the shoulders and triceps but demands excellent shoulder mobility.",
   "image": "assets/exercises/behind-the-neck-press-barbell.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Lowering the bar to the neck or shoulders",
+    "Arching the lower back",
+    "Using a weight that forces a push from the legs"
+  ],
+  "safetyNotes": "This lift stresses the shoulders and is not for everyone; use a light load, a spotter, and skip it if you have shoulder impingement."
 }

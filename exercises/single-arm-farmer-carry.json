@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "carry",
   "instructions": [
-    "Set up for the Single Arm Farmer Carry with dumbbells. Pick the weight up with a flat back and braced core.",
-    "Stand tall — ribs down, shoulders back — and walk with short, steady steps.",
-    "Keep your torso still and level; do not lean away from the load. Set the weight down with control."
+    "Pick up a dumbbell in one hand with a hinge.",
+    "Stand tall with your shoulders level.",
+    "Walk with short steps without leaning toward the weight.",
+    "Keep your core braced.",
+    "Switch sides."
   ],
   "cues": [
     "Stand tall",
-    "Ribs down",
-    "Short steady steps"
+    "Shoulders level",
+    "Short steps"
   ],
   "longevityNotes": "Carrying is the most functional strength there is — groceries, luggage, a grandchild. Loaded carries build grip, posture, and core stability in one movement.",
-  "overview": "Single Arm Farmer Carry is a intermediate carry exercise for the abs and upper back, performed with dumbbells.",
+  "overview": "A single-arm loaded carry that trains grip and the core's anti-lean strength.",
   "image": "assets/exercises/single-arm-farmer-carry.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Carry"
+  "updatedAt": "2026-10-14",
+  "category": "Carry",
+  "commonMistakes": [
+    "Leaning",
+    "Hiking the shoulder",
+    "Dropping the weight"
+  ],
+  "safetyNotes": "Use a weight you can carry upright."
 }

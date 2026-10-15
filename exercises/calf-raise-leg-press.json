@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "squat",
   "instructions": [
-    "Set up for the Calf Raise (Leg Press) with a machine. Stand with your feet about shoulder-width apart and your core braced.",
-    "Lower down by pushing your hips back and bending your knees, keeping your chest up and your knees tracking over your toes.",
-    "Drive through your whole foot to stand back up, keeping your torso tall."
+    "Sit in the leg press with your back flat on the pad and place the balls of your feet on the lower edge of the platform.",
+    "Extend your legs to unlock the sled, keeping your knees nearly straight but not locked.",
+    "Press through the balls of your feet to push the platform up as far as possible.",
+    "Pause, then lower slowly until you feel a calf stretch.",
+    "Do not let the sled move by bending your knees."
   ],
   "cues": [
-    "Chest up",
-    "Knees track over toes",
-    "Drive through the whole foot"
+    "Knees almost straight",
+    "Full stretch, full squeeze",
+    "Slow lowering"
   ],
   "longevityNotes": "Squatting is the foundation of getting up, sitting down, and climbing stairs. Keeping leg strength and knee range preserves independence decades longer than any single other movement.",
-  "overview": "Calf Raise (Leg Press) is a intermediate squat exercise for the calves, performed with a machine.",
+  "overview": "A calf raise performed on a leg press machine, letting you load the calves heavily with a supported back.",
   "image": "assets/exercises/calf-raise-leg-press.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Squat"
+  "updatedAt": "2026-10-14",
+  "category": "Squat",
+  "commonMistakes": [
+    "Bouncing at the bottom",
+    "Bending the knees to move the sled",
+    "Using too much weight and a tiny range"
+  ],
+  "safetyNotes": "Make sure the safety stops are set and re-rack the sled securely when done."
 }

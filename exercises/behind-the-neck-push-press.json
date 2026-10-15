@@ -16,17 +16,19 @@
   "difficulty": "advanced",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Behind-the-Neck Push Press with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Stand with a barbell resting on the back of your shoulders, hands wide, feet shoulder-width apart.",
+    "Dip a few inches by bending your knees, keeping your torso upright.",
+    "Drive up through your legs and press the bar overhead in one motion.",
+    "Lock out your arms with your head slightly forward of the bar.",
+    "Lower the bar back to your shoulders under control."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Dip, drive, press",
+    "Torso stays upright",
+    "Bar finishes over your mid-foot"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Behind-the-Neck Push Press is an advanced vertical push exercise for the front delts and triceps, performed with a barbell.",
+  "overview": "An explosive overhead press from behind the neck that uses a small leg drive to move the bar overhead.",
   "image": "assets/exercises/behind-the-neck-push-press.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Leaning back to push the bar",
+    "Lowering the bar below the shoulders",
+    "Dipping too deep"
+  ],
+  "safetyNotes": "Requires good shoulder mobility and a light load; stop if the shoulders pinch."
 }

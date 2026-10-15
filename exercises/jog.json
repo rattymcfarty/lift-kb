@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Jog with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Warm up with a few minutes of brisk walking.",
+    "Start jogging at a pace where you can hold a conversation.",
+    "Land softly under your hips with a quick cadence.",
+    "Keep your shoulders relaxed and arms swinging naturally.",
+    "Finish with a cooldown walk."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Conversational pace",
+    "Light quick steps",
+    "Relaxed shoulders"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Jog is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "A relaxed steady-state run that builds aerobic base fitness.",
   "image": "assets/exercises/jog.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Starting too fast",
+    "Overstriding",
+    "Tensing the shoulders"
+  ],
+  "safetyNotes": "Build volume gradually; stop for chest pain or dizziness."
 }

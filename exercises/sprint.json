@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Sprint with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Warm up thoroughly with jogging and drills.",
+    "Accelerate from a stationary or rolling start.",
+    "Drive your knees and arms powerfully.",
+    "Run for 5 to 15 seconds at maximum effort.",
+    "Walk to recover between reps."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Drive the knees",
+    "Powerful arms",
+    "Tall posture"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Sprint is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "A maximal-effort short run that trains speed and power.",
   "image": "assets/exercises/sprint.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Starting without a warm-up",
+    "Overstriding",
+    "Tensing the face"
+  ],
+  "safetyNotes": "Warm up fully; stop with any tightness in the hamstrings."
 }

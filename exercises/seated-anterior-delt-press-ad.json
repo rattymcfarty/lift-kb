@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Seated Anterior Delt Press (AD) with an implement. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Sit on a bench with back support and hold the handles or dumbbells at shoulder height.",
+    "Brace your core.",
+    "Press the weight up and slightly forward.",
+    "Pause at the top.",
+    "Lower slowly."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
+    "Ribs down",
+    "Press smoothly",
     "Control the lowering"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Seated Anterior Delt Press (AD) is a intermediate vertical push exercise for the front delts and middle delts, performed with an implement.",
+  "overview": "A seated shoulder press variant that emphasises the front delts.",
   "image": "assets/exercises/seated-anterior-delt-press-ad.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Arching the back",
+    "Shrugging",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use a moderate weight; stop with shoulder pain."
 }

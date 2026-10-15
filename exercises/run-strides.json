@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Run Strides with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Warm up with an easy jog.",
+    "Accelerate smoothly over about 20 seconds up to a fast but relaxed pace.",
+    "Hold a tall posture and relaxed face.",
+    "Decelerate gradually.",
+    "Walk back to recover, then repeat several times."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Smooth acceleration",
+    "Relaxed shoulders",
+    "Tall posture"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Run Strides is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "Short controlled accelerations at about 80 to 90 percent of top speed that improve running mechanics.",
   "image": "assets/exercises/run-strides.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Sprinting all-out",
+    "Overstriding",
+    "Tensing the upper body"
+  ],
+  "safetyNotes": "Warm up first; skip with hamstring or calf tightness."
 }

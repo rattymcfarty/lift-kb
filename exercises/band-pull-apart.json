@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Band Pull Apart with an implement. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Hold a resistance band in front of you at chest height, hands shoulder-width apart, arms straight.",
+    "Pull the band apart by moving your hands out to the sides, squeezing your shoulder blades together.",
+    "Keep your arms nearly straight and your ribs down.",
+    "Pause when the band touches your chest or you reach full range.",
+    "Return slowly to the start."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Pinch shoulder blades together",
+    "Ribs down, arms long",
+    "Slow return"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Band Pull Apart is a intermediate horizontal pull exercise for the rear delts, performed with an implement.",
+  "overview": "A simple resistance-band exercise for the rear shoulders and upper back that counters the forward-hunched posture of desk work.",
   "image": "assets/exercises/band-pull-apart.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Pull"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Pull",
+  "commonMistakes": [
+    "Shrugging the shoulders",
+    "Arching the lower back",
+    "Letting the band snap back"
+  ],
+  "safetyNotes": "Anchor the band securely in your hands; avoid bands with visible tears."
 }

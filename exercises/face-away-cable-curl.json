@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Face Away Cable Curl with a cable machine. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Set a cable pulley at about shoulder height and stand facing away, holding the handle with your arm extended behind or beside you.",
+    "Stand with one foot slightly forward for balance.",
+    "Curl your hand toward your head, keeping your upper arm in line with your shoulder.",
+    "Squeeze your biceps at the top.",
+    "Lower slowly until the arm is straight."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Upper arm stays still",
+    "Squeeze at the top",
+    "Slow lowering"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Face Away Cable Curl is a intermediate other exercise for the biceps and forearms, performed with a cable machine.",
+  "overview": "A cable curl with the body facing away from the stack that keeps the biceps under tension in the stretched position.",
   "image": "assets/exercises/face-away-cable-curl.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Shrugging the shoulder",
+    "Letting the elbow drop",
+    "Using momentum"
+  ],
+  "safetyNotes": "Use a light-to-moderate load; stop with elbow pain."
 }

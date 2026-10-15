@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "squat",
   "instructions": [
-    "Set up for the Platz Squat with a barbell. Stand with your feet about shoulder-width apart and your core braced.",
-    "Lower down by pushing your hips back and bending your knees, keeping your chest up and your knees tracking over your toes.",
-    "Drive through your whole foot to stand back up, keeping your torso tall."
+    "Place the bar on your back with your feet close and heels elevated on plates.",
+    "Brace your core and keep your torso upright.",
+    "Squat down deep, with your knees travelling far forward.",
+    "Keep your whole foot on the plates.",
+    "Drive up through your feet to stand."
   ],
   "cues": [
-    "Chest up",
-    "Knees track over toes",
-    "Drive through the whole foot"
+    "Torso upright",
+    "Knees forward",
+    "Control the depth"
   ],
   "longevityNotes": "Squatting is the foundation of getting up, sitting down, and climbing stairs. Keeping leg strength and knee range preserves independence decades longer than any single other movement.",
-  "overview": "Platz Squat is a intermediate squat exercise for the quadriceps and glutes, performed with a barbell.",
+  "overview": "A quad-focused squat with the feet close and heels elevated, named after a bodybuilder's style.",
   "image": "assets/exercises/platz-squat.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Squat"
+  "updatedAt": "2026-10-14",
+  "category": "Squat",
+  "commonMistakes": [
+    "Rounding the back",
+    "Losing control at the bottom",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use light loads; avoid with knee pain."
 }

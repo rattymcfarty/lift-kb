@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Y Raise with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie chest-down on an incline bench holding light dumbbells.",
+    "Raise your arms overhead in a Y with thumbs up.",
+    "Squeeze your shoulder blades.",
+    "Pause.",
+    "Lower slowly."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Thumbs up",
+    "Squeeze shoulder blades",
+    "Light weight"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Y Raise is a intermediate other exercise for the rear delts and upper back, performed with dumbbells.",
+  "overview": "A Y-shaped raise that strengthens the lower traps and rear delts.",
   "image": "assets/exercises/y-raise.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Shrugging",
+    "Using momentum",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use very light weights."
 }

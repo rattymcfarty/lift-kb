@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Jump Switch Lunge with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Start in a lunge position with one foot forward.",
+    "Jump up explosively.",
+    "Switch legs in the air.",
+    "Land softly in a lunge with the opposite foot forward.",
+    "Immediately repeat."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Land softly",
+    "Chest tall",
+    "Drive up through the front foot"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Jump Switch Lunge is a intermediate cardio exercise for the quadriceps and hamstrings, performed with just your bodyweight.",
+  "overview": "A plyometric lunge where you jump and switch legs in the air to train power and conditioning.",
   "image": "assets/exercises/jump-switch-lunge.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Landing with a stiff knee",
+    "Letting the knee cave in",
+    "Leaning forward"
+  ],
+  "safetyNotes": "Skip if you have knee problems; use an alternating step lunge as a regression."
 }

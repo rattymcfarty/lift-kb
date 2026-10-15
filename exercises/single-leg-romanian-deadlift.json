@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Single Leg Romanian Deadlift with dumbbells. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Stand on one leg holding a dumbbell in the opposite hand, knee slightly bent.",
+    "Hinge at the hip, sending your free leg back behind you.",
+    "Lower until your torso is near parallel with the floor.",
+    "Keep your back flat.",
+    "Squeeze your glute to return to standing."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Hips back",
+    "Flat back",
+    "Squeeze the glute"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Single Leg Romanian Deadlift is a intermediate hinge exercise for the hamstrings and glutes, performed with dumbbells.",
+  "overview": "A single-leg hip hinge that trains the hamstrings, glutes and balance.",
   "image": "assets/exercises/single-leg-romanian-deadlift.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Hinge"
+  "updatedAt": "2026-10-14",
+  "category": "Hinge",
+  "commonMistakes": [
+    "Rounding the back",
+    "Twisting the hips",
+    "Bending the knee too much"
+  ],
+  "safetyNotes": "Use a light weight or touch a wall for balance."
 }

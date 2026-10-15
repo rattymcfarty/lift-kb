@@ -19,17 +19,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Inch Worm + Push Up with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Stand tall, then hinge forward and place your hands on the floor.",
+    "Walk your hands forward until you are in a high plank.",
+    "Perform one push-up with a straight body.",
+    "Walk your hands back toward your feet.",
+    "Stand up and repeat."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Straight body in the plank",
+    "Smooth walkout",
+    "Brace your core"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Inch Worm + Push Up is a beginner mobility exercise for the chest and triceps, performed with just your bodyweight.",
+  "overview": "A dynamic movement that combines an inchworm walkout with a push-up for mobility and upper-body strength.",
   "image": "assets/exercises/inch-worm-push-up.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Rushing",
+    "Bending the knees too much"
+  ],
+  "safetyNotes": "Bend your knees as much as needed on the walkout; skip with wrist pain."
 }

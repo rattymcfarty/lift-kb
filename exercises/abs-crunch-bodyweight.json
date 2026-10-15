@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Abs Crunch (Bodyweight) with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Lie on your back with knees bent and feet flat, hands lightly behind your head or crossed on your chest.",
+    "Exhale and curl your ribs toward your pelvis, lifting your head and shoulder blades off the floor.",
+    "Pause for a second at the top without pulling on your neck.",
+    "Lower slowly until your shoulder blades touch the floor again.",
+    "Keep your lower back in contact with the floor throughout."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Ribs toward hips",
+    "Chin off the chest, eyes on the ceiling",
+    "Slow lowering"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Abs Crunch (Bodyweight) is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A basic floor crunch that shortens the rectus abdominis through a small, controlled range of motion.",
   "image": "assets/exercises/abs-crunch-bodyweight.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Yanking the head forward with the hands",
+    "Using momentum rather than the abs",
+    "Lifting the whole torso like a sit-up"
+  ],
+  "safetyNotes": "Keep the neck neutral. If you feel neck strain, cross your arms over your chest instead."
 }

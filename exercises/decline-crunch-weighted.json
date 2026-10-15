@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Decline Crunch (Weighted) with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Secure your feet on a decline bench and lie back holding a plate against your chest.",
+    "Cross your arms over the weight.",
+    "Curl your torso up, bringing your ribs toward your pelvis.",
+    "Pause briefly at the top.",
+    "Lower slowly without letting your lower back arch."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Ribs to hips",
+    "Slow lowering",
+    "Weight on the chest"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Decline Crunch (Weighted) is a intermediate core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A crunch on a decline bench with added weight for a greater abdominal challenge.",
   "image": "assets/exercises/decline-crunch-weighted.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Pulling on the neck",
+    "Using momentum",
+    "Sitting all the way up like a sit-up"
+  ],
+  "safetyNotes": "Keep the weight modest; avoid with acute back pain."
 }

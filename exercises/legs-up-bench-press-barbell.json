@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Legs Up Bench Press (Barbell) with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on a flat bench with your feet raised and knees bent, holding the bar with an overhand grip slightly wider than shoulder-width.",
+    "Retract your shoulder blades and brace your core.",
+    "Lower the bar to your mid-chest.",
+    "Press the bar back up to full extension.",
+    "Re-rack the bar when done."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Shoulder blades pinned",
+    "Ribs down",
+    "Bar touches mid-chest"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Legs Up Bench Press (Barbell) is a intermediate horizontal push exercise for the chest and triceps, performed with a barbell.",
+  "overview": "A flat bench press with the feet up on the bench or in the air, reducing leg drive and lower-back arch.",
   "image": "assets/exercises/legs-up-bench-press-barbell.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Arching the lower back",
+    "Bouncing the bar off the chest",
+    "Flaring the elbows"
+  ],
+  "safetyNotes": "Use a spotter or safeties; use a lighter weight than a normal bench press."
 }

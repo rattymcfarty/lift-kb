@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Push Up (Weighted) with just your bodyweight. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Place a plate on your upper back or wear a weighted vest.",
+    "Start in a high plank with hands under shoulders.",
+    "Lower your chest toward the floor while keeping your body straight.",
+    "Press back up to straight arms.",
+    "Keep your core braced."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Straight body",
+    "Elbows at 45 degrees",
+    "Full range"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Push Up (Weighted) is a intermediate horizontal push exercise for the chest and triceps, performed with just your bodyweight.",
+  "overview": "A push-up with added load for progressing chest and triceps strength.",
   "image": "assets/exercises/push-up-weighted.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Flaring the elbows",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use a weighted vest or a spotter for the plate; stop with wrist or shoulder pain."
 }

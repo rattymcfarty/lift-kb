@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Lying Side Lateral Raise with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on your side on a bench or the floor, holding a light dumbbell in your top hand at your side.",
+    "Keep your arm slightly bent.",
+    "Raise the dumbbell out and up until your arm is above shoulder level.",
+    "Pause.",
+    "Lower slowly."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Light weight",
+    "Slow and controlled",
+    "Elbow slightly bent"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Lying Side Lateral Raise is a intermediate other exercise for the middle delts and front delts, performed with dumbbells.",
+  "overview": "A side-lying lateral raise that isolates the side delt through a different angle of resistance.",
   "image": "assets/exercises/lying-side-lateral-raise.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Using momentum",
+    "Rolling the torso",
+    "Using too heavy a weight"
+  ],
+  "safetyNotes": "Use a very light weight; stop with shoulder pain."
 }

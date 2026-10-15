@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Concentration Curl with dumbbells. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Sit on a bench with your legs apart, holding a dumbbell in one hand and resting that elbow on your inner thigh.",
+    "Let the arm hang fully extended.",
+    "Curl the dumbbell up toward your shoulder, keeping your upper arm still.",
+    "Squeeze at the top.",
+    "Lower slowly until the arm is straight."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Upper arm stays still",
+    "Squeeze at the top",
+    "Slow lowering"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Concentration Curl is a intermediate other exercise for the biceps, performed with dumbbells.",
+  "overview": "A seated single-arm curl that braces the elbow against the thigh to remove swinging and isolate the biceps.",
   "image": "assets/exercises/concentration-curl.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Swinging the torso",
+    "Letting the elbow move",
+    "Cutting the range short"
+  ],
+  "safetyNotes": "Use a light weight; stop if you feel elbow or wrist pain."
 }

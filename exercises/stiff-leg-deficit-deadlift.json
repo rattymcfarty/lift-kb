@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Stiff Leg Deficit Deadlift with a barbell. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Stand on a low platform with the bar over your mid-foot.",
+    "Hinge and grip the bar with nearly straight legs.",
+    "Lift the bar by extending your hips.",
+    "Lower the bar below the platform level under control.",
+    "Keep your back flat."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Hips back",
+    "Flat back",
+    "Slow lowering"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Stiff Leg Deficit Deadlift is a intermediate hinge exercise for the hamstrings and glutes, performed with a barbell.",
+  "overview": "A stiff-leg deadlift from a raised platform that increases the stretch on the hamstrings.",
   "image": "assets/exercises/stiff-leg-deficit-deadlift.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Hinge"
+  "updatedAt": "2026-10-14",
+  "category": "Hinge",
+  "commonMistakes": [
+    "Rounding the back",
+    "Locking the knees",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use a lighter weight; stop with hamstring strain."
 }

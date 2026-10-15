@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Dynamic Side Plank with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Lie on your side and prop yourself on your forearm, elbow under your shoulder, legs stacked.",
+    "Lift your hips so your body forms a straight line from head to feet.",
+    "Lower your hips toward the floor a few inches under control.",
+    "Raise your hips back to the straight line.",
+    "Complete the reps, then switch sides."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Straight line",
+    "Hips up",
+    "Slow dips"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Dynamic Side Plank is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A side plank with hip raises and dips that trains the obliques and hip stabilisers.",
   "image": "assets/exercises/dynamic-side-plank.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Rolling the torso forward",
+    "Rushing the reps"
+  ],
+  "safetyNotes": "Stay within a pain-free range; reduce to a knee-supported version if your shoulder hurts."
 }

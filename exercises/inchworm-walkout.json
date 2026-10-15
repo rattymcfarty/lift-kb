@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Inchworm Walkout with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Stand tall, hinge forward and place your hands on the floor.",
+    "Walk your hands forward until you are in a high plank position.",
+    "Pause and brace your core.",
+    "Walk your feet toward your hands in small steps.",
+    "Stand up and repeat."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Small steps",
+    "Core braced",
+    "Smooth rhythm"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Inchworm Walkout is a beginner mobility exercise for the abs, performed with just your bodyweight.",
+  "overview": "A mobility drill that stretches the hamstrings and challenges the core and shoulders by walking the hands out to a plank.",
   "image": "assets/exercises/inchworm-walkout.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Rushing",
+    "Locking the knees too hard"
+  ],
+  "safetyNotes": "Bend your knees as needed; skip with wrist or shoulder pain."
 }

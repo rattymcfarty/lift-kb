@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Elliptical with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Step onto the pedals and hold the handles lightly.",
+    "Start moving in a smooth, fluid motion, standing tall.",
+    "Set a resistance that lets you keep a steady pace.",
+    "Keep your weight through your whole foot and your shoulders relaxed.",
+    "Finish with a few minutes of easy movement to cool down."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Stand tall",
+    "Smooth strides",
+    "Light grip"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Elliptical is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "Low-impact cardio on an elliptical trainer that spares the joints while raising your heart rate.",
   "image": "assets/exercises/elliptical.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Leaning heavily on the handles",
+    "Rounding the shoulders",
+    "Using too much resistance and jerking"
+  ],
+  "safetyNotes": "Hold a handle when stepping on or off; stop if you feel dizzy or chest pain."
 }

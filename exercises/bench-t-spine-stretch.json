@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Bench T-Spine Stretch with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Kneel in front of a bench and place both elbows on top, palms together or holding a light dowel.",
+    "Sit your hips back toward your heels while keeping your arms on the bench.",
+    "Let your chest sink toward the floor until you feel a stretch through your upper back.",
+    "Hold for 20 to 30 seconds while breathing slowly.",
+    "Return to the start and repeat."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Hips back, chest down",
+    "Breathe slowly",
+    "Relax the neck"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Bench T-Spine Stretch is a beginner mobility exercise for the other, performed with just your bodyweight.",
+  "overview": "A kneeling stretch that opens the upper back and shoulders by sitting your hips back while your arms rest on a bench.",
   "image": "assets/exercises/bench-t-spine-stretch.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Overarching the lower back",
+    "Holding your breath",
+    "Forcing the stretch with a bounce"
+  ],
+  "safetyNotes": "Move into a gentle stretch only; ease off if you feel pinching in the shoulders."
 }

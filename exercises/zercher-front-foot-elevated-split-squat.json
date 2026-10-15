@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "lunge",
   "instructions": [
-    "Set up for the Zercher Front-Foot Elevated Split Squat with a barbell. Stand tall with your core braced.",
-    "Step into the lunge position and lower until both knees are bent, keeping your torso upright.",
-    "Drive through your front foot to return to the start, keeping your hips level."
+    "Hold a barbell in the crooks of your elbows against your chest.",
+    "Place your front foot on a low plate and step the other foot back.",
+    "Lower your back knee.",
+    "Keep your torso upright.",
+    "Drive up through the front foot."
   ],
   "cues": [
-    "Torso upright",
-    "Hips level",
-    "Drive through the front foot"
+    "Torso tall",
+    "Front foot flat",
+    "Slow lowering"
   ],
   "longevityNotes": "Single-leg strength and balance are what keep you steady on uneven ground and stairs. Lunge work trains the stability that prevents the falls that change lives.",
-  "overview": "Zercher Front-Foot Elevated Split Squat is a intermediate lunge exercise for the quadriceps and glutes, performed with a barbell.",
+  "overview": "A split squat holding a barbell in the crook of your elbows with the front foot elevated.",
   "image": "assets/exercises/zercher-front-foot-elevated-split-squat.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Lunge"
+  "updatedAt": "2026-10-14",
+  "category": "Lunge",
+  "commonMistakes": [
+    "Leaning forward",
+    "Front knee caving",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Pad the bar; use light loads and safeties."
 }

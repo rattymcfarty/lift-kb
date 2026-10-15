@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Rope Pressdown with a cable machine. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Attach a rope to a high pulley and grip the ends.",
+    "Keep your elbows pinned at your sides.",
+    "Press the rope down until your arms are straight, spreading the ends.",
+    "Squeeze your triceps.",
+    "Return slowly."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Elbows pinned",
+    "Spread the rope at the bottom",
+    "Slow return"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Rope Pressdown is a intermediate other exercise for the triceps, performed with a cable machine.",
+  "overview": "A cable triceps pressdown with a rope that lets you spread the ends at the bottom.",
   "image": "assets/exercises/rope-pressdown.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Using your body weight",
+    "Flaring the elbows",
+    "Rushing"
+  ],
+  "safetyNotes": "Use a moderate load; stop with elbow pain."
 }

@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Barrel Press (Dumbbell) with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on a bench with a dumbbell in each hand, palms facing each other and the weights held over your chest.",
+    "Keep the dumbbells touching or very close together as you lower them toward your sternum.",
+    "Lower until your elbows are just below the bench line.",
+    "Press the dumbbells straight up, squeezing them together.",
+    "Keep your shoulder blades pinched against the bench."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Keep the dumbbells together",
+    "Shoulder blades pinched",
+    "Press straight up"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Barrel Press (Dumbbell) is a intermediate horizontal push exercise for the chest and triceps, performed with dumbbells.",
+  "overview": "A neutral-grip dumbbell chest press performed with the dumbbells held close, emphasising chest squeeze and the triceps.",
   "image": "assets/exercises/barrel-press-dumbbell.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Letting the elbows flare out wide",
+    "Losing the squeeze between the dumbbells",
+    "Lifting the hips off the bench"
+  ],
+  "safetyNotes": "Use a weight you can control; have a spotter or set the dumbbells down safely when finished."
 }

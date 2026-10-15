@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Marching Glute Bridge with just your bodyweight. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Lie on your back with knees bent and feet flat, arms at your sides.",
+    "Lift your hips into a bridge by squeezing your glutes.",
+    "Lift one foot off the floor, bringing the knee toward your chest, without letting your hips drop.",
+    "Place it back down and lift the other foot.",
+    "Continue alternating."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Hips level",
+    "Squeeze the glutes",
+    "Slow march"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Marching Glute Bridge is a intermediate other exercise for the glutes and hamstrings, performed with just your bodyweight.",
+  "overview": "A glute bridge with alternating leg lifts that challenges hip stability and the glutes.",
   "image": "assets/exercises/marching-glute-bridge.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Letting the hips drop or rotate",
+    "Overarching the back",
+    "Rushing"
+  ],
+  "safetyNotes": "Keep the range comfortable; skip with acute back pain."
 }

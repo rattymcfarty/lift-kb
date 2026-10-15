@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Hip Openers with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Stand tall with feet hip-width apart.",
+    "Lift one knee and circle it out to the side and back down.",
+    "Reverse the direction, circling forward.",
+    "Repeat 8 to 10 times on each leg.",
+    "Keep your standing leg stable and your torso upright."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Slow big circles",
+    "Tall posture",
+    "Stay balanced"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Hip Openers is a beginner mobility exercise for the other, performed with just your bodyweight.",
+  "overview": "A sequence of dynamic movements that mobilise the hips in multiple directions.",
   "image": "assets/exercises/hip-openers.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Swinging the leg too fast",
+    "Leaning to one side",
+    "Holding your breath"
+  ],
+  "safetyNotes": "Hold a wall for balance; move within a pain-free range."
 }

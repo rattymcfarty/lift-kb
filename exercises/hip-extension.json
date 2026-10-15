@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Hip Extension with just your bodyweight. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Lie face down on a bench or the floor with hips at the edge if on a bench.",
+    "Keep your torso stable and brace your core.",
+    "Raise your straight leg or legs until they are in line with your body.",
+    "Squeeze your glutes at the top.",
+    "Lower slowly."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Squeeze the glutes",
+    "Don't arch the back",
+    "Slow lowering"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Hip Extension is a intermediate other exercise for the glutes and lower back, performed with just your bodyweight.",
+  "overview": "A floor or bench exercise that extends the hips to train the glutes and lower back.",
   "image": "assets/exercises/hip-extension.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Overarching the lower back",
+    "Swinging the legs",
+    "Using momentum"
+  ],
+  "safetyNotes": "Stop at a straight line; skip with acute low-back pain."
 }

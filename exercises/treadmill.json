@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Treadmill with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Step on with feet on the side rails and start the belt slowly.",
+    "Hold the rails as you step on.",
+    "Walk or run at a comfortable pace.",
+    "Keep your posture tall.",
+    "Cool down gradually."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Tall posture",
+    "Relaxed shoulders",
+    "Light steps"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Treadmill is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "Walking or running on a treadmill for cardio.",
   "image": "assets/exercises/treadmill.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Holding the rails",
+    "Overstriding",
+    "Looking down"
+  ],
+  "safetyNotes": "Use the safety clip; start slowly."
 }

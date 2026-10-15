@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Couch Stretch with Reachovers with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Kneel facing away from a couch or bench and place one foot up against it behind you.",
+    "Step the other foot forward into a lunge position, torso upright.",
+    "Squeeze your back glute and tuck your pelvis slightly.",
+    "Reach the arm on the back-leg side overhead and lean gently away.",
+    "Hold 20 to 30 seconds, then switch sides."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Squeeze the back glute",
+    "Ribs down",
+    "Breathe slowly"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Couch Stretch with Reachovers is a beginner mobility exercise for the other, performed with just your bodyweight.",
+  "overview": "A deep hip-flexor and quad stretch with an overhead reach that adds a side stretch through the torso.",
   "image": "assets/exercises/couch-stretch-with-reachovers.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Arching the lower back",
+    "Forcing the stretch",
+    "Letting the front knee cave in"
+  ],
+  "safetyNotes": "Pad your back knee; ease off if you feel pinching in the knee or low back."
 }

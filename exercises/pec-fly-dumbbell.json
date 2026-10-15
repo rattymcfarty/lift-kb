@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Pec Fly (Dumbbell) with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on a flat bench holding dumbbells over your chest, palms facing each other.",
+    "Keep a slight bend in your elbows.",
+    "Open your arms out to the sides until you feel a stretch.",
+    "Squeeze your chest to bring the dumbbells back together.",
+    "Keep your shoulder blades pinned."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Slight elbow bend",
+    "Open wide",
+    "Squeeze together"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Pec Fly (Dumbbell) is a intermediate horizontal push exercise for the chest and front delts, performed with dumbbells.",
+  "overview": "A dumbbell chest fly that stretches and squeezes the chest.",
   "image": "assets/exercises/pec-fly-dumbbell.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Pressing instead",
+    "Dropping too low",
+    "Too much weight"
+  ],
+  "safetyNotes": "Use a moderate weight; stop at the stretch."
 }

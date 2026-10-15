@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Stair Climber with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Step onto the machine and hold the rails lightly.",
+    "Climb at a steady pace.",
+    "Place your whole foot on each step.",
+    "Stand tall.",
+    "Keep a steady breathing rhythm."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Stand tall",
+    "Whole foot on the step",
+    "Light hands"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Stair Climber is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "A stair-climbing machine for lower-body cardio.",
   "image": "assets/exercises/stair-climber.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Leaning on the rails",
+    "Hunching",
+    "Using tiny steps"
+  ],
+  "safetyNotes": "Hold the rails for balance; start slowly."
 }

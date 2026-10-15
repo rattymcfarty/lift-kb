@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Up Down Plank with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Start in a forearm plank.",
+    "Press up onto one hand then the other.",
+    "Lower back to your forearms one at a time.",
+    "Keep your hips level.",
+    "Alternate which arm leads."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Hips level",
+    "Brace the core",
+    "Alternate arms"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Up Down Plank is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A plank transition between forearms and hands that trains shoulder stability and core control.",
   "image": "assets/exercises/up-down-plank.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Rocking the hips",
+    "Rushing",
+    "Sagging"
+  ],
+  "safetyNotes": "Widen your feet for stability."
 }

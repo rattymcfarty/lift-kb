@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Log Press with an implement. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lift the log to your chest using a clean, with your elbows under it.",
+    "Set your feet shoulder-width apart and brace your core.",
+    "Dip slightly and drive the log upward, pressing it overhead.",
+    "Lock out your arms with the log over your mid-foot.",
+    "Lower the log back to your chest under control."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Brace the core",
+    "Drive with the legs",
+    "Lock out overhead"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Log Press is a intermediate vertical push exercise for the middle delts and front delts, performed with an implement.",
+  "overview": "A strongman-style overhead press with a log that trains the shoulders, triceps and whole-body stability.",
   "image": "assets/exercises/log-press.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Leaning back too far",
+    "Pressing with the arms only",
+    "Dropping the log"
+  ],
+  "safetyNotes": "Use light logs while learning; use a spotter and clear space."
 }

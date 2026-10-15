@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Side Crunch (Cable) with a cable machine. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Attach a rope to a high pulley and kneel sideways, holding the rope near your head.",
+    "Brace your core.",
+    "Crunch sideways, bringing your ribs toward your hip.",
+    "Squeeze your oblique.",
+    "Return slowly."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Bend sideways",
+    "Hips stay still",
+    "Slow return"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Side Crunch (Cable) is a beginner core exercise for the abs, performed with a cable machine.",
+  "overview": "A cable side crunch that trains the obliques with resistance.",
   "image": "assets/exercises/side-crunch-cable.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Rotating the torso",
+    "Using the arms",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use a moderate load."
 }

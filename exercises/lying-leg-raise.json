@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Lying Leg Raise with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Lie on your back with legs straight and hands under your hips or at your sides.",
+    "Press your lower back into the floor.",
+    "Raise your legs until they are vertical.",
+    "Lower slowly until your feet hover above the floor.",
+    "Keep your lower back flat."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Lower back flat",
+    "Slow lowering",
+    "Legs long"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Lying Leg Raise is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A lying leg raise that trains the lower abs and hip flexors.",
   "image": "assets/exercises/lying-leg-raise.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Arching the lower back",
+    "Swinging",
+    "Dropping the legs"
+  ],
+  "safetyNotes": "Bend your knees to make it easier; stop if your back arches."
 }

@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the AD Press (Smith Machine) with a Smith machine. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Set a bench or stand so the bar starts at about upper-chest height and you can press without leaning back.",
+    "Grip the bar slightly wider than shoulder width and unrack it with your ribs down.",
+    "Press the bar up in the guided track until your arms are fully extended without shrugging.",
+    "Lower slowly until the bar is near upper-chest level.",
+    "Re-rack the bar before releasing your grip."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Ribs down, no arching",
+    "Press straight up",
+    "Shoulders away from your ears"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "AD Press (Smith Machine) is a intermediate vertical push exercise for the front delts and middle delts, performed with a Smith machine.",
+  "overview": "A seated or standing Smith-machine press with the bar in front of the face that emphasises the front and side deltoids on a guided path.",
   "image": "assets/exercises/ad-press-smith-machine.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Arching the lower back to push the bar up",
+    "Flaring the elbows far behind the body",
+    "Locking the elbows hard at the top"
+  ],
+  "safetyNotes": "Position yourself so the bar path stays in line with your shoulders; set the safety stops before you start."
 }

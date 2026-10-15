@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Chin-Up (Weighted) with just your bodyweight. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Hang from a bar with a supinated (palms toward you) grip at shoulder width, with a weight belt or dumbbell between your feet.",
+    "Pull your shoulder blades down and back.",
+    "Pull your chin above the bar by driving your elbows toward your ribs.",
+    "Pause briefly at the top.",
+    "Lower under control to a full hang."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Full hang to chin over bar",
+    "Ribs down, no swinging",
+    "Slow lowering"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Chin-Up (Weighted) is a intermediate vertical pull exercise for the lats and upper back, performed with just your bodyweight.",
+  "overview": "A chin-up with added load to progress upper-body pulling strength.",
   "image": "assets/exercises/chin-up-weighted.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Pull"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Pull",
+  "commonMistakes": [
+    "Kipping or swinging",
+    "Half reps",
+    "Loading before you can do strict bodyweight reps"
+  ],
+  "safetyNotes": "Be able to do 8 to 10 strict bodyweight chin-ups first; stop if elbows or shoulders hurt."
 }

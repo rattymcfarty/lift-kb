@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Cycling with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Adjust the saddle so your knee is slightly bent at the bottom of the pedal stroke.",
+    "Sit tall with your hands relaxed on the handlebars.",
+    "Pedal at a steady cadence of about 70 to 90 rpm at a conversational effort.",
+    "Increase resistance or speed gradually for intervals or longer rides.",
+    "Cool down for several minutes at an easy pace."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Smooth circles",
+    "Relaxed shoulders",
+    "Steady breathing"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Cycling is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "Steady cycling on a stationary or road bike for low-impact cardiovascular fitness.",
   "image": "assets/exercises/cycling.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Saddle set too low or high",
+    "Gripping the bars tightly",
+    "Bouncing in the saddle"
+  ],
+  "safetyNotes": "Warm up before pushing hard; stop and seek advice for chest pain or dizziness."
 }

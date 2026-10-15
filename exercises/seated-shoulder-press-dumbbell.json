@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Seated Shoulder Press (Dumbbell) with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Sit on a bench with back support holding dumbbells at shoulder height.",
+    "Brace your core.",
+    "Press the dumbbells up until your arms are extended.",
+    "Lower slowly.",
+    "Keep your wrists stacked over elbows."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Ribs down",
+    "Press up and slightly in",
+    "Slow lowering"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Seated Shoulder Press (Dumbbell) is a intermediate vertical push exercise for the middle delts and front delts, performed with dumbbells.",
+  "overview": "A seated dumbbell shoulder press that builds the delts and triceps.",
   "image": "assets/exercises/seated-shoulder-press-dumbbell.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Arching the back",
+    "Using momentum",
+    "Flaring too wide"
+  ],
+  "safetyNotes": "Use a moderate weight and set the dumbbells down safely."
 }

@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Run with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Warm up with a brisk walk or easy jog.",
+    "Settle into a pace you can sustain.",
+    "Land with your foot under your hips.",
+    "Keep your arms relaxed.",
+    "Finish with a cooldown walk."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Relaxed shoulders",
+    "Quick light steps",
+    "Steady breathing"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Run is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "Steady running for cardiovascular fitness.",
   "image": "assets/exercises/run.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Starting too fast",
+    "Overstriding",
+    "Tight shoulders"
+  ],
+  "safetyNotes": "Increase distance gradually; stop for chest pain or dizziness."
 }

@@ -18,17 +18,19 @@
   "difficulty": "beginner",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Chin-Up (Assisted) with a machine. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Set the assist weight and kneel or stand on the platform, gripping the bar with palms facing you at shoulder width.",
+    "Start with your arms straight and your shoulders pulled slightly down.",
+    "Pull your chest toward the bar by driving your elbows down.",
+    "Pause with your chin above the bar.",
+    "Lower slowly until your arms are straight."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Chest to the bar",
+    "Elbows down",
+    "Slow lowering"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Chin-Up (Assisted) is a beginner vertical pull exercise for the lats and upper back, performed with a machine.",
+  "overview": "A machine-assisted chin-up that lets you build up to bodyweight chin-ups with a counterweight.",
   "image": "assets/exercises/chin-up-assisted.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Pull"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Pull",
+  "commonMistakes": [
+    "Using too much assistance and swinging",
+    "Cutting the range short",
+    "Shrugging the shoulders"
+  ],
+  "safetyNotes": "Lower the assistance gradually as you get stronger; avoid if you have elbow or shoulder pain."
 }

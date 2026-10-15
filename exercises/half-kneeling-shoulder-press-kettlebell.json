@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Half Kneeling Shoulder Press (Kettlebell) with a kettlebell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Half-kneel with the knee down on the opposite side of the kettlebell arm, and hold the kettlebell at your shoulder in the rack position.",
+    "Brace your core and squeeze the glute of the down leg.",
+    "Press the kettlebell straight overhead.",
+    "Lock out with your biceps by your ear and ribs down.",
+    "Lower to the rack position with control."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Tall spine",
+    "Squeeze the glute",
+    "Ribs down at lockout"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Half Kneeling Shoulder Press (Kettlebell) is a intermediate vertical push exercise for the front delts and middle delts, performed with a kettlebell.",
+  "overview": "A single-arm kettlebell overhead press in a half-kneeling stance that demands core and hip stability.",
   "image": "assets/exercises/half-kneeling-shoulder-press-kettlebell.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Leaning sideways",
+    "Arching the lower back",
+    "Letting the wrist bend back"
+  ],
+  "safetyNotes": "Start light; stop if you feel pinching in the shoulder."
 }

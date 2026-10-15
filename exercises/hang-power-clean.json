@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Hang Power Clean with a barbell. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Stand holding a barbell at mid-thigh with an overhand grip, hips pushed back and torso slightly forward.",
+    "Jump powerfully by extending your hips, knees and ankles.",
+    "Shrug and pull your elbows up and out as the bar rises.",
+    "Drop quickly under the bar and catch it on your front shoulders in a quarter squat.",
+    "Stand tall, then lower the bar to the hang position with control."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Jump tall",
+    "Elbows high and fast",
+    "Catch with a soft knee bend"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Hang Power Clean is a intermediate other exercise for the upper back and glutes, performed with a barbell.",
+  "overview": "An Olympic lift where you pull the bar from the hang position and catch it at shoulder height in a partial squat.",
   "image": "assets/exercises/hang-power-clean.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Olympic",
+  "commonMistakes": [
+    "Pulling with the arms too early",
+    "Letting the bar swing away",
+    "Catching with the wrists bent back"
+  ],
+  "safetyNotes": "Learn from a coach and use bumper plates; start with a very light load."
 }

@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the SkiErg with a cardio machine. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand on the footplates holding the handles above your head.",
+    "Pull the handles down and back while hinging slightly at the hips.",
+    "Let the handles rise as you stand tall.",
+    "Keep a smooth rhythm.",
+    "Set the damper to a comfortable level."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Hinge and pull",
+    "Smooth rhythm",
+    "Tall at the top"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "SkiErg is a beginner cardio exercise for the other, performed with a cardio machine.",
+  "overview": "A cardio machine that mimics the double-pole motion of skiing for full-body conditioning.",
   "image": "assets/exercises/skierg.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Pulling with only the arms",
+    "Rounding the back",
+    "Going too hard too soon"
+  ],
+  "safetyNotes": "Warm up; stop for chest pain or dizziness."
 }

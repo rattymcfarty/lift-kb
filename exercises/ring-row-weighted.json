@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Ring Row (Weighted) with an implement. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Hang from rings at about waist height with a weight vest or plate, feet on the floor and body straight.",
+    "Brace your core.",
+    "Pull your chest toward the rings, rotating your palms in.",
+    "Squeeze your shoulder blades.",
+    "Lower slowly."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Straight body",
+    "Pull to the ribs",
+    "Slow lowering"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Ring Row (Weighted) is a intermediate horizontal pull exercise for the lats and biceps, performed with an implement.",
+  "overview": "A rowing exercise on gymnastic rings that builds the lats and biceps; the weight adds resistance.",
   "image": "assets/exercises/ring-row-weighted.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Pull"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Pull",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Shrugging",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Make sure the rings are secure; use a lighter weight."
 }

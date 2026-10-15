@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "squat",
   "instructions": [
-    "Set up for the Hip Abductor (Machine) with a machine. Stand with your feet about shoulder-width apart and your core braced.",
-    "Lower down by pushing your hips back and bending your knees, keeping your chest up and your knees tracking over your toes.",
-    "Drive through your whole foot to stand back up, keeping your torso tall."
+    "Sit in the machine with your back against the pad and your legs against the outer pads.",
+    "Set a light-to-moderate weight and sit tall.",
+    "Push your knees apart as far as is comfortable.",
+    "Pause at the end of the range.",
+    "Return slowly without letting the weights slam."
   ],
   "cues": [
-    "Chest up",
-    "Knees track over toes",
-    "Drive through the whole foot"
+    "Push through the outer knees",
+    "Slow return",
+    "Sit tall"
   ],
   "longevityNotes": "Squatting is the foundation of getting up, sitting down, and climbing stairs. Keeping leg strength and knee range preserves independence decades longer than any single other movement.",
-  "overview": "Hip Abductor (Machine) is a intermediate other exercise for the abductors and glutes, performed with a machine.",
+  "overview": "A seated machine exercise that presses the knees outward to train the glute medius and hip abductors.",
   "image": "assets/exercises/hip-abductor-machine.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Using momentum",
+    "Leaning forward",
+    "Using too heavy a weight"
+  ],
+  "safetyNotes": "Keep the range within comfort; avoid if you have a hip injury."
 }

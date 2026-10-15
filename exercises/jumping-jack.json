@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Jumping Jack with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand with your feet together and arms at your sides.",
+    "Jump your feet out wide while raising your arms overhead.",
+    "Jump back to the start.",
+    "Keep your landings soft.",
+    "Continue at a steady rhythm."
   ],
   "cues": [
+    "Soft landings",
     "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Tall posture"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Jumping Jack is a beginner cardio exercise for the other, performed with just your bodyweight.",
+  "overview": "A classic full-body cardio exercise performed in place.",
   "image": "assets/exercises/jumping-jack.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Landing hard",
+    "Letting the knees cave",
+    "Slouching forward"
+  ],
+  "safetyNotes": "Use the modified step version if you have joint issues."
 }

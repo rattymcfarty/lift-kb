@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Incline Chest Fly (Dumbbell) with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on an incline bench set to 30 degrees holding dumbbells over your upper chest, palms facing in, slight bend in the elbows.",
+    "Open your arms out to the sides in a wide arc until you feel a stretch.",
+    "Keep your elbows slightly bent throughout.",
+    "Squeeze your chest to bring the dumbbells back together.",
+    "Keep your shoulder blades pinned back."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Slight elbow bend",
+    "Open wide",
+    "Squeeze together"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Incline Chest Fly (Dumbbell) is a intermediate horizontal push exercise for the chest and front delts, performed with dumbbells.",
+  "overview": "A dumbbell fly on an incline bench that stretches the upper chest.",
   "image": "assets/exercises/incline-chest-fly-dumbbell.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Pressing instead of flying",
+    "Dropping too low",
+    "Using too heavy a weight"
+  ],
+  "safetyNotes": "Use light-to-moderate weights; stop at the stretch."
 }

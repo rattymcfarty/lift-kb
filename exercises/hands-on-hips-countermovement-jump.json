@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Hands on Hips Countermovement Jump with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand with feet shoulder-width apart and your hands on your hips.",
+    "Quickly dip into a quarter squat.",
+    "Immediately jump as high as you can.",
+    "Land softly on the balls of your feet, bending your knees to absorb the impact.",
+    "Reset and repeat."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Dip and explode",
+    "Quiet landing",
+    "Hands stay on hips"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Hands on Hips Countermovement Jump is a intermediate cardio exercise for the quadriceps and calves, performed with just your bodyweight.",
+  "overview": "A jump that begins with a quick dip, with the hands on the hips so power comes from the legs.",
   "image": "assets/exercises/hands-on-hips-countermovement-jump.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Landing stiff-legged",
+    "Letting the knees cave in",
+    "Jumping from a deep squat"
+  ],
+  "safetyNotes": "Do it on a firm, non-slip surface; skip if you have knee or ankle injuries."
 }

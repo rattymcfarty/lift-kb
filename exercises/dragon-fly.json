@@ -15,17 +15,19 @@
   "difficulty": "advanced",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Dragon Fly with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Lie on a bench and hold the bench behind your head.",
+    "Lift your legs and hips up so your body is in a near-vertical line.",
+    "Slowly lower your straight legs as far as you can control.",
+    "Keep your lower back from arching.",
+    "Raise your legs back up by squeezing your abs."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Straight legs",
+    "Slow and controlled",
+    "Abs braced"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Dragon Fly is an advanced core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A dragon-flag style exercise where the legs sweep down and up while your upper back is supported.",
   "image": "assets/exercises/dragon-fly.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Letting the back arch",
+    "Using momentum",
+    "Going lower than you can control"
+  ],
+  "safetyNotes": "Advanced; use a modified version to build up and skip it with back pain."
 }

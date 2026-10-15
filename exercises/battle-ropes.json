@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Battle Ropes with an implement. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand facing the anchor holding one rope end in each hand, feet shoulder-width apart, knees slightly bent.",
+    "Hinge slightly at the hips and brace your core.",
+    "Alternately raise and snap each arm up and down to create continuous waves in the ropes.",
+    "Keep your chest tall and your shoulders relaxed away from your ears.",
+    "Work in timed intervals, resting when your waves get small."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Stay low and athletic",
+    "Waves from the shoulders, not the wrists",
+    "Breathe steadily"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Battle Ropes is a intermediate cardio exercise for the front delts and middle delts, performed with an implement.",
+  "overview": "A high-intensity conditioning drill where you whip heavy ropes in waves to elevate your heart rate and challenge your shoulders and core.",
   "image": "assets/exercises/battle-ropes.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Standing upright and stiff",
+    "Rounding the lower back",
+    "Gripping so hard the forearms fail early"
+  ],
+  "safetyNotes": "Anchor the rope securely; start with short intervals if you have shoulder or back issues."
 }

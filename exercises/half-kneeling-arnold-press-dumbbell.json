@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Half Kneeling Arnold Press (Dumbbell) with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Half-kneel with one knee down and the other foot forward, holding a dumbbell in each hand at chin level with palms facing you.",
+    "Brace your glutes and abs so your torso stays tall.",
+    "Press the dumbbells overhead while rotating your palms to face forward.",
+    "Lock out at the top without arching your back.",
+    "Lower, rotating your palms back toward you."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Tall posture",
+    "Glute squeezed on the down-knee side",
+    "Smooth rotation"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Half Kneeling Arnold Press (Dumbbell) is a intermediate vertical push exercise for the front delts and middle delts, performed with dumbbells.",
+  "overview": "An Arnold press performed half-kneeling to challenge shoulder strength while the core and hips stabilise.",
   "image": "assets/exercises/half-kneeling-arnold-press-dumbbell.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Leaning back to press",
+    "Flaring the ribs",
+    "Rotating too fast"
+  ],
+  "safetyNotes": "Use a lighter weight than seated; stop if the shoulders feel pinched."
 }

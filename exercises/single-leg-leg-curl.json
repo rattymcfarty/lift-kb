@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Single-Leg Leg Curl with a machine. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Set up on the machine with the pad above one heel.",
+    "Curl your heel toward your glute.",
+    "Squeeze your hamstring.",
+    "Return slowly.",
+    "Switch legs."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Squeeze at the top",
+    "Slow return",
+    "Hips stay down"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Single-Leg Leg Curl is a intermediate other exercise for the hamstrings, performed with a machine.",
+  "overview": "A machine leg curl done one leg at a time.",
   "image": "assets/exercises/single-leg-leg-curl.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Lifting the hips",
+    "Using momentum",
+    "Dropping the weight"
+  ],
+  "safetyNotes": "Use a moderate weight."
 }

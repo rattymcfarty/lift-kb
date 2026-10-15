@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Block Pull (Barbell) with a barbell. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Set the barbell on blocks so it sits just below knee height and stand with your mid-foot under it.",
+    "Hinge down and grip the bar just outside your legs with a flat back.",
+    "Take the slack out of the bar by pulling your shoulders slightly back.",
+    "Drive through your feet and extend your hips and knees together to stand tall.",
+    "Lower the bar back to the blocks under control."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Chest up, back flat",
+    "Push the floor away",
+    "Squeeze glutes at the top"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Block Pull (Barbell) is a intermediate hinge exercise for the quadriceps and glutes, performed with a barbell.",
+  "overview": "A deadlift from an elevated start (blocks), shortening the range so you can train the upper portion of the pull heavy.",
   "image": "assets/exercises/block-pull-barbell.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Hinge"
+  "updatedAt": "2026-10-14",
+  "category": "Hinge",
+  "commonMistakes": [
+    "Jerking the bar off the blocks",
+    "Rounding the lower back",
+    "Overextending at the top"
+  ],
+  "safetyNotes": "Use a belt and appropriate load; avoid if you have acute back pain."
 }

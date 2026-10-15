@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "squat",
   "instructions": [
-    "Set up for the Leg Press (45 Degrees) with a machine. Stand with your feet about shoulder-width apart and your core braced.",
-    "Lower down by pushing your hips back and bending your knees, keeping your chest up and your knees tracking over your toes.",
-    "Drive through your whole foot to stand back up, keeping your torso tall."
+    "Sit in the seat with your back flat against the pad and your feet shoulder-width on the platform.",
+    "Unlock the safety handles and extend your legs without locking your knees.",
+    "Lower the sled slowly by bending your knees until they are at about 90 degrees or your lower back is about to lift.",
+    "Press the platform away through your whole foot.",
+    "Re-lock the safeties when done."
   ],
   "cues": [
-    "Chest up",
+    "Back stays flat",
     "Knees track over toes",
-    "Drive through the whole foot"
+    "Don't lock the knees"
   ],
   "longevityNotes": "Squatting is the foundation of getting up, sitting down, and climbing stairs. Keeping leg strength and knee range preserves independence decades longer than any single other movement.",
-  "overview": "Leg Press (45 Degrees) is a intermediate squat exercise for the quadriceps and hamstrings, performed with a machine.",
+  "overview": "A machine leg press on a 45-degree sled that trains the quads, glutes and hamstrings with back support.",
   "image": "assets/exercises/leg-press-45-degrees.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Squat"
+  "updatedAt": "2026-10-14",
+  "category": "Squat",
+  "commonMistakes": [
+    "Letting the hips curl up off the pad",
+    "Locking the knees hard",
+    "Bouncing at the bottom"
+  ],
+  "safetyNotes": "Set safeties; never go so deep that your lower back lifts from the pad."
 }

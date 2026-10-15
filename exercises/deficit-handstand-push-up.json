@@ -19,17 +19,19 @@
   "difficulty": "advanced",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Deficit Handstand Push Up with just your bodyweight. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Stand with your hands on two sturdy blocks or plates and kick up into a handstand against a wall.",
+    "Brace your core and keep your body in a straight line.",
+    "Lower your head slowly down between your hands until it is below hand level.",
+    "Press back up powerfully to full lockout.",
+    "Come down from the handstand carefully."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Straight line body",
+    "Controlled descent",
+    "Press through the whole hand"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Deficit Handstand Push Up is an advanced vertical push exercise for the front delts and middle delts, performed with just your bodyweight.",
+  "overview": "A handstand push-up from a raised surface that increases the range of motion for the shoulders and triceps.",
   "image": "assets/exercises/deficit-handstand-push-up.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Flaring the elbows",
+    "Arching the lower back",
+    "Dropping too fast"
+  ],
+  "safetyNotes": "Advanced; master regular handstand push-ups first, use a safe landing area, and avoid if you have neck or wrist issues."
 }

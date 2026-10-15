@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Standing Behind Neck Shoulder Press (Barbell) with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Hold a barbell on your upper back with a wide grip.",
+    "Brace your core.",
+    "Press the bar overhead.",
+    "Lower to ear level.",
+    "Re-rack carefully."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Stop at ear level",
+    "Ribs down",
+    "Slow lowering"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Standing Behind Neck Shoulder Press (Barbell) is a intermediate vertical push exercise for the middle delts and front delts, performed with a barbell.",
+  "overview": "A standing barbell press from behind the neck for the shoulders.",
   "image": "assets/exercises/standing-behind-neck-shoulder-press-barbell.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Lowering past the ears",
+    "Arching the back",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Requires shoulder mobility; use light weights and skip with impingement."
 }

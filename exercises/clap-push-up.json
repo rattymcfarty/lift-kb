@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Clap Push Up with just your bodyweight. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Start in a high plank position with hands under your shoulders and body in a straight line.",
+    "Lower your chest toward the floor with control.",
+    "Explode upward fast enough that your hands leave the floor, and clap.",
+    "Land with soft elbows and absorb the impact.",
+    "Immediately lower into the next rep or reset."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Straight body",
+    "Explode up",
+    "Land soft"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Clap Push Up is a intermediate horizontal push exercise for the chest and triceps, performed with just your bodyweight.",
+  "overview": "An explosive plyometric push-up where your hands leave the floor and clap at the top.",
   "image": "assets/exercises/clap-push-up.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Landing with locked elbows",
+    "Rushing when fatigued"
+  ],
+  "safetyNotes": "Needs good wrist and shoulder health; start from your knees or an elevated surface if it is too hard."
 }

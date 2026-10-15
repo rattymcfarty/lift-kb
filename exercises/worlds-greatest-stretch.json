@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the World's Greatest Stretch with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Step into a deep lunge.",
+    "Place both hands inside your front foot.",
+    "Rotate your torso and reach one arm to the ceiling.",
+    "Return and straighten the front leg to stretch the hamstring.",
+    "Switch sides."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Open the chest",
+    "Slow breathing",
+    "Hips low"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "World's Greatest Stretch is a beginner mobility exercise for the other, performed with just your bodyweight.",
+  "overview": "A dynamic lunge-based stretch for the hips, hamstrings, thoracic spine and shoulders.",
   "image": "assets/exercises/worlds-greatest-stretch.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Rushing",
+    "Letting the knee cave",
+    "Rounding the back"
+  ],
+  "safetyNotes": "Move gently; ease off with groin tightness."
 }

@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Shadow Kick Boxing with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand in a fighting stance with hands up.",
+    "Throw punches and add controlled kicks.",
+    "Rotate hips with each strike.",
+    "Keep balanced and light.",
+    "Work in timed rounds."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Hands up",
+    "Balance on the standing leg",
+    "Rotate hips"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Shadow Kick Boxing is a intermediate cardio exercise for the other, performed with just your bodyweight.",
+  "overview": "Punching and kicking drills without a target for conditioning.",
   "image": "assets/exercises/shadow-kick-boxing.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Kicking too high without mobility",
+    "Losing balance",
+    "Locking joints"
+  ],
+  "safetyNotes": "Warm up hips and hamstrings first."
 }

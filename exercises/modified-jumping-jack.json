@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Modified Jumping Jack with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand with feet together and arms at your sides.",
+    "Step one foot out to the side while raising your arms overhead.",
+    "Step it back and lower your arms.",
+    "Repeat with the other foot.",
+    "Keep a steady rhythm."
   ],
   "cues": [
     "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Tall posture",
+    "Arms overhead"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Modified Jumping Jack is a beginner cardio exercise for the other, performed with just your bodyweight.",
+  "overview": "A low-impact jumping jack variation where you step instead of jump.",
   "image": "assets/exercises/modified-jumping-jack.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Rushing",
+    "Slouching",
+    "Holding your breath"
+  ],
+  "safetyNotes": "A good low-impact option for joint issues."
 }

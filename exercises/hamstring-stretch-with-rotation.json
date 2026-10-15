@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Hamstring Stretch with Rotation with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Stand with one heel forward on the floor, toes lifted, and hinge forward at the hips with a flat back.",
+    "Reach the opposite hand toward your front foot.",
+    "Rotate your torso and reach the other arm up toward the ceiling.",
+    "Hold for a few seconds, then return and repeat for 6 to 8 reps.",
+    "Switch sides."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Flat back",
+    "Slow rotation",
+    "Breathe out as you rotate"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Hamstring Stretch with Rotation is a beginner mobility exercise for the other, performed with just your bodyweight.",
+  "overview": "A standing or seated hamstring stretch with a thoracic rotation that adds mobility through the trunk.",
   "image": "assets/exercises/hamstring-stretch-with-rotation.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Rounding the back",
+    "Bouncing",
+    "Locking the knee hard"
+  ],
+  "safetyNotes": "Move gently into a mild stretch; avoid if you have acute hamstring or back strain."
 }

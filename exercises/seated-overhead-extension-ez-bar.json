@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Seated Overhead Extension (EZ Bar) with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Sit on a bench holding an EZ bar overhead with a narrow grip.",
+    "Keep your upper arms close to your head.",
+    "Lower the bar behind your head by bending your elbows.",
+    "Stop at a comfortable stretch.",
+    "Extend your arms back up."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Elbows pointing up",
+    "Upper arms still",
+    "Full extension"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Seated Overhead Extension (EZ Bar) is a intermediate other exercise for the triceps, performed with a barbell.",
+  "overview": "A seated overhead triceps extension with an EZ bar.",
   "image": "assets/exercises/seated-overhead-extension-ez-bar.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Flaring the elbows",
+    "Arching the back",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use a moderate weight and a spotter if needed."
 }

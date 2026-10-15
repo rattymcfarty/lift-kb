@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Lateral Jump with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand on one foot next to a line or marker with a slight knee bend.",
+    "Jump sideways off that foot to the other side.",
+    "Land softly on the opposite foot and stick the landing.",
+    "Immediately jump back to the other side.",
+    "Keep your hips and knees aligned."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Land soft and stick",
+    "Knee over toes",
+    "Quick but controlled"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Lateral Jump is a intermediate cardio exercise for the quadriceps and hamstrings, performed with just your bodyweight.",
+  "overview": "A side-to-side plyometric jump that trains lateral power and landing control.",
   "image": "assets/exercises/lateral-jump.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Letting the knee cave in",
+    "Landing stiff",
+    "Rushing"
+  ],
+  "safetyNotes": "Skip with knee or ankle instability; use a firm surface."
 }

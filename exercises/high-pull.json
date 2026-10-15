@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the High Pull with a barbell. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Stand with a barbell at mid-thigh in a hang position, hips back and chest up.",
+    "Extend your hips, knees and ankles explosively.",
+    "Shrug your shoulders and pull the bar up with your elbows leading, high and outside.",
+    "Bring the bar to about chest height.",
+    "Lower the bar under control back to the hang position."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Jump tall",
+    "Elbows high",
+    "Bar close to the body"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "High Pull is a intermediate other exercise for the upper back and lats, performed with a barbell.",
+  "overview": "A power movement where you pull a barbell explosively to chest height with the elbows high.",
   "image": "assets/exercises/high-pull.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Olympic",
+  "commonMistakes": [
+    "Pulling with the arms before the legs",
+    "Swinging the bar away",
+    "Leaning back"
+  ],
+  "safetyNotes": "Use a light-to-moderate load; avoid if you have shoulder or wrist problems."
 }

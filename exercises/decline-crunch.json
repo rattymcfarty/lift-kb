@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Decline Crunch with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Secure your feet on a decline bench and lie back with arms crossed on your chest.",
+    "Curl your torso up, bringing your ribs toward your pelvis.",
+    "Pause for a moment at the top.",
+    "Lower slowly until your shoulder blades are near the bench.",
+    "Keep your neck relaxed throughout."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Ribs to hips",
+    "Slow lowering",
+    "Neck relaxed"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Decline Crunch is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A crunch on a decline bench that increases the range and resistance on the abs.",
   "image": "assets/exercises/decline-crunch.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Yanking the head forward",
+    "Swinging with momentum",
+    "Lowering too fast"
+  ],
+  "safetyNotes": "Use a gentler incline if you have low-back sensitivity."
 }

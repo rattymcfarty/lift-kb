@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Seated Overhead Press (Barbell) with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Sit on a bench with back support and hold the bar at shoulder height.",
+    "Brace your core.",
+    "Press the bar up until your arms are extended.",
+    "Lower the bar slowly to your chin or upper chest.",
+    "Re-rack safely."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Ribs down",
+    "Press straight up",
+    "Slow lowering"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Seated Overhead Press (Barbell) is a intermediate vertical push exercise for the middle delts and front delts, performed with a barbell.",
+  "overview": "A seated barbell overhead press that removes leg drive and focuses on the shoulders and triceps.",
   "image": "assets/exercises/seated-overhead-press-barbell.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Arching the back",
+    "Pressing in front of the face",
+    "Using too much weight"
+  ],
+  "safetyNotes": "Use a rack with safeties; stop with shoulder pain."
 }

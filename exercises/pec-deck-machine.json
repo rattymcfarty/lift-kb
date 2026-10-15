@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Pec Deck (Machine) with a machine. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Adjust the seat so the handles are at chest height and sit with your back against the pad.",
+    "Grip the handles with a slight bend in your elbows.",
+    "Bring your arms together in front of your chest.",
+    "Squeeze your chest at the centre.",
+    "Return slowly until you feel a stretch."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Slight elbow bend",
+    "Squeeze at the centre",
+    "Slow return"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Pec Deck (Machine) is a intermediate horizontal push exercise for the chest and front delts, performed with a machine.",
+  "overview": "A machine fly that isolates the chest by bringing the arms together in front of you.",
   "image": "assets/exercises/pec-deck-machine.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Letting the shoulders roll forward",
+    "Using momentum",
+    "Going back too far"
+  ],
+  "safetyNotes": "Set the range so the stretch is comfortable; avoid over-stretching the shoulders."
 }

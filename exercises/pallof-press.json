@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Pallof Press with a cable machine. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Set a cable at chest height and stand sideways to the machine, holding the handle at your chest with both hands.",
+    "Step away to create tension and stand with feet shoulder-width apart.",
+    "Brace your core and press the handle straight out in front of you.",
+    "Hold for a second without rotating.",
+    "Bring the handle back to your chest."
   ],
   "cues": [
-    "Breathe steadily",
+    "Resist the rotation",
     "Ribs down",
-    "Move slowly, no forcing"
+    "Slow press"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Pallof Press is a intermediate core exercise for the abs, performed with a cable machine.",
+  "overview": "An anti-rotation core exercise where you press a cable away from your chest without letting your torso twist.",
   "image": "assets/exercises/pallof-press.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Letting the torso twist",
+    "Shrugging",
+    "Leaning away"
+  ],
+  "safetyNotes": "Use a moderate load; keep your spine neutral."
 }

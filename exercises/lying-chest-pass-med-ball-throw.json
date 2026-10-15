@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Lying Chest Pass Med Ball Throw with an implement. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on your back with knees bent, holding a medicine ball at your chest.",
+    "Explosively press the ball straight up.",
+    "Catch the ball with soft elbows.",
+    "Immediately bring it back to your chest and repeat.",
+    "Keep your lower back flat."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Explode up",
+    "Catch softly",
+    "Lower back flat"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Lying Chest Pass Med Ball Throw is a intermediate horizontal push exercise for the chest and triceps, performed with an implement.",
+  "overview": "A lying explosive chest pass that trains upper-body power with a medicine ball.",
   "image": "assets/exercises/lying-chest-pass-med-ball-throw.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Arching the back",
+    "Catching with locked elbows",
+    "Throwing off-centre"
+  ],
+  "safetyNotes": "Use a soft medicine ball; clear the space above you."
 }

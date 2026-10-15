@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Skater Hop with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand on one foot with a slight knee bend.",
+    "Hop sideways to the other foot.",
+    "Swing your free leg behind you for balance.",
+    "Land softly and stick it.",
+    "Bound back to the other side."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Land softly",
+    "Stick the landing",
+    "Swing arms"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Skater Hop is a intermediate cardio exercise for the quadriceps and glutes, performed with just your bodyweight.",
+  "overview": "A lateral bounding jump that trains single-leg power and balance.",
   "image": "assets/exercises/skater-hop.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Landing stiff",
+    "Knee caving in",
+    "Rushing"
+  ],
+  "safetyNotes": "Skip with knee problems."
 }

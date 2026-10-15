@@ -20,17 +20,19 @@
   "difficulty": "intermediate",
   "movementPattern": "carry",
   "instructions": [
-    "Set up for the One Arm Overhead Carry with March with dumbbells. Pick the weight up with a flat back and braced core.",
-    "Stand tall — ribs down, shoulders back — and walk with short, steady steps.",
-    "Keep your torso still and level; do not lean away from the load. Set the weight down with control."
+    "Press a dumbbell overhead in one hand until your arm is locked out.",
+    "Stand tall with your ribs down and your glutes squeezed.",
+    "March in place or walk, lifting your knees without leaning.",
+    "Keep the dumbbell directly over your shoulder.",
+    "Switch arms after the set."
   ],
   "cues": [
-    "Stand tall",
     "Ribs down",
-    "Short steady steps"
+    "Biceps by your ear",
+    "Stand tall"
   ],
   "longevityNotes": "Carrying is the most functional strength there is — groceries, luggage, a grandchild. Loaded carries build grip, posture, and core stability in one movement.",
-  "overview": "One Arm Overhead Carry with March is a intermediate carry exercise for the front delts and middle delts, performed with dumbbells.",
+  "overview": "A single-arm overhead carry with a marching step that trains shoulder stability and core control.",
   "image": "assets/exercises/one-arm-overhead-carry-with-march.png",
   "demoMedia": {
     "images": [],
@@ -43,6 +45,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Carry"
+  "updatedAt": "2026-10-14",
+  "category": "Carry",
+  "commonMistakes": [
+    "Leaning to the side",
+    "Letting the arm drift forward",
+    "Arching the lower back"
+  ],
+  "safetyNotes": "Use a light weight; stop with shoulder pain."
 }

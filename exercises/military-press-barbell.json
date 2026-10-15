@@ -19,17 +19,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Military Press (Barbell) with a barbell. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Hold a barbell at your upper chest with an overhand grip just outside shoulder width, feet together or hip-width.",
+    "Squeeze your glutes and brace your core.",
+    "Press the bar straight up, moving your head back slightly then forward.",
+    "Lock out overhead with the bar over your mid-foot.",
+    "Lower the bar under control to your chest."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Glutes squeezed",
+    "Ribs down",
+    "Bar over the mid-foot"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Military Press (Barbell) is a intermediate vertical push exercise for the front delts and middle delts, performed with a barbell.",
+  "overview": "A strict standing barbell overhead press without leg drive, building shoulder and triceps strength.",
   "image": "assets/exercises/military-press-barbell.png",
   "demoMedia": {
     "images": [],
@@ -42,6 +44,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Vertical Push"
+  "updatedAt": "2026-10-14",
+  "category": "Vertical Push",
+  "commonMistakes": [
+    "Leaning back",
+    "Using the legs",
+    "Flaring the ribs"
+  ],
+  "safetyNotes": "Use a lighter load than a push press; stop with shoulder pain."
 }

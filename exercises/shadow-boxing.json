@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "cardio",
   "instructions": [
-    "Set up for the Shadow Boxing with just your bodyweight. Start easy and find your rhythm.",
-    "Work at a steady, sustainable pace — you should be able to breathe rhythmically throughout.",
-    "Cool down gradually rather than stopping abruptly."
+    "Stand in a boxing stance with hands up.",
+    "Throw jabs and crosses at an imaginary opponent.",
+    "Move your feet and rotate your hips.",
+    "Work in timed rounds.",
+    "Rest and repeat."
   ],
   "cues": [
-    "Steady rhythm",
-    "Breathe rhythmically",
-    "Stay relaxed"
+    "Hands up",
+    "Rotate hips",
+    "Stay light on your feet"
   ],
   "longevityNotes": "Cardiovascular fitness is the single strongest predictor of a long, active life. Regular cardio work keeps the heart, lungs, and brain in shape for decades.",
-  "overview": "Shadow Boxing is a intermediate cardio exercise for the other, performed with just your bodyweight.",
+  "overview": "Punching and movement drills without a target for conditioning and coordination.",
   "image": "assets/exercises/shadow-boxing.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Cardio"
+  "updatedAt": "2026-10-14",
+  "category": "Cardio",
+  "commonMistakes": [
+    "Locking the elbows on punches",
+    "Dropping the guard",
+    "Flat feet"
+  ],
+  "safetyNotes": "Keep the elbows slightly soft to protect them."
 }

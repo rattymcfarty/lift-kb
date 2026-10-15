@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Couch Stretch with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Kneel facing away from a couch or bench and place the top of one foot against it behind you.",
+    "Step your other foot forward into a lunge position.",
+    "Raise your torso upright and tuck your pelvis by squeezing your back glute.",
+    "Hold the stretch for 20 to 30 seconds.",
+    "Switch sides."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Squeeze the back glute",
+    "Torso tall",
+    "Breathe"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Couch Stretch is a beginner mobility exercise for the other, performed with just your bodyweight.",
+  "overview": "A deep stretch for the hip flexors and quadriceps using a couch or bench to hold the back foot.",
   "image": "assets/exercises/couch-stretch.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Mobility"
+  "updatedAt": "2026-10-14",
+  "category": "Mobility",
+  "commonMistakes": [
+    "Overarching the low back",
+    "Bouncing",
+    "Letting the front knee collapse"
+  ],
+  "safetyNotes": "Pad the knee; back off if you feel sharp knee or hip pain."
 }

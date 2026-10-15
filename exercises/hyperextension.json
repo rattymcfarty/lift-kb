@@ -18,17 +18,19 @@
   "difficulty": "intermediate",
   "movementPattern": "hinge",
   "instructions": [
-    "Set up for the Hyperextension with just your bodyweight. Stand tall with your core braced.",
-    "Hinge at the hips, pushing them back while keeping a flat back and a slight knee bend.",
-    "Drive your hips forward to stand tall, squeezing your glutes at the top without leaning back."
+    "Position your hips on the pad of a 45-degree bench with your feet secured.",
+    "Cross your arms over your chest and hinge forward with a straight spine.",
+    "Raise your torso until your body is in a straight line.",
+    "Squeeze your glutes at the top.",
+    "Lower slowly."
   ],
   "cues": [
-    "Hips back, flat back",
-    "Squeeze glutes at the top",
-    "Don't round your back"
+    "Hinge at the hips",
+    "Stop at a straight line",
+    "Slow lowering"
   ],
   "longevityNotes": "Hip-hinge strength protects the lower back in every lift, from groceries to grandchildren. Strong glutes and hamstrings are the engine of walking, climbing, and standing up.",
-  "overview": "Hyperextension is a intermediate other exercise for the lower back and glutes, performed with just your bodyweight.",
+  "overview": "A bodyweight hyperextension that trains the lower back, glutes and hamstrings on a 45-degree bench.",
   "image": "assets/exercises/hyperextension.png",
   "demoMedia": {
     "images": [],
@@ -41,6 +43,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Hyperextending the lower back",
+    "Rounding the upper back",
+    "Swinging with momentum"
+  ],
+  "safetyNotes": "Avoid with acute back problems; keep range moderate."
 }

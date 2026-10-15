@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "carry",
   "instructions": [
-    "Set up for the Farmer's Walk (Weighted) with dumbbells. Pick the weight up with a flat back and braced core.",
-    "Stand tall — ribs down, shoulders back — and walk with short, steady steps.",
-    "Keep your torso still and level; do not lean away from the load. Set the weight down with control."
+    "Stand between two heavy dumbbells and pick them up by hinging at the hips with a flat back.",
+    "Stand tall with your shoulders pulled back and down, arms at your sides.",
+    "Walk with short controlled steps for a set distance or time.",
+    "Keep your core braced and avoid leaning to either side.",
+    "Set the weights down under control."
   ],
   "cues": [
     "Stand tall",
-    "Ribs down",
-    "Short steady steps"
+    "Shoulders back and down",
+    "Short quick steps"
   ],
   "longevityNotes": "Carrying is the most functional strength there is — groceries, luggage, a grandchild. Loaded carries build grip, posture, and core stability in one movement.",
-  "overview": "Farmer's Walk (Weighted) is a intermediate carry exercise for the forearms and upper back, performed with dumbbells.",
+  "overview": "A loaded carry holding heavy dumbbells at your sides that builds grip, upper back, core and overall stability.",
   "image": "assets/exercises/farmers-walk-weighted.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Carry"
+  "updatedAt": "2026-10-14",
+  "category": "Carry",
+  "commonMistakes": [
+    "Leaning to one side",
+    "Looking down and rounding",
+    "Dropping the weights"
+  ],
+  "safetyNotes": "Pick up and set down with good hinge form; use a load you can hold with good posture."
 }

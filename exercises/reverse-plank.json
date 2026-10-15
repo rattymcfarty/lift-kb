@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "core",
   "instructions": [
-    "Set up for the Reverse Plank with just your bodyweight. Get into position with your core braced.",
-    "Perform the movement slowly, breathing steadily — exhale on the hard part.",
-    "Keep your lower back still and your ribs down. Stop the set if your form breaks."
+    "Sit with your legs extended and your hands behind you, fingers pointing toward your feet.",
+    "Press through your hands and heels to lift your hips.",
+    "Create a straight line from head to heels.",
+    "Hold the position.",
+    "Lower slowly."
   ],
   "cues": [
-    "Breathe steadily",
-    "Ribs down",
-    "Move slowly, no forcing"
+    "Straight line",
+    "Squeeze glutes",
+    "Chest open"
   ],
   "longevityNotes": "A strong, stable core protects the spine in every other movement and makes daily tasks — bending, twisting, reaching — safer. Core endurance matters more than core power.",
-  "overview": "Reverse Plank is a beginner core exercise for the abs, performed with just your bodyweight.",
+  "overview": "A supported hold facing the ceiling that trains the glutes, hamstrings and back.",
   "image": "assets/exercises/reverse-plank.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Core"
+  "updatedAt": "2026-10-14",
+  "category": "Core",
+  "commonMistakes": [
+    "Letting the hips sag",
+    "Shrugging",
+    "Hyperextending the neck"
+  ],
+  "safetyNotes": "Stop with wrist or shoulder discomfort."
 }

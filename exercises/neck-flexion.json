@@ -15,17 +15,19 @@
   "difficulty": "beginner",
   "movementPattern": "mobility",
   "instructions": [
-    "Set up for the Neck Flexion with just your bodyweight. Get into a comfortable starting position.",
-    "Move slowly into the stretch until you feel a gentle pull — never pain.",
-    "Breathe steadily and hold or flow through the movement, staying relaxed outside the target area."
+    "Sit tall and place your palm on your forehead.",
+    "Gently push your head forward into your hand while resisting with your hand.",
+    "Hold for 5 to 10 seconds.",
+    "Relax slowly.",
+    "Repeat for several reps."
   ],
   "cues": [
-    "Move slowly, no forcing",
-    "Breathe into the stretch",
-    "Stay relaxed outside the target area"
+    "Gentle pressure",
+    "Relaxed shoulders",
+    "Breathe normally"
   ],
   "longevityNotes": "Mobility is use-it-or-lose-it. Ten minutes of daily joint work preserves the ranges that keep you independent — reaching, bending, and getting up from the floor.",
-  "overview": "Neck Flexion is a beginner other exercise for the neck, performed with just your bodyweight.",
+  "overview": "An isometric or light-resisted neck flexion that builds neck endurance.",
   "image": "assets/exercises/neck-flexion.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Pushing too hard",
+    "Holding your breath",
+    "Shrugging"
+  ],
+  "safetyNotes": "Keep the effort light to moderate; stop with dizziness or pain."
 }

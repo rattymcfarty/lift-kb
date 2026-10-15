@@ -16,17 +16,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Fly Press (Dumbbell) with dumbbells. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Lie on a flat bench holding dumbbells over your chest with a slight bend in your elbows.",
+    "Open your arms wide in a fly until you feel a chest stretch.",
+    "As you bring the dumbbells back, rotate into a press by bending the elbows and driving them together.",
+    "Finish with the dumbbells locked out over your chest.",
+    "Keep your shoulder blades pinned back."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Fly down, press up",
+    "Keep the chest tall",
+    "Squeeze at the top"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Fly Press (Dumbbell) is a intermediate horizontal push exercise for the chest and front delts, performed with dumbbells.",
+  "overview": "A hybrid dumbbell movement that begins as a fly to stretch the chest and finishes as a press.",
   "image": "assets/exercises/fly-press-dumbbell.png",
   "demoMedia": {
     "images": [],
@@ -39,6 +41,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Horizontal Push"
+  "updatedAt": "2026-10-14",
+  "category": "Horizontal Push",
+  "commonMistakes": [
+    "Dropping too low",
+    "Losing shoulder-blade position",
+    "Using too heavy dumbbells"
+  ],
+  "safetyNotes": "Use light-to-moderate weights; stop at the stretch."
 }

@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "push",
   "instructions": [
-    "Set up for the Katana Extension with a cable machine. Get into a stable position with your core braced.",
-    "Press the weight away from your body with control, keeping your wrists stacked and your ribs down.",
-    "Lower back to the start under control. Keep tension through the whole range — do not drop or bounce."
+    "Set a cable pulley low and hold the handle in one hand.",
+    "Raise your arm overhead with the elbow bent and pointing up.",
+    "Extend your arm up and across your body, as if drawing a sword.",
+    "Squeeze your triceps at the top.",
+    "Return slowly under control."
   ],
   "cues": [
-    "Brace your core",
-    "Keep wrists stacked",
-    "Control the lowering"
+    "Elbow stays high",
+    "Squeeze at the top",
+    "Slow return"
   ],
   "longevityNotes": "Pressing strength keeps daily pushing — doors, shelves, getting up from the floor — easy and safe. Controlled pressing builds the shoulders, chest, and arms that protect you in a fall.",
-  "overview": "Katana Extension is a intermediate other exercise for the triceps, performed with a cable machine.",
+  "overview": "A cable overhead triceps extension performed with a rotation of the arm to emphasise the triceps.",
   "image": "assets/exercises/katana-extension.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Other",
+  "commonMistakes": [
+    "Flaring the elbow",
+    "Using the shoulder",
+    "Using too heavy a weight"
+  ],
+  "safetyNotes": "Use a lighter weight; stop with shoulder or elbow pain."
 }

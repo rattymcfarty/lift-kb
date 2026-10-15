@@ -15,17 +15,19 @@
   "difficulty": "intermediate",
   "movementPattern": "pull",
   "instructions": [
-    "Set up for the Power Shrug with a barbell. Get into a stable position with your core braced.",
-    "Pull the weight toward your body, driving your elbows back and squeezing your shoulder blades together.",
-    "Lower back to the start with control, letting your arms extend fully without losing tension."
+    "Stand holding a barbell at mid-thigh with an overhand grip.",
+    "Dip slightly and extend your hips explosively.",
+    "Shrug your shoulders up toward your ears as the bar rises.",
+    "Allow your elbows to bend slightly at the top.",
+    "Lower the bar under control."
   ],
   "cues": [
-    "Drive elbows back",
-    "Squeeze shoulder blades",
-    "Full range, no swinging"
+    "Jump tall",
+    "Shrug high",
+    "Bar close to the body"
   ],
   "longevityNotes": "Pulling strength balances all the forward-reaching of daily life and protects the shoulders and upper back. A strong back is one of the best predictors of staying active and independent.",
-  "overview": "Power Shrug is a intermediate other exercise for the upper back, performed with a barbell.",
+  "overview": "An explosive shrug from the hang position that trains the traps and the power pull.",
   "image": "assets/exercises/power-shrug.png",
   "demoMedia": {
     "images": [],
@@ -38,6 +40,12 @@
     }
   ],
   "attribution": "Original prose written for the LIFT knowledge base (CC BY 4.0).",
-  "updatedAt": "2026-10-13",
-  "category": "Other"
+  "updatedAt": "2026-10-14",
+  "category": "Olympic",
+  "commonMistakes": [
+    "Pulling with the arms",
+    "Leaning back",
+    "Using too heavy a load"
+  ],
+  "safetyNotes": "Use moderate weight; avoid with neck or shoulder problems."
 }
