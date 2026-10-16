@@ -20,10 +20,10 @@ jobs:
           node-version: '22'
 
       - name: Validate exercises
-        run: npx -y ajv-cli validate -s schemas/exercise.schema.json -d 'exercises/*.json'
+        run: node scripts/validate-content.mjs
 
       - name: Validate programs
-        run: npx -y ajv-cli validate -s schemas/program.schema.json -d 'programs/*.json'
+        run: node scripts/validate-content.mjs
 
       - name: Validate channel.json
         run: npx -y ajv-cli validate -s schemas/channel.schema.json -d channel.json
