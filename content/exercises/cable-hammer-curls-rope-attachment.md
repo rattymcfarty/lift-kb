@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: cable-hammer-curls-rope-attachment
+schemaVersion: 1
 name: Cable Hammer Curls - Rope Attachment
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/cable-hammer-curls-rope-attachment.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Cable Hammer Curls - Rope Attachment
-
-Cable Hammer Curls - Rope Attachment is a beginner pulling exercise for the biceps, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +35,10 @@ Cable Hammer Curls - Rope Attachment is a beginner pulling exercise for the bice
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Biceps
+
+## Overview
+
+Cable Hammer Curls - Rope Attachment is a beginner pulling exercise for the biceps, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

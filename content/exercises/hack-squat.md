@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hack-squat
+schemaVersion: 1
 name: Hack Squat
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,23 @@ muscles:
     - Hamstrings
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/hack-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Hack Squat
-
-A beginner machine squat-pattern exercise for the quadriceps. Hack Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -26,6 +39,10 @@ A beginner machine squat-pattern exercise for the quadriceps. Hack Squat develop
 - **Equipment:** Machine
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings
+
+## Overview
+
+A beginner machine squat-pattern exercise for the quadriceps. Hack Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

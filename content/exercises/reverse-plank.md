@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: reverse-plank
+schemaVersion: 1
 name: Reverse Plank
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/reverse-plank.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Reverse Plank
-
-A supported hold facing the ceiling that trains the glutes, hamstrings and back.
 
 ## Details
 
@@ -22,6 +33,10 @@ A supported hold facing the ceiling that trains the glutes, hamstrings and back.
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+A supported hold facing the ceiling that trains the glutes, hamstrings and back.
 
 ## Instructions
 

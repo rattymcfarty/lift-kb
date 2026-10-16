@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: wide-grip-pull-up
+schemaVersion: 1
 name: Wide Grip Pull-Up
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/wide-grip-pull-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Wide Grip Pull-Up
-
-A pull-up with a wide grip that emphasises the lats.
 
 ## Details
 
@@ -25,6 +36,10 @@ A pull-up with a wide grip that emphasises the lats.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A pull-up with a wide grip that emphasises the lats.
 
 ## Instructions
 

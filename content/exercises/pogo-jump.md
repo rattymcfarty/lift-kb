@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: pogo-jump
+schemaVersion: 1
 name: Pogo Jump
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Calves
@@ -10,11 +11,21 @@ muscles:
     - Quadriceps
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/pogo-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Pogo Jump
-
-Pogo Jump is a beginner conditioning exercise performed with just your bodyweight, engaging the calves. It raises the heart rate while building work capacity and coordination.
 
 ## Details
 
@@ -24,6 +35,10 @@ Pogo Jump is a beginner conditioning exercise performed with just your bodyweigh
 - **Equipment:** Bodyweight
 - **Primary muscles:** Calves
 - **Secondary muscles:** Quadriceps
+
+## Overview
+
+Pogo Jump is a beginner conditioning exercise performed with just your bodyweight, engaging the calves. It raises the heart rate while building work capacity and coordination.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: high-pull
+schemaVersion: 1
 name: High Pull
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -12,11 +13,21 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/high-pull.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Olympic
 ---
 
 # High Pull
-
-A power movement where you pull a barbell explosively to chest height with the elbows high.
 
 ## Details
 
@@ -26,6 +37,10 @@ A power movement where you pull a barbell explosively to chest height with the e
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Middle Delts, Front Delts
+
+## Overview
+
+A power movement where you pull a barbell explosively to chest height with the elbows high.
 
 ## Instructions
 

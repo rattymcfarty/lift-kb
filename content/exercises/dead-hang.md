@@ -1,7 +1,17 @@
 ---
-id: dead-hang
-name: Dead Hang
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - passive hang
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Vertical Pull
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Other
+id: dead-hang
 movementPattern: pull
 muscles:
   primary:
@@ -9,8 +19,17 @@ muscles:
     - Lats
   secondary:
     - Abs
-equipment:
-  - Other
+name: Dead Hang
+progression:
+  loadingGuidance: Add 5-10 seconds per set when you can finish all sets without grip failure.
+  progressTo: "Single-arm hang, 15 seconds per side"
+  regressTo: "Feet-supported hang (toes on a box, partial bodyweight)"
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: American College of Sports Medicine
+    title: ACSM Guidelines for Exercise Testing and Prescription
+updatedAt: "2026-10-11"
 ---
 
 # Dead Hang

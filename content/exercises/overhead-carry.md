@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: overhead-carry
+schemaVersion: 1
 name: Overhead Carry
-difficulty: intermediate
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Middle Delts
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: carry
+image: assets/exercises/overhead-carry.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Carry
 ---
 
 # Overhead Carry
-
-An intermediate loaded carry with dumbbells for the front delts. Overhead Carry builds the grip, core, and postural strength used every time you haul groceries or luggage.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate loaded carry with dumbbells for the front delts. Overhead Carry 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Abs, Middle Delts
+
+## Overview
+
+An intermediate loaded carry with dumbbells for the front delts. Overhead Carry builds the grip, core, and postural strength used every time you haul groceries or luggage.
 
 ## Instructions
 

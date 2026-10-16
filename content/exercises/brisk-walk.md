@@ -1,7 +1,18 @@
 ---
-id: brisk-walk
-name: Brisk Walk
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - zone 2 walk
+  - power walk
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Cardio
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Bodyweight
+id: brisk-walk
 movementPattern: cardio
 muscles:
   primary:
@@ -9,8 +20,17 @@ muscles:
   secondary:
     - Calves
     - Glutes
-equipment:
-  - Bodyweight
+name: Brisk Walk
+progression:
+  loadingGuidance: "Add 5 minutes per session each week until you reach 45 minutes, then add a second weekly session before increasing intensity."
+  progressTo: "Rucking (weighted walking)"
+  regressTo: "Easy walk, any duration — consistency beats intensity"
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: American College of Sports Medicine
+    title: ACSM Guidelines for Exercise Testing and Prescription
+updatedAt: "2026-10-11"
 ---
 
 # Brisk Walk

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: cossack-squat
+schemaVersion: 1
 name: Cossack Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/cossack-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Cossack Squat
-
-An intermediate bodyweight squat-pattern exercise for the quadriceps. Cossack Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate bodyweight squat-pattern exercise for the quadriceps. Cossack Sq
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Adductors, Glutes
+
+## Overview
+
+An intermediate bodyweight squat-pattern exercise for the quadriceps. Cossack Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: cable-crunch
+schemaVersion: 1
 name: Cable Crunch
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/cable-crunch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Cable Crunch
-
-A kneeling cable crunch that loads the abs through spinal flexion with adjustable resistance.
 
 ## Details
 
@@ -22,6 +33,10 @@ A kneeling cable crunch that loads the abs through spinal flexion with adjustabl
 - **Movement pattern:** core
 - **Equipment:** Cable
 - **Primary muscles:** Abs
+
+## Overview
+
+A kneeling cable crunch that loads the abs through spinal flexion with adjustable resistance.
 
 ## Instructions
 

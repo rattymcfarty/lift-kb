@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: modified-jumping-jack
+schemaVersion: 1
 name: Modified Jumping Jack
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/modified-jumping-jack.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Modified Jumping Jack
-
-A low-impact jumping jack variation where you step instead of jump.
 
 ## Details
 
@@ -22,6 +33,10 @@ A low-impact jumping jack variation where you step instead of jump.
 - **Movement pattern:** cardio
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A low-impact jumping jack variation where you step instead of jump.
 
 ## Instructions
 

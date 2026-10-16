@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: belt-squat
+schemaVersion: 1
 name: Belt Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/belt-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Belt Squat
-
-An intermediate machine squat-pattern exercise for the quadriceps. Belt Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate machine squat-pattern exercise for the quadriceps. Belt Squat de
 - **Equipment:** Machine
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+An intermediate machine squat-pattern exercise for the quadriceps. Belt Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: reverse-bicep-curl-ez
+schemaVersion: 1
 name: "Reverse Bicep Curl (EZ Bar)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Forearms
@@ -10,11 +11,21 @@ muscles:
     - Biceps
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/reverse-bicep-curl-ez.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Reverse Bicep Curl (EZ Bar)
-
-Reverse Bicep Curl (EZ Bar) is a beginner pulling exercise for the forearms, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +35,10 @@ Reverse Bicep Curl (EZ Bar) is a beginner pulling exercise for the forearms, per
 - **Equipment:** Barbell
 - **Primary muscles:** Forearms
 - **Secondary muscles:** Biceps
+
+## Overview
+
+Reverse Bicep Curl (EZ Bar) is a beginner pulling exercise for the forearms, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

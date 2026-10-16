@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-shrug
+schemaVersion: 1
 name: Barbell Shrug
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -10,11 +11,21 @@ muscles:
     - Forearms
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/barbell-shrug.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Barbell Shrug
-
-Barbell Shrug is a beginner pulling exercise for the upper back, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +35,10 @@ Barbell Shrug is a beginner pulling exercise for the upper back, performed with 
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Forearms
+
+## Overview
+
+Barbell Shrug is a beginner pulling exercise for the upper back, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: goblet-march
+schemaVersion: 1
 name: Goblet March
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Abs
 equipment:
   - Kettlebell
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/goblet-march.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Carry
 ---
 
 # Goblet March
-
-A beginner a kettlebell core exercise for the quadriceps. Goblet March builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner a kettlebell core exercise for the quadriceps. Goblet March builds th
 - **Equipment:** Kettlebell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Abs
+
+## Overview
+
+A beginner a kettlebell core exercise for the quadriceps. Goblet March builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

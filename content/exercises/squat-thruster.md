@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: squat-thruster
+schemaVersion: 1
 name: Squat Thruster
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/squat-thruster.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Squat Thruster
-
-A front squat that flows into an overhead press for full-body conditioning.
 
 ## Details
 
@@ -27,6 +38,10 @@ A front squat that flows into an overhead press for full-body conditioning.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Front Delts, Triceps, Abs
+
+## Overview
+
+A front squat that flows into an overhead press for full-body conditioning.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: leg-press-2
+schemaVersion: 1
 name: Leg Press
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,13 +13,26 @@ muscles:
     - Hamstrings
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/leg-press-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: leg-press
 ---
 
 # Leg Press
 
 > **Deprecated**, use [Leg Press](leg-press.md).
-
-A beginner machine press-pattern exercise targeting the quadriceps. Leg Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -28,6 +42,10 @@ A beginner machine press-pattern exercise targeting the quadriceps. Leg Press bu
 - **Equipment:** Machine
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings
+
+## Overview
+
+A beginner machine press-pattern exercise targeting the quadriceps. Leg Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

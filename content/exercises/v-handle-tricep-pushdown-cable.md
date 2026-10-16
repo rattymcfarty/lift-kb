@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: v-handle-tricep-pushdown-cable
+schemaVersion: 1
 name: "V-Handle Tricep Pushdown (Cable)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/v-handle-tricep-pushdown-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # V-Handle Tricep Pushdown (Cable)
-
-A cable triceps pushdown with a V-handle.
 
 ## Details
 
@@ -22,6 +33,10 @@ A cable triceps pushdown with a V-handle.
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Triceps
+
+## Overview
+
+A cable triceps pushdown with a V-handle.
 
 ## Instructions
 

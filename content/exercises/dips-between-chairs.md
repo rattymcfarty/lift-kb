@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: dips-between-chairs
+schemaVersion: 1
 name: Dips Between Chairs
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/dips-between-chairs.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Dips Between Chairs
-
-A tricep dip using two stable chairs when no dip station is available.
 
 ## Details
 
@@ -23,6 +34,10 @@ A tricep dip using two stable chairs when no dip station is available.
 - **Movement pattern:** push
 - **Equipment:** Bodyweight
 - **Primary muscles:** Triceps, Front Delts
+
+## Overview
+
+A tricep dip using two stable chairs when no dip station is available.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: jump-rope
+schemaVersion: 1
 name: Jump Rope
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Other
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/jump-rope.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Jump Rope
-
-A skill-based cardio exercise using a rope to improve coordination and conditioning.
 
 ## Details
 
@@ -22,6 +33,10 @@ A skill-based cardio exercise using a rope to improve coordination and condition
 - **Movement pattern:** cardio
 - **Equipment:** Other
 - **Primary muscles:** Other
+
+## Overview
+
+A skill-based cardio exercise using a rope to improve coordination and conditioning.
 
 ## Instructions
 

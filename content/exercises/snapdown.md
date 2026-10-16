@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: snapdown
+schemaVersion: 1
 name: Snapdown
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Quadriceps
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/snapdown.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Snapdown
-
-An intermediate just your bodyweight core exercise for the abs. Snapdown builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate just your bodyweight core exercise for the abs. Snapdown builds 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Quadriceps
+
+## Overview
+
+An intermediate just your bodyweight core exercise for the abs. Snapdown builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

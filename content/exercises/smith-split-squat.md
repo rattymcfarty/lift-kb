@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: smith-split-squat
+schemaVersion: 1
 name: "Split Squat (Smith Machine)"
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Smith Machine
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/smith-split-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Split Squat (Smith Machine)
-
-Split Squat (Smith Machine) is a beginner lower-body exercise that builds the quadriceps, usually performed with a Smith machine. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -24,6 +35,10 @@ Split Squat (Smith Machine) is a beginner lower-body exercise that builds the qu
 - **Equipment:** Smith Machine
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+Split Squat (Smith Machine) is a beginner lower-body exercise that builds the quadriceps, usually performed with a Smith machine. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

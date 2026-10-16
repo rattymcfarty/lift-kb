@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: couch-stretch-with-reachovers
+schemaVersion: 1
 name: Couch Stretch with Reachovers
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/couch-stretch-with-reachovers.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Couch Stretch with Reachovers
-
-A deep hip-flexor and quad stretch with an overhead reach that adds a side stretch through the torso.
 
 ## Details
 
@@ -22,6 +33,10 @@ A deep hip-flexor and quad stretch with an overhead reach that adds a side stret
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A deep hip-flexor and quad stretch with an overhead reach that adds a side stretch through the torso.
 
 ## Instructions
 

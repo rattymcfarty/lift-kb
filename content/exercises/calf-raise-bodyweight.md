@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: calf-raise-bodyweight
+schemaVersion: 1
 name: "Calf Raise (Bodyweight)"
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Calves
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/calf-raise-bodyweight.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Calf Raise (Bodyweight)
-
-A bodyweight standing calf raise for the gastrocnemius and soleus.
 
 ## Details
 
@@ -22,6 +33,10 @@ A bodyweight standing calf raise for the gastrocnemius and soleus.
 - **Movement pattern:** squat
 - **Equipment:** Bodyweight
 - **Primary muscles:** Calves
+
+## Overview
+
+A bodyweight standing calf raise for the gastrocnemius and soleus.
 
 ## Instructions
 

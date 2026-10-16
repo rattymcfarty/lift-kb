@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: back-extension
+schemaVersion: 1
 name: Back Extension
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/back-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Back Extension
-
-A bodyweight hip-extension exercise that trains the lower back, glutes and hamstrings.
 
 ## Details
 
@@ -23,6 +34,10 @@ A bodyweight hip-extension exercise that trains the lower back, glutes and hamst
 - **Movement pattern:** hinge
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lower Back, Glutes
+
+## Overview
+
+A bodyweight hip-extension exercise that trains the lower back, glutes and hamstrings.
 
 ## Instructions
 

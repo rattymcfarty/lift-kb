@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: two-arm-kettlebell-swing
+schemaVersion: 1
 name: Two-Arm Kettlebell Swing
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Lower Back
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/two-arm-kettlebell-swing.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Two-Arm Kettlebell Swing
-
-Two-Arm Kettlebell Swing is an intermediate hip-hinge exercise targeting the glutes and hamstrings, performed with a kettlebell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +36,10 @@ Two-Arm Kettlebell Swing is an intermediate hip-hinge exercise targeting the glu
 - **Equipment:** Kettlebell
 - **Primary muscles:** Glutes, Hamstrings
 - **Secondary muscles:** Lower Back
+
+## Overview
+
+Two-Arm Kettlebell Swing is an intermediate hip-hinge exercise targeting the glutes and hamstrings, performed with a kettlebell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

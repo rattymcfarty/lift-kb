@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: pistol-squat
+schemaVersion: 1
 name: Pistol Squat
-difficulty: advanced
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: squat
+image: assets/exercises/pistol-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Pistol Squat
-
-Pistol Squat is an advanced lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -24,6 +35,10 @@ Pistol Squat is an advanced lower-body exercise that builds the quadriceps, usua
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+Pistol Squat is an advanced lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

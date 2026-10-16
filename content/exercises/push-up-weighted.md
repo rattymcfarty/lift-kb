@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: push-up-weighted
+schemaVersion: 1
 name: "Push Up (Weighted)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/push-up-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Push Up (Weighted)
-
-A push-up with added load for progressing chest and triceps strength.
 
 ## Details
 
@@ -25,6 +36,10 @@ A push-up with added load for progressing chest and triceps strength.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Chest, Triceps
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+A push-up with added load for progressing chest and triceps strength.
 
 ## Instructions
 

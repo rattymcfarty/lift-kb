@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: kettlebell-swing
+schemaVersion: 1
 name: Kettlebell Swing
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Front Delts
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/kettlebell-swing.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
 ---
 
 # Kettlebell Swing
-
-A ballistic hip-hinge exercise that swings a kettlebell to chest height, training the glutes, hamstrings and posterior chain.
 
 ## Details
 
@@ -26,6 +37,10 @@ A ballistic hip-hinge exercise that swings a kettlebell to chest height, trainin
 - **Equipment:** Kettlebell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Front Delts
+
+## Overview
+
+A ballistic hip-hinge exercise that swings a kettlebell to chest height, training the glutes, hamstrings and posterior chain.
 
 ## Instructions
 

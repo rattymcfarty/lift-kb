@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-bicep-curl
+schemaVersion: 1
 name: Dumbbell Bicep Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
@@ -10,11 +11,23 @@ muscles:
     - Forearms
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/dumbbell-bicep-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Dumbbell Bicep Curl
-
-Dumbbell Bicep Curl is a beginner pulling exercise for the biceps, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +37,10 @@ Dumbbell Bicep Curl is a beginner pulling exercise for the biceps, performed wit
 - **Equipment:** Dumbbell
 - **Primary muscles:** Biceps
 - **Secondary muscles:** Forearms
+
+## Overview
+
+Dumbbell Bicep Curl is a beginner pulling exercise for the biceps, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

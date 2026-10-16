@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: cable-wrist-curl
+schemaVersion: 1
 name: Cable Wrist Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Forearms
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/cable-wrist-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Cable Wrist Curl
-
-A beginner cable pull-pattern exercise for the forearms. Cable Wrist Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner cable pull-pattern exercise for the forearms. Cable Wrist Curl streng
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Forearms
+
+## Overview
+
+A beginner cable pull-pattern exercise for the forearms. Cable Wrist Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

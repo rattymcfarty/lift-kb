@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-glute-bridge
+schemaVersion: 1
 name: Barbell Glute Bridge
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/barbell-glute-bridge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Barbell Glute Bridge
-
-Barbell Glute Bridge is an intermediate hip-hinge exercise targeting the glutes, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +38,10 @@ Barbell Glute Bridge is an intermediate hip-hinge exercise targeting the glutes,
 - **Equipment:** Barbell
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Calves, Hamstrings
+
+## Overview
+
+Barbell Glute Bridge is an intermediate hip-hinge exercise targeting the glutes, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: box-squat
+schemaVersion: 1
 name: Box Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/box-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Box Squat
-
-Box Squat is an intermediate lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -27,6 +40,10 @@ Box Squat is an intermediate lower-body exercise that builds the quadriceps, usu
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Adductors, Calves, Glutes, Hamstrings
+
+## Overview
+
+Box Squat is an intermediate lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

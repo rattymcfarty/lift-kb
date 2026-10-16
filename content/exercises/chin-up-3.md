@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: chin-up-3
+schemaVersion: 1
 name: Chin-Up
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -12,13 +13,26 @@ muscles:
     - Upper Back
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/chin-up-3.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
+replacedBy: chin-up
 ---
 
 # Chin-Up
 
 > **Deprecated**, use [Chin-Up](chin-up.md).
-
-A beginner bodyweight pull-pattern exercise for the lats. Chin-Up strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -28,6 +42,10 @@ A beginner bodyweight pull-pattern exercise for the lats. Chin-Up strengthens th
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lats
 - **Secondary muscles:** Biceps, Forearms, Upper Back
+
+## Overview
+
+A beginner bodyweight pull-pattern exercise for the lats. Chin-Up strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

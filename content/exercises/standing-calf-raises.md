@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: standing-calf-raises
+schemaVersion: 1
 name: Standing Calf Raises
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Calves
   secondary: []
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/standing-calf-raises.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Standing Calf Raises
-
-A beginner machine squat-pattern exercise for the calves. Standing Calf Raises develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner machine squat-pattern exercise for the calves. Standing Calf Raises d
 - **Movement pattern:** squat
 - **Equipment:** Machine
 - **Primary muscles:** Calves
+
+## Overview
+
+A beginner machine squat-pattern exercise for the calves. Standing Calf Raises develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

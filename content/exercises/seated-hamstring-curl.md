@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: seated-hamstring-curl
+schemaVersion: 1
 name: Seated Hamstring Curl
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Hamstrings
   secondary: []
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/seated-hamstring-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Seated Hamstring Curl
-
-A machine seated hamstring curl that isolates the hamstrings.
 
 ## Details
 
@@ -22,6 +33,10 @@ A machine seated hamstring curl that isolates the hamstrings.
 - **Movement pattern:** pull
 - **Equipment:** Machine
 - **Primary muscles:** Hamstrings
+
+## Overview
+
+A machine seated hamstring curl that isolates the hamstrings.
 
 ## Instructions
 

@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lying-one-arm-lateral-raise
+schemaVersion: 1
 name: Lying One-Arm Lateral Raise
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-one-arm-lateral-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lying One-Arm Lateral Raise
-
-Lying One-Arm Lateral Raise is an intermediate pushing exercise for the middle delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +35,10 @@ Lying One-Arm Lateral Raise is an intermediate pushing exercise for the middle d
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Middle Delts
+
+## Overview
+
+Lying One-Arm Lateral Raise is an intermediate pushing exercise for the middle delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

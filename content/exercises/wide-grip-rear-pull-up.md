@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: wide-grip-rear-pull-up
+schemaVersion: 1
 name: Wide-Grip Rear Pull-Up
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -12,11 +13,23 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/wide-grip-rear-pull-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Pull
 ---
 
 # Wide-Grip Rear Pull-Up
-
-Wide-Grip Rear Pull-Up is an intermediate pulling exercise for the lats, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -26,6 +39,10 @@ Wide-Grip Rear Pull-Up is an intermediate pulling exercise for the lats, perform
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lats
 - **Secondary muscles:** Biceps, Upper Back, Front Delts
+
+## Overview
+
+Wide-Grip Rear Pull-Up is an intermediate pulling exercise for the lats, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

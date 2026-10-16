@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: preacher-curl-ez
+schemaVersion: 1
 name: "Preacher Curl (EZ Bar)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/preacher-curl-ez.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Preacher Curl (EZ Bar)
-
-Preacher Curl (EZ Bar) is a beginner pulling exercise for the biceps, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +33,10 @@ Preacher Curl (EZ Bar) is a beginner pulling exercise for the biceps, performed 
 - **Movement pattern:** pull
 - **Equipment:** Barbell
 - **Primary muscles:** Biceps
+
+## Overview
+
+Preacher Curl (EZ Bar) is a beginner pulling exercise for the biceps, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

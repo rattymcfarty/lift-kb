@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: box-jump
+schemaVersion: 1
 name: Box Jump
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Other
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/box-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Box Jump
-
-A plyometric jump onto a box that builds lower-body power and coordination.
 
 ## Details
 
@@ -25,6 +36,10 @@ A plyometric jump onto a box that builds lower-body power and coordination.
 - **Equipment:** Other
 - **Primary muscles:** Other, Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+A plyometric jump onto a box that builds lower-body power and coordination.
 
 ## Instructions
 

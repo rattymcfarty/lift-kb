@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: bulgarian-split-squat-bw
+schemaVersion: 1
 name: "Bulgarian Split Squat (Bodyweight)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/bulgarian-split-squat-bw.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Bulgarian Split Squat (Bodyweight)
-
-An intermediate bodyweight squat-pattern exercise for the quadriceps. Bulgarian Split Squat (Bodyweight) develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate bodyweight squat-pattern exercise for the quadriceps. Bulgarian 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+An intermediate bodyweight squat-pattern exercise for the quadriceps. Bulgarian Split Squat (Bodyweight) develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

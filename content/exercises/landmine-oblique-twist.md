@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: landmine-oblique-twist
+schemaVersion: 1
 name: Landmine Oblique Twist
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/landmine-oblique-twist.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Landmine Oblique Twist
-
-An intermediate a barbell core exercise for the abs. Landmine Oblique Twist builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate a barbell core exercise for the abs. Landmine Oblique Twist buil
 - **Equipment:** Barbell
 - **Primary muscles:** Abs
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+An intermediate a barbell core exercise for the abs. Landmine Oblique Twist builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

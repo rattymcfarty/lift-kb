@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: hip-openers
+schemaVersion: 1
 name: Hip Openers
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/hip-openers.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Hip Openers
-
-A sequence of dynamic movements that mobilise the hips in multiple directions.
 
 ## Details
 
@@ -22,6 +33,10 @@ A sequence of dynamic movements that mobilise the hips in multiple directions.
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A sequence of dynamic movements that mobilise the hips in multiple directions.
 
 ## Instructions
 

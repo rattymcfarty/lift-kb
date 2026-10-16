@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: viking-press
+schemaVersion: 1
 name: Viking Press
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,21 @@ muscles:
     - Triceps
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/viking-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Viking Press
-
-An intermediate machine press-pattern exercise targeting the front delts. Viking Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate machine press-pattern exercise targeting the front delts. Viking
 - **Equipment:** Machine
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+An intermediate machine press-pattern exercise targeting the front delts. Viking Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

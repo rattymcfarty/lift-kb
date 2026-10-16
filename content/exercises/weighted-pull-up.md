@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: weighted-pull-up
+schemaVersion: 1
 name: "Pull-Up (Weighted)"
-difficulty: advanced
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Upper Back
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: pull
+image: assets/exercises/weighted-pull-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Pull
 ---
 
 # Pull-Up (Weighted)
-
-Pull-Up (Weighted) is an advanced pulling exercise for the lats, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -25,6 +36,10 @@ Pull-Up (Weighted) is an advanced pulling exercise for the lats, performed with 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lats
 - **Secondary muscles:** Biceps, Upper Back
+
+## Overview
+
+Pull-Up (Weighted) is an advanced pulling exercise for the lats, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

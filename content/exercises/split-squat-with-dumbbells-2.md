@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: split-squat-with-dumbbells-2
+schemaVersion: 1
 name: Split Squat with Dumbbells
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,13 +12,26 @@ muscles:
     - Hamstrings
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/split-squat-with-dumbbells-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
+replacedBy: split-squat-with-dumbbells
 ---
 
 # Split Squat with Dumbbells
 
 > **Deprecated**, use [Split Squat with Dumbbells](split-squat-with-dumbbells.md).
-
-A beginner dumbbell squat-pattern exercise for the quadriceps. Split Squat with Dumbbells develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -27,6 +41,10 @@ A beginner dumbbell squat-pattern exercise for the quadriceps. Split Squat with 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+A beginner dumbbell squat-pattern exercise for the quadriceps. Split Squat with Dumbbells develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

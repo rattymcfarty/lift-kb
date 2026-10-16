@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: platz-squat
+schemaVersion: 1
 name: Platz Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/platz-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Platz Squat
-
-A quad-focused squat with the feet close and heels elevated, named after a bodybuilder's style.
 
 ## Details
 
@@ -27,6 +38,10 @@ A quad-focused squat with the feet close and heels elevated, named after a bodyb
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Adductors, Abs
+
+## Overview
+
+A quad-focused squat with the feet close and heels elevated, named after a bodybuilder's style.
 
 ## Instructions
 

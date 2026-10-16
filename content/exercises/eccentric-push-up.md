@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: eccentric-push-up
+schemaVersion: 1
 name: Eccentric Push-Up
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,21 @@ muscles:
     - Triceps
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/eccentric-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Eccentric Push-Up
-
-A beginner bodyweight press-pattern exercise targeting the chest. Eccentric Push-Up builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner bodyweight press-pattern exercise targeting the chest. Eccentric Push
 - **Equipment:** Bodyweight
 - **Primary muscles:** Chest
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A beginner bodyweight press-pattern exercise targeting the chest. Eccentric Push-Up builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

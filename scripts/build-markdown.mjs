@@ -1,14 +1,20 @@
 #!/usr/bin/env node
 /**
- * Generates human-readable Markdown under content/ from the JSON source of truth.
+ * Generates the Markdown content/ pages that are the source of truth for the
+ * bundle.
  *
  *   node scripts/build-markdown.mjs          # write content/
  *   node scripts/build-markdown.mjs --check  # exit 1 if content/ is out of date
  *
- * JSON (exercises/, programs/) stays the source of truth; the Markdown is
- * derived only. Output is deterministic: everything is sorted and no timestamps
- * are emitted, so repeated runs produce byte-identical files. Stale .md files
- * left behind by a rename are removed on a write run, and --check flags them.
+ * Each exercise/program page carries a YAML frontmatter block with every
+ * structural field (in the original JSON key order, recorded in `fields`) and
+ * fixed `## Heading` sections for the prose fields; human-only extras (details,
+ * links, tables) are rendered below and ignored by the parser. See
+ * scripts/lib/md-content.mjs for the format and the reader.
+ *
+ * Output is deterministic: everything is sorted and no timestamps are emitted,
+ * so repeated runs produce byte-identical files. Stale .md files left behind by
+ * a rename are removed on a write run, and --check flags them.
  *
  * No dependencies beyond the Node standard library.
  */
@@ -22,6 +28,11 @@ import {
 } from 'node:fs';
 import { join, dirname, posix } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import {
+  EXERCISE_PROSE_KEYS,
+  PROGRAM_PROSE_KEYS,
+  SECTION_HEADINGS,
+} from './lib/md-content.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const check = process.argv.includes('--check');
@@ -43,24 +54,72 @@ const cmp = (a, b) => (a < b ? -1 : a > b ? 1 : 0);
 const byNameThenId = (a, b) =>
   cmp(a.name.toLowerCase(), b.name.toLowerCase()) || cmp(a.id, b.id);
 
-// --- formatting helpers -----------------------------------------------------
+// --- YAML frontmatter emission ---------------------------------------------
 
-// YAML plain scalars are fine for simple values; quote anything else so the
-// frontmatter stays valid.
-const yaml = (v) => {
+// Plain scalars are fine when the value starts with a letter and uses only
+// safe characters; quote anything else (including anything number- or
+// bool-like) so the parser can never mis-type it.
+const yamlScalar = (v) => {
+  if (v === null) return 'null';
+  if (typeof v === 'boolean') return v ? 'true' : 'false';
+  if (typeof v === 'number') return String(v);
   const s = String(v);
-  return /^[A-Za-z0-9][A-Za-z0-9 ._/-]*$/.test(s) ? s : JSON.stringify(s);
+  if (s !== '' && /^[A-Za-z][A-Za-z0-9 ._/-]*$/.test(s) && !/^(true|false|null)$/i.test(s)) {
+    return s;
+  }
+  return JSON.stringify(s);
 };
-const yamlList = (key, values, indent) => {
+
+function emitField(key, value, indent, out) {
   const pad = ' '.repeat(indent);
-  if (!values || values.length === 0) return [`${pad}${key}: []`];
-  return [`${pad}${key}:`, ...values.map((v) => `${pad}  - ${yaml(v)}`)];
-};
+  if (Array.isArray(value)) {
+    if (value.length === 0) {
+      out.push(`${pad}${key}: []`);
+      return;
+    }
+    if (value.every((v) => v === null || typeof v !== 'object')) {
+      out.push(`${pad}${key}:`);
+      for (const v of value) out.push(`${pad}  - ${yamlScalar(v)}`);
+      return;
+    }
+    out.push(`${pad}${key}:`);
+    for (const item of value) {
+      const itemLines = [];
+      emitObject(item, indent + 4, itemLines);
+      out.push(`${pad}  - ${itemLines[0].slice(indent + 4)}`);
+      for (let i = 1; i < itemLines.length; i++) out.push(itemLines[i]);
+    }
+    return;
+  }
+  if (value && typeof value === 'object') {
+    if (Object.keys(value).length === 0) {
+      out.push(`${pad}${key}: {}`);
+      return;
+    }
+    out.push(`${pad}${key}:`);
+    emitObject(value, indent + 2, out);
+    return;
+  }
+  out.push(`${pad}${key}: ${yamlScalar(value)}`);
+}
 
-// Inline rendering for arbitrary leftover values (objects/arrays as JSON).
-const fmt = (v) => (typeof v === 'string' ? v : JSON.stringify(v));
+function emitObject(obj, indent, out) {
+  for (const key of Object.keys(obj)) emitField(key, obj[key], indent, out);
+}
 
-const bullets = (items) => items.map((v) => `- ${fmt(v)}`);
+// Frontmatter block. `fields` records the exact top-level key order so the
+// reader can rebuild the JSON object byte-for-byte.
+function frontmatter(obj, proseKeys) {
+  const keys = Object.keys(obj);
+  const out = ['---', `fields: ${JSON.stringify(keys)}`];
+  for (const key of keys) {
+    if (!proseKeys.has(key)) emitField(key, obj[key], 0, out);
+  }
+  out.push('---');
+  return out;
+}
+
+// --- formatting helpers -----------------------------------------------------
 
 // Table-safe cell: collapse newlines and escape pipes.
 const cell = (v) =>
@@ -71,45 +130,28 @@ const cell = (v) =>
 const section = (heading, lines) =>
   lines.length ? ['', `## ${heading}`, '', ...lines] : [];
 
-// Renders any keys we did not handle explicitly, so no field is ever dropped.
-const leftovers = (obj, handled) => {
-  const rest = Object.keys(obj)
-    .filter((k) => !handled.has(k))
-    .sort();
-  return section(
-    'Other data',
-    rest.map((k) => `- **${k}:** ${fmt(obj[k])}`),
-  );
-};
+// Link to a sibling exercise page when the string is a known exercise id,
+// otherwise render the prose as-is.
+const relink = (value) => (byId.has(value) ? `[${nameOf(value)}](${value}.md)` : value);
 
 // --- exercise pages ---------------------------------------------------------
 
 function renderExercise(e) {
-  const lines = [];
-  const fm = [
-    '---',
-    `id: ${yaml(e.id)}`,
-    `name: ${yaml(e.name)}`,
-    `difficulty: ${yaml(e.difficulty)}`,
-    `movementPattern: ${yaml(e.movementPattern)}`,
-    'muscles:',
-    ...yamlList('primary', e.muscles?.primary ?? [], 2),
-    ...yamlList('secondary', e.muscles?.secondary ?? [], 2),
-    ...yamlList('equipment', e.equipment ?? [], 0),
-    '---',
-  ];
-  lines.push(...fm, '', `# ${e.name}`);
+  const lines = frontmatter(e, EXERCISE_PROSE_KEYS);
+  lines.push('', `# ${e.name}`);
 
   if (e.deprecated) {
-    const note = e.replacedBy
-      ? `> **Deprecated**, use [${nameOf(e.replacedBy)}](${e.replacedBy}.md).`
-      : '> **Deprecated.**';
-    lines.push('', note);
+    lines.push(
+      '',
+      e.replacedBy
+        ? `> **Deprecated**, use [${nameOf(e.replacedBy)}](${e.replacedBy}.md).`
+        : '> **Deprecated.**',
+    );
   }
-  if (e.overview) lines.push('', e.overview);
 
+  // Human-only summary (mirrors the frontmatter; ignored by the parser).
   const details = [
-    `- **Category:** ${fmt(e.category)}`,
+    `- **Category:** ${e.category}`,
     `- **Difficulty:** ${e.difficulty}`,
     `- **Movement pattern:** ${e.movementPattern}`,
     `- **Equipment:** ${(e.equipment ?? []).join(', ') || '—'}`,
@@ -117,36 +159,42 @@ function renderExercise(e) {
   ];
   if (e.muscles?.secondary?.length)
     details.push(`- **Secondary muscles:** ${e.muscles.secondary.join(', ')}`);
-  if (e.aliases?.length)
-    details.push(`- **Aliases:** ${e.aliases.join(', ')}`);
+  if (e.aliases?.length) details.push(`- **Aliases:** ${e.aliases.join(', ')}`);
   lines.push(...section('Details', details));
 
+  // Prose fields: fixed, machine-readable sections.
+  if (e.overview)
+    lines.push('', `## ${SECTION_HEADINGS.overview}`, '', e.overview);
   if (e.instructions?.length)
     lines.push(
-      ...section(
-        'Instructions',
-        e.instructions.map((s, i) => `${i + 1}. ${s}`),
-      ),
+      '',
+      `## ${SECTION_HEADINGS.instructions}`,
+      '',
+      ...e.instructions.map((s, i) => `${i + 1}. ${s}`),
     );
-  if (e.cues?.length) lines.push(...section('Cues', bullets(e.cues)));
+  if (e.cues?.length)
+    lines.push('', `## ${SECTION_HEADINGS.cues}`, '', ...e.cues.map((s) => `- ${s}`));
   if (e.commonMistakes?.length)
-    lines.push(...section('Common mistakes', bullets(e.commonMistakes)));
+    lines.push(
+      '',
+      `## ${SECTION_HEADINGS.commonMistakes}`,
+      '',
+      ...e.commonMistakes.map((s) => `- ${s}`),
+    );
   if (e.safetyNotes)
-    lines.push(...section('Safety', [e.safetyNotes]));
+    lines.push('', `## ${SECTION_HEADINGS.safetyNotes}`, '', e.safetyNotes);
   if (e.longevityNotes)
-    lines.push(...section('Longevity notes', [e.longevityNotes]));
+    lines.push('', `## ${SECTION_HEADINGS.longevityNotes}`, '', e.longevityNotes);
 
+  // Human-only extras.
   const p = e.progression;
   if (p && (p.loadingGuidance || p.progressTo || p.regressTo)) {
     const rows = [];
-    if (p.loadingGuidance)
-      rows.push(`- **Loading guidance:** ${p.loadingGuidance}`);
-    // progressTo/regressTo are usually sibling exercise ids: link them.
+    if (p.loadingGuidance) rows.push(`- **Loading guidance:** ${p.loadingGuidance}`);
     if (p.progressTo) rows.push(`- **Progress to:** ${relink(p.progressTo)}`);
     if (p.regressTo) rows.push(`- **Regress to:** ${relink(p.regressTo)}`);
     lines.push(...section('Progression', rows));
   }
-
   if (e.sources?.length) {
     const rows = e.sources.map((s) => {
       const label = s.url ? `[${s.title}](${s.url})` : s.title;
@@ -154,7 +202,6 @@ function renderExercise(e) {
     });
     lines.push(...section('Sources', rows));
   }
-
   const meta = [`- **Schema version:** ${e.schemaVersion}`];
   if (e.updatedAt) meta.push(`- **Updated:** ${e.updatedAt}`);
   if (e.image) meta.push(`- **Image:** \`${e.image}\``);
@@ -165,39 +212,28 @@ function renderExercise(e) {
     );
   lines.push(...section('Metadata', meta));
 
-  const handled = new Set([
-    'id', 'name', 'difficulty', 'movementPattern', 'muscles', 'equipment',
-    'overview', 'deprecated', 'replacedBy', 'category', 'aliases',
-    'instructions', 'cues', 'commonMistakes', 'safetyNotes', 'longevityNotes',
-    'progression', 'sources', 'schemaVersion', 'updatedAt', 'image',
-    'attribution', 'demoMedia',
-  ]);
-  lines.push(...leftovers(e, handled));
-
   return `${lines.join('\n')}\n`;
 }
-
-// Link to a sibling exercise page when the string is a known exercise id,
-// otherwise render the prose as-is.
-const relink = (value) =>
-  byId.has(value)
-    ? `[${nameOf(value)}](${value}.md)`
-    : value;
 
 // --- program pages ----------------------------------------------------------
 
 function renderProgram(p) {
-  const lines = [];
-  lines.push(`# ${p.name}`);
+  const lines = frontmatter(p, PROGRAM_PROSE_KEYS);
+  lines.push('', `# ${p.name}`);
 
   if (p.deprecated) {
-    const note = p.replacedBy
-      ? `> **Deprecated**, use [${p.replacedBy}](${p.replacedBy}.md).`
-      : '> **Deprecated.**';
-    lines.push('', note);
+    lines.push(
+      '',
+      p.replacedBy
+        ? `> **Deprecated**, use [${p.replacedBy}](${p.replacedBy}.md).`
+        : '> **Deprecated.**',
+    );
   }
-  if (p.goal) lines.push('', p.goal);
 
+  // Prose field: fixed, machine-readable section.
+  if (p.goal) lines.push('', `## ${SECTION_HEADINGS.goal}`, '', p.goal);
+
+  // Human-only details.
   const details = [
     `- **Weeks:** ${p.weeks}`,
     `- **Days per week:** ${p.daysPerWeek}`,
@@ -210,7 +246,8 @@ function renderProgram(p) {
   }
   lines.push(...section('Details', details));
 
-  // One table per week, rows grouped by day — the whole block layout is visible.
+  // Human-only table: the whole block layout at a glance (the parser reads
+  // sessions from the frontmatter, not this).
   const sessions = [...(p.sessions ?? [])].sort((a, b) => a.day - b.day);
   lines.push('', '## Weekly plan');
   for (let week = 1; week <= p.weeks; week++) {
@@ -227,8 +264,7 @@ function renderProgram(p) {
         const ex = byId.has(b.exerciseId)
           ? `[${nameOf(b.exerciseId)}](../exercises/${b.exerciseId}.md)`
           : b.exerciseId;
-        const setsReps =
-          b.reps === undefined ? `${b.sets}` : `${b.sets} × ${b.reps}`;
+        const setsReps = b.reps === undefined ? `${b.sets}` : `${b.sets} × ${b.reps}`;
         const rest = b.restSeconds === undefined ? '—' : `${b.restSeconds} s`;
         const rpe = b.rpeCap === undefined ? '—' : `≤ ${b.rpeCap}`;
         lines.push(
@@ -238,9 +274,7 @@ function renderProgram(p) {
     }
   }
 
-  if (p.attribution)
-    lines.push(...section('Attribution', [p.attribution]));
-
+  if (p.attribution) lines.push(...section('Attribution', [p.attribution]));
   if (p.sources?.length) {
     const rows = p.sources.map((s) => {
       const label = s.url ? `[${s.title}](${s.url})` : s.title;
@@ -248,17 +282,9 @@ function renderProgram(p) {
     });
     lines.push(...section('Sources', rows));
   }
-
   const meta = [`- **Schema version:** ${p.schemaVersion}`];
   if (p.updatedAt) meta.push(`- **Updated:** ${p.updatedAt}`);
   lines.push(...section('Metadata', meta));
-
-  const handled = new Set([
-    'id', 'name', 'goal', 'weeks', 'daysPerWeek', 'deload', 'sessions',
-    'attribution', 'sources', 'schemaVersion', 'updatedAt', 'deprecated',
-    'replacedBy',
-  ]);
-  lines.push(...leftovers(p, handled));
 
   return `${lines.join('\n')}\n`;
 }
@@ -268,9 +294,10 @@ function renderProgram(p) {
 function renderReadme() {
   const lines = ['# LIFT Knowledge Base — content', ''];
   lines.push(
-    'Human-readable rendering of the JSON source of truth (`exercises/`,',
-    '`programs/`). Generated by `node scripts/build-markdown.mjs`; do not edit by',
-    'hand. Run `node scripts/build-markdown.mjs --check` to test for staleness.',
+    'Source of truth for the LIFT bundle. Each page carries its full JSON as',
+    'YAML frontmatter plus fixed prose sections; `scripts/lib/md-content.mjs`',
+    'reads them back. Generated by `node scripts/build-markdown.mjs`; do not edit',
+    'by hand. Run `node scripts/build-markdown.mjs --check` to test for staleness.',
   );
 
   lines.push('', '## Programs', '');

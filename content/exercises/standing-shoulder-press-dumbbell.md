@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: standing-shoulder-press-dumbbell
+schemaVersion: 1
 name: "Standing Shoulder Press (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
@@ -12,11 +13,21 @@ muscles:
     - Upper Back
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/standing-shoulder-press-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Standing Shoulder Press (Dumbbell)
-
-A standing dumbbell overhead press that trains shoulders, triceps and core.
 
 ## Details
 
@@ -26,6 +37,10 @@ A standing dumbbell overhead press that trains shoulders, triceps and core.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Middle Delts, Front Delts
 - **Secondary muscles:** Triceps, Upper Back
+
+## Overview
+
+A standing dumbbell overhead press that trains shoulders, triceps and core.
 
 ## Instructions
 

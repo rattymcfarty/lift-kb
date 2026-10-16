@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: upright-barbell-row
+schemaVersion: 1
 name: Upright Barbell Row
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,23 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/upright-barbell-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Upright Barbell Row
-
-A beginner barbell pull-pattern exercise for the front delts. Upright Barbell Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +37,10 @@ A beginner barbell pull-pattern exercise for the front delts. Upright Barbell Ro
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Upper Back
+
+## Overview
+
+A beginner barbell pull-pattern exercise for the front delts. Upright Barbell Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

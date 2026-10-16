@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: renegade-row
+schemaVersion: 1
 name: Renegade Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Abs
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/renegade-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Renegade Row
-
-A plank-position row with dumbbells that trains the upper back and core.
 
 ## Details
 
@@ -25,6 +36,10 @@ A plank-position row with dumbbells that trains the upper back and core.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Abs
+
+## Overview
+
+A plank-position row with dumbbells that trains the upper back and core.
 
 ## Instructions
 

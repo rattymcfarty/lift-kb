@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lying-rear-delt-raise
+schemaVersion: 1
 name: Lying Rear Delt Raise
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/lying-rear-delt-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lying Rear Delt Raise
-
-Lying Rear Delt Raise is an intermediate pulling exercise for the rear delts, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +35,10 @@ Lying Rear Delt Raise is an intermediate pulling exercise for the rear delts, pe
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Rear Delts
+
+## Overview
+
+Lying Rear Delt Raise is an intermediate pulling exercise for the rear delts, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

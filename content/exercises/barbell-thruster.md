@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-thruster
+schemaVersion: 1
 name: Barbell Thruster
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/barbell-thruster.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Barbell Thruster
-
-Barbell Thruster is an intermediate lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -25,6 +36,10 @@ Barbell Thruster is an intermediate lower-body exercise that builds the quadrice
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Front Delts, Glutes
+
+## Overview
+
+Barbell Thruster is an intermediate lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

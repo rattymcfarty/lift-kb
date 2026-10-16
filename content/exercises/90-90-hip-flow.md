@@ -1,8 +1,9 @@
 ---
-id: 90-90-hip-flow
-name: 90/90 Hip Flow
-difficulty: beginner
-movementPattern: mobility
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
+id: "90-90-hip-flow"
+schemaVersion: 1
+name: "90/90 Hip Flow"
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Abductors
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/90-90-hip-flow.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # 90/90 Hip Flow
-
-90/90 Hip Flow is a beginner mobility exercise for the glutes, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -24,6 +35,10 @@ equipment:
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Abductors
+
+## Overview
+
+90/90 Hip Flow is a beginner mobility exercise for the glutes, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

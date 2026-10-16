@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: high-bar-squat-barbell
+schemaVersion: 1
 name: "High Bar Squat (Barbell)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,21 @@ muscles:
     - Adductors
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/high-bar-squat-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # High Bar Squat (Barbell)
-
-A barbell back squat with the bar high on the traps, emphasising the quads and an upright torso.
 
 ## Details
 
@@ -27,6 +38,10 @@ A barbell back squat with the bar high on the traps, emphasising the quads and a
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Abs, Adductors
+
+## Overview
+
+A barbell back squat with the bar high on the traps, emphasising the quads and an upright torso.
 
 ## Instructions
 

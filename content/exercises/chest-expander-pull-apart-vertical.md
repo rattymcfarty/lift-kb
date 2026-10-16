@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: chest-expander-pull-apart-vertical
+schemaVersion: 1
 name: "Chest Expander Pull-Apart (Vertical)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -11,11 +12,21 @@ muscles:
     - Lats
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/chest-expander-pull-apart-vertical.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Chest Expander Pull-Apart (Vertical)
-
-A chest-expander pull-apart performed overhead to train the rear delts, upper back and shoulder external rotators.
 
 ## Details
 
@@ -25,6 +36,10 @@ A chest-expander pull-apart performed overhead to train the rear delts, upper ba
 - **Equipment:** Other
 - **Primary muscles:** Rear Delts, Upper Back
 - **Secondary muscles:** Lats
+
+## Overview
+
+A chest-expander pull-apart performed overhead to train the rear delts, upper back and shoulder external rotators.
 
 ## Instructions
 

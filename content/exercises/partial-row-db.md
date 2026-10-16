@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: partial-row-db
+schemaVersion: 1
 name: "Partial Row (Dumbbell)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -10,11 +11,21 @@ muscles:
     - Upper Back
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/partial-row-db.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Partial Row (Dumbbell)
-
-Partial Row (Dumbbell) is an intermediate pulling exercise for the lats, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +35,10 @@ Partial Row (Dumbbell) is an intermediate pulling exercise for the lats, perform
 - **Equipment:** Dumbbell
 - **Primary muscles:** Lats
 - **Secondary muscles:** Upper Back
+
+## Overview
+
+Partial Row (Dumbbell) is an intermediate pulling exercise for the lats, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

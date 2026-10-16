@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lying-close-grip-dumbbell-triceps-extension-behind-the-head
+schemaVersion: 1
 name: Lying Close-Grip Dumbbell Triceps Extension Behind The Head
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-close-grip-dumbbell-triceps-extension-behind-the-head.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lying Close-Grip Dumbbell Triceps Extension Behind The Head
-
-Lying Close-Grip Dumbbell Triceps Extension Behind The Head is an intermediate pushing exercise for the triceps, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +35,10 @@ Lying Close-Grip Dumbbell Triceps Extension Behind The Head is an intermediate p
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+Lying Close-Grip Dumbbell Triceps Extension Behind The Head is an intermediate pushing exercise for the triceps, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

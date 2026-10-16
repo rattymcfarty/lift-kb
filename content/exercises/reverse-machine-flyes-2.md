@@ -1,21 +1,35 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: reverse-machine-flyes-2
+schemaVersion: 1
 name: Reverse Machine Flyes
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Front Delts
   secondary: []
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/reverse-machine-flyes-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: reverse-machine-flyes
 ---
 
 # Reverse Machine Flyes
 
 > **Deprecated**, use [Reverse Machine Flyes](reverse-machine-flyes.md).
-
-Reverse Machine Flyes is a beginner pulling exercise for the front delts, performed with a machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +38,10 @@ Reverse Machine Flyes is a beginner pulling exercise for the front delts, perfor
 - **Movement pattern:** pull
 - **Equipment:** Machine
 - **Primary muscles:** Front Delts
+
+## Overview
+
+Reverse Machine Flyes is a beginner pulling exercise for the front delts, performed with a machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

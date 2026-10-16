@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: military-press-barbell
+schemaVersion: 1
 name: "Military Press (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -12,11 +13,21 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/military-press-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Military Press (Barbell)
-
-A strict standing barbell overhead press without leg drive, building shoulder and triceps strength.
 
 ## Details
 
@@ -26,6 +37,10 @@ A strict standing barbell overhead press without leg drive, building shoulder an
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Triceps, Upper Back
+
+## Overview
+
+A strict standing barbell overhead press without leg drive, building shoulder and triceps strength.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: romanian-deadlift-to-row
+schemaVersion: 1
 name: Romanian Deadlift to Row
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -12,11 +13,21 @@ muscles:
     - Upper Back
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/romanian-deadlift-to-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Romanian Deadlift to Row
-
-An intermediate dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift to Row builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -26,6 +37,10 @@ An intermediate dumbbell hinge-pattern exercise for the hamstrings. Romanian Dea
 - **Equipment:** Dumbbell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes, Lats, Upper Back
+
+## Overview
+
+An intermediate dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift to Row builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

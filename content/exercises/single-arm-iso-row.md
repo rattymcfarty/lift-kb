@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-arm-iso-row
+schemaVersion: 1
 name: Single Arm Iso Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/single-arm-iso-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Single Arm Iso Row
-
-A single-arm row with an isolateral machine that lets each side work independently.
 
 ## Details
 
@@ -25,6 +36,10 @@ A single-arm row with an isolateral machine that lets each side work independent
 - **Equipment:** Other
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A single-arm row with an isolateral machine that lets each side work independently.
 
 ## Instructions
 

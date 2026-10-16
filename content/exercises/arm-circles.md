@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: arm-circles
+schemaVersion: 1
 name: Arm Circles
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,23 @@ muscles:
     - Upper Back
 equipment:
   - Other
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/arm-circles.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Arm Circles
-
-Arm Circles is a beginner mobility exercise for the front delts, performed with minimal equipment. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -24,6 +37,10 @@ Arm Circles is a beginner mobility exercise for the front delts, performed with 
 - **Equipment:** Other
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Upper Back
+
+## Overview
+
+Arm Circles is a beginner mobility exercise for the front delts, performed with minimal equipment. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

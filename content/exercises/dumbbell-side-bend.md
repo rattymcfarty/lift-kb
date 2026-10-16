@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-side-bend
+schemaVersion: 1
 name: Dumbbell Side Bend
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/dumbbell-side-bend.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Dumbbell Side Bend
-
-Dumbbell Side Bend is a beginner core exercise targeting the abs, performed with dumbbells. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -22,6 +35,10 @@ Dumbbell Side Bend is a beginner core exercise targeting the abs, performed with
 - **Movement pattern:** core
 - **Equipment:** Dumbbell
 - **Primary muscles:** Abs
+
+## Overview
+
+Dumbbell Side Bend is a beginner core exercise targeting the abs, performed with dumbbells. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

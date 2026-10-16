@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: side-crunch-cable
+schemaVersion: 1
 name: "Side Crunch (Cable)"
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/side-crunch-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Side Crunch (Cable)
-
-A cable side crunch that trains the obliques with resistance.
 
 ## Details
 
@@ -22,6 +33,10 @@ A cable side crunch that trains the obliques with resistance.
 - **Movement pattern:** core
 - **Equipment:** Cable
 - **Primary muscles:** Abs
+
+## Overview
+
+A cable side crunch that trains the obliques with resistance.
 
 ## Instructions
 

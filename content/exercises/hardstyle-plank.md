@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hardstyle-plank
+schemaVersion: 1
 name: Hardstyle Plank
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/hardstyle-plank.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Hardstyle Plank
-
-An intermediate just your bodyweight core exercise for the abs. Hardstyle Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate just your bodyweight core exercise for the abs. Hardstyle Plank 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Glutes
+
+## Overview
+
+An intermediate just your bodyweight core exercise for the abs. Hardstyle Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

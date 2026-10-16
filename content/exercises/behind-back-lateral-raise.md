@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: behind-back-lateral-raise
+schemaVersion: 1
 name: "Behind The Back Lateral Raise (Cable)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/behind-back-lateral-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Behind The Back Lateral Raise (Cable)
-
-Behind The Back Lateral Raise (Cable) is an intermediate pushing exercise for the middle delts, performed with a cable machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +33,10 @@ Behind The Back Lateral Raise (Cable) is an intermediate pushing exercise for th
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Middle Delts
+
+## Overview
+
+Behind The Back Lateral Raise (Cable) is an intermediate pushing exercise for the middle delts, performed with a cable machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

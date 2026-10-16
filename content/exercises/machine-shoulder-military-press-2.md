@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: machine-shoulder-military-press-2
+schemaVersion: 1
 name: "Machine Shoulder (Military) Press"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,13 +11,26 @@ muscles:
     - Triceps
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/machine-shoulder-military-press-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: machine-shoulder-military-press
 ---
 
 # Machine Shoulder (Military) Press
 
 > **Deprecated**, use [Machine Shoulder (Military) Press](machine-shoulder-military-press.md).
-
-A beginner machine press-pattern exercise targeting the front delts. Machine Shoulder (Military) Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -26,6 +40,10 @@ A beginner machine press-pattern exercise targeting the front delts. Machine Sho
 - **Equipment:** Machine
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A beginner machine press-pattern exercise targeting the front delts. Machine Shoulder (Military) Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

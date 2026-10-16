@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: scapular-push-up
+schemaVersion: 1
 name: Scapular Push-Up
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/scapular-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Scapular Push-Up
-
-Scapular Push-Up is a beginner pushing exercise for the chest, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +33,10 @@ Scapular Push-Up is a beginner pushing exercise for the chest, performed with ju
 - **Movement pattern:** push
 - **Equipment:** Bodyweight
 - **Primary muscles:** Chest
+
+## Overview
+
+Scapular Push-Up is a beginner pushing exercise for the chest, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

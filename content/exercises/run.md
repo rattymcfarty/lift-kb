@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: run
+schemaVersion: 1
 name: Run
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Cardio
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/run.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Run
-
-Steady running for cardiovascular fitness.
 
 ## Details
 
@@ -22,6 +33,10 @@ Steady running for cardiovascular fitness.
 - **Movement pattern:** cardio
 - **Equipment:** Cardio
 - **Primary muscles:** Other
+
+## Overview
+
+Steady running for cardiovascular fitness.
 
 ## Instructions
 

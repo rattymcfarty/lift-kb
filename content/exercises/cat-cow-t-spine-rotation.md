@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: cat-cow-t-spine-rotation
+schemaVersion: 1
 name: Cat-Cow with T-Spine Rotation
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -10,11 +11,21 @@ muscles:
     - Abs
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/cat-cow-t-spine-rotation.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Cat-Cow with T-Spine Rotation
-
-Cat-Cow with T-Spine Rotation is a beginner mobility exercise for the upper back, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -24,6 +35,10 @@ Cat-Cow with T-Spine Rotation is a beginner mobility exercise for the upper back
 - **Equipment:** Bodyweight
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Abs
+
+## Overview
+
+Cat-Cow with T-Spine Rotation is a beginner mobility exercise for the upper back, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

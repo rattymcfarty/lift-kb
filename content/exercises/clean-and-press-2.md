@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: clean-and-press-2
+schemaVersion: 1
 name: Clean and Press
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -13,13 +14,26 @@ muscles:
     - Hamstrings
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/clean-and-press-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: clean-and-press
 ---
 
 # Clean and Press
 
 > **Deprecated**, use [Clean and Press](clean-and-press.md).
-
-An intermediate kettlebell hinge-pattern exercise for the front delts. Clean and Press builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -29,6 +43,10 @@ An intermediate kettlebell hinge-pattern exercise for the front delts. Clean and
 - **Equipment:** Kettlebell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Abs, Calves, Glutes, Hamstrings
+
+## Overview
+
+An intermediate kettlebell hinge-pattern exercise for the front delts. Clean and Press builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

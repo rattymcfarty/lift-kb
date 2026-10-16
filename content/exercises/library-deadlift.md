@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: library-deadlift
+schemaVersion: 1
 name: Library Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/library-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
 ---
 
 # Library Deadlift
-
-A deadlift variant that uses a partial range with the bar lifted from an elevated start to focus on the upper portion of the pull.
 
 ## Details
 
@@ -27,6 +38,10 @@ A deadlift variant that uses a partial range with the bar lifted from an elevate
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Lower Back, Abs
+
+## Overview
+
+A deadlift variant that uses a partial range with the bar lifted from an elevated start to focus on the upper portion of the pull.
 
 ## Instructions
 

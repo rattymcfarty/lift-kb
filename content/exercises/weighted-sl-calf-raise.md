@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: weighted-sl-calf-raise
+schemaVersion: 1
 name: "Single-Leg Calf Raise (Weighted)"
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Calves
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/weighted-sl-calf-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Single-Leg Calf Raise (Weighted)
-
-Single-Leg Calf Raise (Weighted) is an intermediate core exercise targeting the calves, performed with dumbbells. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -22,6 +33,10 @@ Single-Leg Calf Raise (Weighted) is an intermediate core exercise targeting the 
 - **Movement pattern:** core
 - **Equipment:** Dumbbell
 - **Primary muscles:** Calves
+
+## Overview
+
+Single-Leg Calf Raise (Weighted) is an intermediate core exercise targeting the calves, performed with dumbbells. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

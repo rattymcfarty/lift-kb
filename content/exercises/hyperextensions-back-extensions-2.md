@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: hyperextensions-back-extensions-2
+schemaVersion: 1
 name: "Hyperextensions (Back Extensions)"
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -11,13 +12,26 @@ muscles:
     - Hamstrings
 equipment:
   - Other
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/hyperextensions-back-extensions-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
+replacedBy: hyperextensions-back-extensions
 ---
 
 # Hyperextensions (Back Extensions)
 
 > **Deprecated**, use [Hyperextensions (Back Extensions)](hyperextensions-back-extensions.md).
-
-A beginner minimal equipment mobility drill targeting the lower back. Hyperextensions (Back Extensions) restores range of motion that desk life and hard training both tend to steal.
 
 ## Details
 
@@ -27,6 +41,10 @@ A beginner minimal equipment mobility drill targeting the lower back. Hyperexten
 - **Equipment:** Other
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+A beginner minimal equipment mobility drill targeting the lower back. Hyperextensions (Back Extensions) restores range of motion that desk life and hard training both tend to steal.
 
 ## Instructions
 

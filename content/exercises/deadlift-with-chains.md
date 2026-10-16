@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: deadlift-with-chains
+schemaVersion: 1
 name: Deadlift with Chains
-difficulty: advanced
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -13,11 +14,23 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: hinge
+image: assets/exercises/deadlift-with-chains.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Deadlift with Chains
-
-An advanced barbell hinge-pattern exercise for the lower back. Deadlift with Chains builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -27,6 +40,10 @@ An advanced barbell hinge-pattern exercise for the lower back. Deadlift with Cha
 - **Equipment:** Barbell
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Forearms, Glutes, Hamstrings, Upper Back
+
+## Overview
+
+An advanced barbell hinge-pattern exercise for the lower back. Deadlift with Chains builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

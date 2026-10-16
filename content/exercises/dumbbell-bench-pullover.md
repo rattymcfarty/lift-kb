@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: dumbbell-bench-pullover
+schemaVersion: 1
 name: Dumbbell Bench Pullover
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/dumbbell-bench-pullover.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Dumbbell Bench Pullover
-
-A lying dumbbell pullover that stretches and loads the lats and chest through a long overhead arc.
 
 ## Details
 
@@ -25,6 +36,10 @@ A lying dumbbell pullover that stretches and loads the lats and chest through a 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest, Lats
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A lying dumbbell pullover that stretches and loads the lats and chest through a long overhead arc.
 
 ## Instructions
 

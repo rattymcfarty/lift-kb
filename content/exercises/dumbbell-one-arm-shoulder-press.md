@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-one-arm-shoulder-press
+schemaVersion: 1
 name: Dumbbell One-Arm Shoulder Press
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,23 @@ muscles:
     - Triceps
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/dumbbell-one-arm-shoulder-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Dumbbell One-Arm Shoulder Press
-
-Dumbbell One-Arm Shoulder Press is an intermediate pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -24,6 +37,10 @@ Dumbbell One-Arm Shoulder Press is an intermediate pushing exercise for the fron
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+Dumbbell One-Arm Shoulder Press is an intermediate pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: inch-worm-push-up
+schemaVersion: 1
 name: "Inch Worm + Push Up"
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Chest
@@ -12,11 +13,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/inch-worm-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Inch Worm + Push Up
-
-A dynamic movement that combines an inchworm walkout with a push-up for mobility and upper-body strength.
 
 ## Details
 
@@ -26,6 +37,10 @@ A dynamic movement that combines an inchworm walkout with a push-up for mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Chest, Triceps
 - **Secondary muscles:** Abs, Front Delts
+
+## Overview
+
+A dynamic movement that combines an inchworm walkout with a push-up for mobility and upper-body strength.
 
 ## Instructions
 

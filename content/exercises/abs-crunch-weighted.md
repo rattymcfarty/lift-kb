@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: abs-crunch-weighted
+schemaVersion: 1
 name: "Abs Crunch (Weighted)"
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/abs-crunch-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Abs Crunch (Weighted)
-
-A loaded crunch for progressing ab strength once bodyweight crunches feel easy.
 
 ## Details
 
@@ -22,6 +33,10 @@ A loaded crunch for progressing ab strength once bodyweight crunches feel easy.
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+A loaded crunch for progressing ab strength once bodyweight crunches feel easy.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: split-jerk
+schemaVersion: 1
 name: Split Jerk
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,23 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/split-jerk.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Split Jerk
-
-Split Jerk is an intermediate lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -27,6 +40,10 @@ Split Jerk is an intermediate lower-body exercise that builds the quadriceps, us
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings, Front Delts, Triceps
+
+## Overview
+
+Split Jerk is an intermediate lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

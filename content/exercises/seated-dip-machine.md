@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: seated-dip-machine
+schemaVersion: 1
 name: "Seated Dip (Machine)"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -10,11 +11,21 @@ muscles:
     - Chest
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/seated-dip-machine.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Seated Dip (Machine)
-
-Seated Dip (Machine) is a beginner pushing exercise for the triceps, performed with a machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -24,6 +35,10 @@ Seated Dip (Machine) is a beginner pushing exercise for the triceps, performed w
 - **Equipment:** Machine
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Chest
+
+## Overview
+
+Seated Dip (Machine) is a beginner pushing exercise for the triceps, performed with a machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

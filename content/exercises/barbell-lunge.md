@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-lunge
+schemaVersion: 1
 name: Barbell Lunge
-difficulty: intermediate
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: lunge
+image: assets/exercises/barbell-lunge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Lunge
 ---
 
 # Barbell Lunge
-
-An intermediate barbell lunge-pattern exercise targeting the quadriceps. Barbell Lunge develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Details
 
@@ -26,6 +39,10 @@ An intermediate barbell lunge-pattern exercise targeting the quadriceps. Barbell
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings
+
+## Overview
+
+An intermediate barbell lunge-pattern exercise targeting the quadriceps. Barbell Lunge develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Instructions
 

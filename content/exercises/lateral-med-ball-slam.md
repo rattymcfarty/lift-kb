@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lateral-med-ball-slam
+schemaVersion: 1
 name: Lateral Medicine Ball Slam
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Full-Body
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/lateral-med-ball-slam.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lateral Medicine Ball Slam
-
-An intermediate minimal equipment core exercise for the abs. Lateral Medicine Ball Slam builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate minimal equipment core exercise for the abs. Lateral Medicine Ba
 - **Equipment:** Other
 - **Primary muscles:** Abs
 - **Secondary muscles:** Full-Body
+
+## Overview
+
+An intermediate minimal equipment core exercise for the abs. Lateral Medicine Ball Slam builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

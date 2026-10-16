@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: chin-up-weighted
+schemaVersion: 1
 name: "Chin-Up (Weighted)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/chin-up-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Chin-Up (Weighted)
-
-A chin-up with added load to progress upper-body pulling strength.
 
 ## Details
 
@@ -25,6 +36,10 @@ A chin-up with added load to progress upper-body pulling strength.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A chin-up with added load to progress upper-body pulling strength.
 
 ## Instructions
 

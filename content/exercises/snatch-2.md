@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: snatch-2
+schemaVersion: 1
 name: Snatch
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,13 +14,26 @@ muscles:
     - Lower Back
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/snatch-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Olympic
+replacedBy: snatch
 ---
 
 # Snatch
 
 > **Deprecated**, use [Snatch](snatch.md).
-
-An intermediate dumbbell hinge-pattern exercise for the quadriceps. Snatch builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -29,6 +43,10 @@ An intermediate dumbbell hinge-pattern exercise for the quadriceps. Snatch build
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Biceps, Glutes, Hamstrings, Lower Back
+
+## Overview
+
+An intermediate dumbbell hinge-pattern exercise for the quadriceps. Snatch builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

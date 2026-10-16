@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: rack-pulls-2
+schemaVersion: 1
 name: Rack Pulls
-difficulty: intermediate
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -13,13 +14,26 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: mobility
+image: assets/exercises/rack-pulls-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
+replacedBy: rack-pulls
 ---
 
 # Rack Pulls
 
 > **Deprecated**, use [Rack Pulls](rack-pulls.md).
-
-Rack Pulls is an intermediate mobility exercise for the lower back, performed with a barbell. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -29,6 +43,10 @@ Rack Pulls is an intermediate mobility exercise for the lower back, performed wi
 - **Equipment:** Barbell
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Forearms, Glutes, Hamstrings, Upper Back
+
+## Overview
+
+Rack Pulls is an intermediate mobility exercise for the lower back, performed with a barbell. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: downward-dog
+schemaVersion: 1
 name: Downward Dog
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -11,11 +12,21 @@ muscles:
     - Upper Back
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/downward-dog.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Downward Dog
-
-Downward Dog is a beginner mobility exercise for the hamstrings, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -25,6 +36,10 @@ Downward Dog is a beginner mobility exercise for the hamstrings, performed with 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Calves, Upper Back
+
+## Overview
+
+Downward Dog is a beginner mobility exercise for the hamstrings, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

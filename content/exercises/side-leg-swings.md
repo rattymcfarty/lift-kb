@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: side-leg-swings
+schemaVersion: 1
 name: Side Leg Swings
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abductors
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/side-leg-swings.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Side Leg Swings
-
-Side Leg Swings is a beginner core exercise targeting the abductors, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ Side Leg Swings is a beginner core exercise targeting the abductors, performed w
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abductors
 - **Secondary muscles:** Glutes
+
+## Overview
+
+Side Leg Swings is a beginner core exercise targeting the abductors, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

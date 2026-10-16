@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hatfield-squat
+schemaVersion: 1
 name: Hatfield Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Hamstrings
 equipment:
   - Safety Bar
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/hatfield-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Hatfield Squat
-
-Hatfield Squat is an intermediate lower-body exercise that builds the quadriceps, usually performed with a safety squat bar. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -25,6 +36,10 @@ Hatfield Squat is an intermediate lower-body exercise that builds the quadriceps
 - **Equipment:** Safety Bar
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+Hatfield Squat is an intermediate lower-body exercise that builds the quadriceps, usually performed with a safety squat bar. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

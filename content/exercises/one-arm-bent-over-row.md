@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: one-arm-bent-over-row
+schemaVersion: 1
 name: One-Arm Bent Over Row
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/one-arm-bent-over-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # One-Arm Bent Over Row
-
-A beginner dumbbell pull-pattern exercise for the lats. One-Arm Bent Over Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner dumbbell pull-pattern exercise for the lats. One-Arm Bent Over Row st
 - **Equipment:** Dumbbell
 - **Primary muscles:** Lats
 - **Secondary muscles:** Upper Back, Biceps
+
+## Overview
+
+A beginner dumbbell pull-pattern exercise for the lats. One-Arm Bent Over Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

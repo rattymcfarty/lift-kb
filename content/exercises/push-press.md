@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: push-press
+schemaVersion: 1
 name: Push Press
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,23 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/push-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Push Press
-
-Push Press is an advanced pushing exercise for the front delts, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +38,10 @@ Push Press is an advanced pushing exercise for the front delts, performed with a
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Quadriceps, Triceps
+
+## Overview
+
+Push Press is an advanced pushing exercise for the front delts, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

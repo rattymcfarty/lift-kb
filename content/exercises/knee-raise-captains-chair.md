@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: knee-raise-captains-chair
+schemaVersion: 1
 name: "Knee Raise (Captain's Chair)"
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/knee-raise-captains-chair.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Knee Raise (Captain's Chair)
-
-A knee raise in a captain's chair apparatus that trains the lower abs and hip flexors.
 
 ## Details
 
@@ -22,6 +33,10 @@ A knee raise in a captain's chair apparatus that trains the lower abs and hip fl
 - **Movement pattern:** core
 - **Equipment:** Machine
 - **Primary muscles:** Abs
+
+## Overview
+
+A knee raise in a captain's chair apparatus that trains the lower abs and hip flexors.
 
 ## Instructions
 

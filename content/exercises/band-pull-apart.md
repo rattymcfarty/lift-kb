@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: band-pull-apart
+schemaVersion: 1
 name: Band Pull Apart
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
   secondary: []
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/band-pull-apart.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Band Pull Apart
-
-A simple resistance-band exercise for the rear shoulders and upper back that counters the forward-hunched posture of desk work.
 
 ## Details
 
@@ -22,6 +33,10 @@ A simple resistance-band exercise for the rear shoulders and upper back that cou
 - **Movement pattern:** pull
 - **Equipment:** Other
 - **Primary muscles:** Rear Delts
+
+## Overview
+
+A simple resistance-band exercise for the rear shoulders and upper back that counters the forward-hunched posture of desk work.
 
 ## Instructions
 

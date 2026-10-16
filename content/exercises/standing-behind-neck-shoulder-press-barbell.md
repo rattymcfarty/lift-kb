@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: standing-behind-neck-shoulder-press-barbell
+schemaVersion: 1
 name: "Standing Behind Neck Shoulder Press (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
@@ -12,11 +13,21 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/standing-behind-neck-shoulder-press-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Standing Behind Neck Shoulder Press (Barbell)
-
-A standing barbell press from behind the neck for the shoulders.
 
 ## Details
 
@@ -26,6 +37,10 @@ A standing barbell press from behind the neck for the shoulders.
 - **Equipment:** Barbell
 - **Primary muscles:** Middle Delts, Front Delts
 - **Secondary muscles:** Triceps, Upper Back
+
+## Overview
+
+A standing barbell press from behind the neck for the shoulders.
 
 ## Instructions
 

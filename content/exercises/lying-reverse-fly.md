@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lying-reverse-fly
+schemaVersion: 1
 name: Lying Reverse Fly
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/lying-reverse-fly.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Lying Reverse Fly
-
-A rear-delt fly performed lying on a bench that isolates the upper back.
 
 ## Details
 
@@ -23,6 +34,10 @@ A rear-delt fly performed lying on a bench that isolates the upper back.
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Rear Delts, Upper Back
+
+## Overview
+
+A rear-delt fly performed lying on a bench that isolates the upper back.
 
 ## Instructions
 

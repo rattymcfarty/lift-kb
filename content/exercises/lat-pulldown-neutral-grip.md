@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lat-pulldown-neutral-grip
+schemaVersion: 1
 name: "Lat Pulldown (Neutral Grip)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/lat-pulldown-neutral-grip.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Lat Pulldown (Neutral Grip)
-
-A lat pulldown with a neutral (palms facing each other) grip that is often more comfortable on the shoulders.
 
 ## Details
 
@@ -25,6 +36,10 @@ A lat pulldown with a neutral (palms facing each other) grip that is often more 
 - **Equipment:** Cable
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A lat pulldown with a neutral (palms facing each other) grip that is often more comfortable on the shoulders.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: plank-walkout
+schemaVersion: 1
 name: Plank Walkout
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/plank-walkout.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Plank Walkout
-
-Plank Walkout is a beginner core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ Plank Walkout is a beginner core exercise targeting the abs, performed with just
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+Plank Walkout is a beginner core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

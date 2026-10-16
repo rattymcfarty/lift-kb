@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hang-clean
+schemaVersion: 1
 name: Hang Clean
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/hang-clean.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Hang Clean
-
-An intermediate barbell hinge-pattern exercise for the quadriceps. Hang Clean builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -27,6 +40,10 @@ An intermediate barbell hinge-pattern exercise for the quadriceps. Hang Clean bu
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Forearms, Glutes, Hamstrings
+
+## Overview
+
+An intermediate barbell hinge-pattern exercise for the quadriceps. Hang Clean builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

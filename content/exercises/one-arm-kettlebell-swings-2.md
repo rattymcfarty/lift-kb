@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: one-arm-kettlebell-swings-2
+schemaVersion: 1
 name: One-Arm Kettlebell Swings
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,13 +14,26 @@ muscles:
     - Front Delts
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/one-arm-kettlebell-swings-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: one-arm-kettlebell-swings
 ---
 
 # One-Arm Kettlebell Swings
 
 > **Deprecated**, use [One-Arm Kettlebell Swings](one-arm-kettlebell-swings.md).
-
-One-Arm Kettlebell Swings is an intermediate hip-hinge exercise targeting the hamstrings, performed with a kettlebell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -29,6 +43,10 @@ One-Arm Kettlebell Swings is an intermediate hip-hinge exercise targeting the ha
 - **Equipment:** Kettlebell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Calves, Glutes, Lower Back, Front Delts
+
+## Overview
+
+One-Arm Kettlebell Swings is an intermediate hip-hinge exercise targeting the hamstrings, performed with a kettlebell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

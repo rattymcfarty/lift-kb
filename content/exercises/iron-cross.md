@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: iron-cross
+schemaVersion: 1
 name: Iron Cross
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -13,11 +14,23 @@ muscles:
     - Lower Back
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/iron-cross.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Iron Cross
-
-Iron Cross is an intermediate pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -27,6 +40,10 @@ Iron Cross is an intermediate pushing exercise for the front delts, performed wi
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Chest, Glutes, Hamstrings, Lower Back
+
+## Overview
+
+Iron Cross is an intermediate pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: inchworm-push-up
+schemaVersion: 1
 name: "Inchworm + Push-Up"
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -11,11 +12,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/inchworm-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Inchworm + Push-Up
-
-Inchworm + Push-Up is a beginner core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -25,6 +36,10 @@ Inchworm + Push-Up is a beginner core exercise targeting the abs, performed with
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Chest, Hamstrings
+
+## Overview
+
+Inchworm + Push-Up is a beginner core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

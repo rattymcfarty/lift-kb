@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: hang-power-clean
+schemaVersion: 1
 name: Hang Power Clean
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Lower Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/hang-power-clean.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Olympic
 ---
 
 # Hang Power Clean
-
-An Olympic lift where you pull the bar from the hang position and catch it at shoulder height in a partial squat.
 
 ## Details
 
@@ -25,6 +36,10 @@ An Olympic lift where you pull the bar from the hang position and catch it at sh
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back, Glutes
 - **Secondary muscles:** Lower Back
+
+## Overview
+
+An Olympic lift where you pull the bar from the hang position and catch it at shoulder height in a partial squat.
 
 ## Instructions
 

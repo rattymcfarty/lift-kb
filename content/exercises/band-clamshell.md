@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: band-clamshell
+schemaVersion: 1
 name: Band Clamshell
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Abductors
 equipment:
   - Other
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/band-clamshell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Band Clamshell
-
-Band Clamshell is a beginner lower-body exercise that builds the glutes, usually performed with minimal equipment. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -24,6 +35,10 @@ Band Clamshell is a beginner lower-body exercise that builds the glutes, usually
 - **Equipment:** Other
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Abductors
+
+## Overview
+
+Band Clamshell is a beginner lower-body exercise that builds the glutes, usually performed with minimal equipment. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

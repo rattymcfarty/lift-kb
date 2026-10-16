@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: walking-knee-hugs
+schemaVersion: 1
 name: Walking Knee Hugs
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Quadriceps
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/walking-knee-hugs.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Walking Knee Hugs
-
-Walking Knee Hugs is a beginner mobility exercise for the glutes, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -24,6 +35,10 @@ Walking Knee Hugs is a beginner mobility exercise for the glutes, performed with
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Quadriceps
+
+## Overview
+
+Walking Knee Hugs is a beginner mobility exercise for the glutes, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

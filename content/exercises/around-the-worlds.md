@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: around-the-worlds
+schemaVersion: 1
 name: Around The Worlds
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,23 @@ muscles:
     - Front Delts
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/around-the-worlds.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Around The Worlds
-
-An intermediate dumbbell press-pattern exercise targeting the chest. Around The Worlds builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +37,10 @@ An intermediate dumbbell press-pattern exercise targeting the chest. Around The 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+An intermediate dumbbell press-pattern exercise targeting the chest. Around The Worlds builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

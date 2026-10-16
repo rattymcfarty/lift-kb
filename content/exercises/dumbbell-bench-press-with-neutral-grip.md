@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-bench-press-with-neutral-grip
+schemaVersion: 1
 name: Dumbbell Bench Press with Neutral Grip
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,23 @@ muscles:
     - Triceps
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/dumbbell-bench-press-with-neutral-grip.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Dumbbell Bench Press with Neutral Grip
-
-A beginner dumbbell press-pattern exercise targeting the chest. Dumbbell Bench Press with Neutral Grip builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +38,10 @@ A beginner dumbbell press-pattern exercise targeting the chest. Dumbbell Bench P
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest
 - **Secondary muscles:** Front Delts, Triceps
+
+## Overview
+
+A beginner dumbbell press-pattern exercise targeting the chest. Dumbbell Bench Press with Neutral Grip builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

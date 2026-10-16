@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: deficit-handstand-push-up
+schemaVersion: 1
 name: Deficit Handstand Push Up
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -12,11 +13,21 @@ muscles:
     - Triceps
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/deficit-handstand-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Deficit Handstand Push Up
-
-A handstand push-up from a raised surface that increases the range of motion for the shoulders and triceps.
 
 ## Details
 
@@ -26,6 +37,10 @@ A handstand push-up from a raised surface that increases the range of motion for
 - **Equipment:** Bodyweight
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Rear Delts, Triceps
+
+## Overview
+
+A handstand push-up from a raised surface that increases the range of motion for the shoulders and triceps.
 
 ## Instructions
 

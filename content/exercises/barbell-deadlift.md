@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-deadlift
+schemaVersion: 1
 name: Barbell Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -13,11 +14,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/barbell-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Barbell Deadlift
-
-An intermediate barbell hinge-pattern exercise for the lower back. Barbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -27,6 +40,10 @@ An intermediate barbell hinge-pattern exercise for the lower back. Barbell Deadl
 - **Equipment:** Barbell
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Calves, Forearms, Glutes, Hamstrings
+
+## Overview
+
+An intermediate barbell hinge-pattern exercise for the lower back. Barbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

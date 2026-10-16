@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: reverse-nordic-curl
+schemaVersion: 1
 name: Reverse Nordic Curl
-difficulty: advanced
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Quadriceps
   secondary: []
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: core
+image: assets/exercises/reverse-nordic-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Reverse Nordic Curl
-
-Reverse Nordic Curl is an advanced core exercise targeting the quadriceps, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -22,6 +33,10 @@ Reverse Nordic Curl is an advanced core exercise targeting the quadriceps, perfo
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
+
+## Overview
+
+Reverse Nordic Curl is an advanced core exercise targeting the quadriceps, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

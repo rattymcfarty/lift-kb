@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: couch-stretch
+schemaVersion: 1
 name: Couch Stretch
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/couch-stretch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Couch Stretch
-
-A deep stretch for the hip flexors and quadriceps using a couch or bench to hold the back foot.
 
 ## Details
 
@@ -22,6 +33,10 @@ A deep stretch for the hip flexors and quadriceps using a couch or bench to hold
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A deep stretch for the hip flexors and quadriceps using a couch or bench to hold the back foot.
 
 ## Instructions
 

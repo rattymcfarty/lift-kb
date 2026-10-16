@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: half-kneeling-arnold-press-dumbbell
+schemaVersion: 1
 name: "Half Kneeling Arnold Press (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/half-kneeling-arnold-press-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Half Kneeling Arnold Press (Dumbbell)
-
-An Arnold press performed half-kneeling to challenge shoulder strength while the core and hips stabilise.
 
 ## Details
 
@@ -27,6 +38,10 @@ An Arnold press performed half-kneeling to challenge shoulder strength while the
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Rear Delts, Triceps, Abs
+
+## Overview
+
+An Arnold press performed half-kneeling to challenge shoulder strength while the core and hips stabilise.
 
 ## Instructions
 

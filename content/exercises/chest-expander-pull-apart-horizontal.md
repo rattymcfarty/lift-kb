@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: chest-expander-pull-apart-horizontal
+schemaVersion: 1
 name: "Chest Expander Pull-Apart (Horizontal)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Lats
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/chest-expander-pull-apart-horizontal.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Chest Expander Pull-Apart (Horizontal)
-
-A chest-expander (spring or band) pull-apart in front of the body that trains the rear delts and upper back.
 
 ## Details
 
@@ -25,6 +36,10 @@ A chest-expander (spring or band) pull-apart in front of the body that trains th
 - **Equipment:** Other
 - **Primary muscles:** Upper Back, Rear Delts
 - **Secondary muscles:** Lats
+
+## Overview
+
+A chest-expander (spring or band) pull-apart in front of the body that trains the rear delts and upper back.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: incline-fly-press-dumbbell
+schemaVersion: 1
 name: "Incline Fly Press (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/incline-fly-press-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Incline Fly Press (Dumbbell)
-
-An incline dumbbell fly that transitions into a press to work the upper chest.
 
 ## Details
 
@@ -23,6 +34,10 @@ An incline dumbbell fly that transitions into a press to work the upper chest.
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest, Front Delts
+
+## Overview
+
+An incline dumbbell fly that transitions into a press to work the upper chest.
 
 ## Instructions
 

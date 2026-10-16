@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: sissy-squat
+schemaVersion: 1
 name: Sissy Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/sissy-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Sissy Squat
-
-A bodyweight squat leaning back on the toes to heavily load the quads.
 
 ## Details
 
@@ -23,6 +34,10 @@ A bodyweight squat leaning back on the toes to heavily load the quads.
 - **Movement pattern:** squat
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Abs
+
+## Overview
+
+A bodyweight squat leaning back on the toes to heavily load the quads.
 
 ## Instructions
 

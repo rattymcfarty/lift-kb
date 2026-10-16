@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: neck-curl
+schemaVersion: 1
 name: Neck Curl
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Neck
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/neck-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Neck Curl
-
-A gentle neck-flexion exercise that strengthens the muscles at the front of the neck.
 
 ## Details
 
@@ -22,6 +33,10 @@ A gentle neck-flexion exercise that strengthens the muscles at the front of the 
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Neck
+
+## Overview
+
+A gentle neck-flexion exercise that strengthens the muscles at the front of the neck.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lateral-shuffle
+schemaVersion: 1
 name: Lateral Shuffle
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/lateral-shuffle.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Lateral Shuffle
-
-A beginner just your bodyweight core exercise for the quadriceps. Lateral Shuffle builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner just your bodyweight core exercise for the quadriceps. Lateral Shuffl
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Calves
+
+## Overview
+
+A beginner just your bodyweight core exercise for the quadriceps. Lateral Shuffle builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

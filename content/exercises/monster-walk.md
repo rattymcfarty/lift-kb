@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: monster-walk
+schemaVersion: 1
 name: Monster Walk
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Abductors
   secondary: []
 equipment:
   - Other
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/monster-walk.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Monster Walk
-
-A beginner minimal equipment mobility drill targeting the abductors. Monster Walk restores range of motion that desk life and hard training both tend to steal.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner minimal equipment mobility drill targeting the abductors. Monster Wal
 - **Movement pattern:** mobility
 - **Equipment:** Other
 - **Primary muscles:** Abductors
+
+## Overview
+
+A beginner minimal equipment mobility drill targeting the abductors. Monster Walk restores range of motion that desk life and hard training both tend to steal.
 
 ## Instructions
 

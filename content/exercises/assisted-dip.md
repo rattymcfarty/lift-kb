@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: assisted-dip
+schemaVersion: 1
 name: Assisted Dip
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/assisted-dip.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Assisted Dip
-
-A beginner machine press-pattern exercise targeting the triceps. Assisted Dip builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner machine press-pattern exercise targeting the triceps. Assisted Dip bu
 - **Equipment:** Machine
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Chest, Front Delts
+
+## Overview
+
+A beginner machine press-pattern exercise targeting the triceps. Assisted Dip builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

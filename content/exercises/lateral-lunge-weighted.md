@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lateral-lunge-weighted
+schemaVersion: 1
 name: "Lateral Lunge (Weighted)"
-difficulty: intermediate
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: lunge
+image: assets/exercises/lateral-lunge-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Lunge
 ---
 
 # Lateral Lunge (Weighted)
-
-A side lunge with added load that trains the quads, glutes and adductors in the frontal plane.
 
 ## Details
 
@@ -26,6 +37,10 @@ A side lunge with added load that trains the quads, glutes and adductors in the 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Adductors, Hamstrings
+
+## Overview
+
+A side lunge with added load that trains the quads, glutes and adductors in the frontal plane.
 
 ## Instructions
 

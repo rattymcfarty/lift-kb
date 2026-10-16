@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hang-snatch
+schemaVersion: 1
 name: Hang Snatch
-difficulty: advanced
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,11 +14,23 @@ muscles:
     - Glutes
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: hinge
+image: assets/exercises/hang-snatch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Olympic
 ---
 
 # Hang Snatch
-
-An advanced barbell hinge-pattern exercise for the hamstrings. Hang Snatch builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -27,6 +40,10 @@ An advanced barbell hinge-pattern exercise for the hamstrings. Hang Snatch build
 - **Equipment:** Barbell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Abs, Calves, Forearms, Glutes
+
+## Overview
+
+An advanced barbell hinge-pattern exercise for the hamstrings. Hang Snatch builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

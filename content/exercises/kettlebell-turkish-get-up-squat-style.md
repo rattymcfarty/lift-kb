@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kettlebell-turkish-get-up-squat-style
+schemaVersion: 1
 name: "Kettlebell Turkish Get-Up (Squat style)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -13,11 +14,23 @@ muscles:
     - Quadriceps
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/kettlebell-turkish-get-up-squat-style.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Kettlebell Turkish Get-Up (Squat style)
-
-Kettlebell Turkish Get-Up (Squat style) is an intermediate lower-body exercise that builds the front delts, usually performed with a kettlebell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -27,6 +40,10 @@ Kettlebell Turkish Get-Up (Squat style) is an intermediate lower-body exercise t
 - **Equipment:** Kettlebell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Abs, Calves, Hamstrings, Quadriceps
+
+## Overview
+
+Kettlebell Turkish Get-Up (Squat style) is an intermediate lower-body exercise that builds the front delts, usually performed with a kettlebell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

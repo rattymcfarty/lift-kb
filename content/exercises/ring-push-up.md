@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: ring-push-up
+schemaVersion: 1
 name: Ring Push-Up
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Other
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/ring-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Ring Push-Up
-
-Ring Push-Up is an advanced pushing exercise for the chest, performed with minimal equipment. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +36,10 @@ Ring Push-Up is an advanced pushing exercise for the chest, performed with minim
 - **Equipment:** Other
 - **Primary muscles:** Chest
 - **Secondary muscles:** Triceps, Front Delts
+
+## Overview
+
+Ring Push-Up is an advanced pushing exercise for the chest, performed with minimal equipment. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

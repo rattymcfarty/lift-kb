@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-row
+schemaVersion: 1
 name: Barbell Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/barbell-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Barbell Row
-
-An intermediate barbell pull-pattern exercise for the lats. Barbell Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate barbell pull-pattern exercise for the lats. Barbell Row strength
 - **Equipment:** Barbell
 - **Primary muscles:** Lats
 - **Secondary muscles:** Upper Back, Biceps
+
+## Overview
+
+An intermediate barbell pull-pattern exercise for the lats. Barbell Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

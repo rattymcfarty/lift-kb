@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: leverage-deadlift
+schemaVersion: 1
 name: Leverage Deadlift
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/leverage-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Leverage Deadlift
-
-Leverage Deadlift is a beginner hip-hinge exercise targeting the quadriceps, performed with a machine. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +38,10 @@ Leverage Deadlift is a beginner hip-hinge exercise targeting the quadriceps, per
 - **Equipment:** Machine
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+Leverage Deadlift is a beginner hip-hinge exercise targeting the quadriceps, performed with a machine. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

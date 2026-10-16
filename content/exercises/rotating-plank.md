@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: rotating-plank
+schemaVersion: 1
 name: Rotating Plank
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/rotating-plank.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Rotating Plank
-
-Rotating Plank is an intermediate core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -25,6 +36,10 @@ Rotating Plank is an intermediate core exercise targeting the abs, performed wit
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Abs, Front Delts
+
+## Overview
+
+Rotating Plank is an intermediate core exercise targeting the abs, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

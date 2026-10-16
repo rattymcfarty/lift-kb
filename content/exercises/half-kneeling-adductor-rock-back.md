@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: half-kneeling-adductor-rock-back
+schemaVersion: 1
 name: Half-Kneeling Adductor Rock Back
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Adductors
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/half-kneeling-adductor-rock-back.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Half-Kneeling Adductor Rock Back
-
-A beginner just your bodyweight mobility drill targeting the adductors. Half-Kneeling Adductor Rock Back restores range of motion that desk life and hard training both tend to steal.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner just your bodyweight mobility drill targeting the adductors. Half-Kne
 - **Equipment:** Bodyweight
 - **Primary muscles:** Adductors
 - **Secondary muscles:** Glutes
+
+## Overview
+
+A beginner just your bodyweight mobility drill targeting the adductors. Half-Kneeling Adductor Rock Back restores range of motion that desk life and hard training both tend to steal.
 
 ## Instructions
 

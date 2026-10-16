@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lateral-lunge
+schemaVersion: 1
 name: Lateral Lunge
-difficulty: beginner
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: lunge
+image: assets/exercises/lateral-lunge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Lunge
 ---
 
 # Lateral Lunge
-
-Lateral Lunge is a beginner single-leg exercise for the quadriceps, performed with just your bodyweight. Training one leg at a time builds balance and evens out side-to-side differences.
 
 ## Details
 
@@ -25,6 +36,10 @@ Lateral Lunge is a beginner single-leg exercise for the quadriceps, performed wi
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Adductors, Glutes
+
+## Overview
+
+Lateral Lunge is a beginner single-leg exercise for the quadriceps, performed with just your bodyweight. Training one leg at a time builds balance and evens out side-to-side differences.
 
 ## Instructions
 

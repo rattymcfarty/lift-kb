@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: cat-cow-stretch
+schemaVersion: 1
 name: Cat Cow Stretch
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/cat-cow-stretch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Cat Cow Stretch
-
-A gentle spinal mobility drill that alternates between rounding and arching the back on hands and knees.
 
 ## Details
 
@@ -22,6 +33,10 @@ A gentle spinal mobility drill that alternates between rounding and arching the 
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A gentle spinal mobility drill that alternates between rounding and arching the back on hands and knees.
 
 ## Instructions
 

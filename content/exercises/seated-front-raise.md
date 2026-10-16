@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: seated-front-raise
+schemaVersion: 1
 name: Seated Front Raise
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/seated-front-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Seated Front Raise
-
-Seated Front Raise is a beginner pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +33,10 @@ Seated Front Raise is a beginner pushing exercise for the front delts, performed
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts
+
+## Overview
+
+Seated Front Raise is a beginner pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

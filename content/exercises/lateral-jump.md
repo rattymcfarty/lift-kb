@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lateral-jump
+schemaVersion: 1
 name: Lateral Jump
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/lateral-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Lateral Jump
-
-A side-to-side plyometric jump that trains lateral power and landing control.
 
 ## Details
 
@@ -26,6 +37,10 @@ A side-to-side plyometric jump that trains lateral power and landing control.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Hamstrings
 - **Secondary muscles:** Glutes, Calves
+
+## Overview
+
+A side-to-side plyometric jump that trains lateral power and landing control.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
-id: 21s-ez-bar
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
+id: "21s-ez-bar"
+schemaVersion: 1
 name: "21s (EZ Bar)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/21s-ez-bar.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # 21s (EZ Bar)
-
-A seven-seven-seven curl protocol: seven partial reps in the bottom half, seven in the top half, then seven full reps without rest. It builds biceps endurance and teaches control through the whole range.
 
 ## Details
 
@@ -22,6 +33,10 @@ A seven-seven-seven curl protocol: seven partial reps in the bottom half, seven 
 - **Movement pattern:** pull
 - **Equipment:** Barbell
 - **Primary muscles:** Biceps
+
+## Overview
+
+A seven-seven-seven curl protocol: seven partial reps in the bottom half, seven in the top half, then seven full reps without rest. It builds biceps endurance and teaches control through the whole range.
 
 ## Instructions
 

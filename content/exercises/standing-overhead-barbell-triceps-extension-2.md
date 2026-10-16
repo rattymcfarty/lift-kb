@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: standing-overhead-barbell-triceps-extension-2
+schemaVersion: 1
 name: Standing Overhead Barbell Triceps Extension
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -10,13 +11,26 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/standing-overhead-barbell-triceps-extension-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
+replacedBy: standing-overhead-barbell-triceps-extension
 ---
 
 # Standing Overhead Barbell Triceps Extension
 
 > **Deprecated**, use [Standing Overhead Barbell Triceps Extension](standing-overhead-barbell-triceps-extension.md).
-
-Standing Overhead Barbell Triceps Extension is a beginner pushing exercise for the triceps, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -26,6 +40,10 @@ Standing Overhead Barbell Triceps Extension is a beginner pushing exercise for t
 - **Equipment:** Barbell
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+Standing Overhead Barbell Triceps Extension is a beginner pushing exercise for the triceps, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: runners-lunge-thoracic-extension
+schemaVersion: 1
 name: "Runner's Lunge with Thoracic Extension"
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Quadriceps
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/runners-lunge-thoracic-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Runner's Lunge with Thoracic Extension
-
-A beginner just your bodyweight mobility drill targeting the glutes. Runner's Lunge with Thoracic Extension restores range of motion that desk life and hard training both tend to steal.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner just your bodyweight mobility drill targeting the glutes. Runner's Lu
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Quadriceps
+
+## Overview
+
+A beginner just your bodyweight mobility drill targeting the glutes. Runner's Lunge with Thoracic Extension restores range of motion that desk life and hard training both tend to steal.
 
 ## Instructions
 

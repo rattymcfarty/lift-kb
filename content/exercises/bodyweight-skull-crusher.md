@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: bodyweight-skull-crusher
+schemaVersion: 1
 name: Bodyweight Skull Crusher
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/bodyweight-skull-crusher.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Bodyweight Skull Crusher
-
-Bodyweight Skull Crusher is an intermediate pushing exercise for the triceps, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +33,10 @@ Bodyweight Skull Crusher is an intermediate pushing exercise for the triceps, pe
 - **Movement pattern:** push
 - **Equipment:** Bodyweight
 - **Primary muscles:** Triceps
+
+## Overview
+
+Bodyweight Skull Crusher is an intermediate pushing exercise for the triceps, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

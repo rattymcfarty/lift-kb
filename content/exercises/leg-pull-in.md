@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: leg-pull-in
+schemaVersion: 1
 name: Leg Pull-In
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/leg-pull-in.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Leg Pull-In
-
-A beginner just your bodyweight core exercise for the abs. Leg Pull-In builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner just your bodyweight core exercise for the abs. Leg Pull-In builds th
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+A beginner just your bodyweight core exercise for the abs. Leg Pull-In builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

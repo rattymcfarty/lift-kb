@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: high-cable-curls
+schemaVersion: 1
 name: High Cable Curls
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/high-cable-curls.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # High Cable Curls
-
-An intermediate cable pull-pattern exercise for the biceps. High Cable Curls strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -22,6 +35,10 @@ An intermediate cable pull-pattern exercise for the biceps. High Cable Curls str
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Biceps
+
+## Overview
+
+An intermediate cable pull-pattern exercise for the biceps. High Cable Curls strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

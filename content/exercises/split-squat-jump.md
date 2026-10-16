@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: split-squat-jump
+schemaVersion: 1
 name: Split Squat Jump
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/split-squat-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Split Squat Jump
-
-A plyometric split squat that jumps and switches legs mid-air.
 
 ## Details
 
@@ -27,6 +38,10 @@ A plyometric split squat that jumps and switches legs mid-air.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Adductors, Abs
+
+## Overview
+
+A plyometric split squat that jumps and switches legs mid-air.
 
 ## Instructions
 

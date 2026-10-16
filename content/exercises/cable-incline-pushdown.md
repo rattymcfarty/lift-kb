@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: cable-incline-pushdown
+schemaVersion: 1
 name: Cable Incline Pushdown
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/cable-incline-pushdown.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Cable Incline Pushdown
-
-Cable Incline Pushdown is a beginner pulling exercise for the lats, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +35,10 @@ Cable Incline Pushdown is a beginner pulling exercise for the lats, performed wi
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Lats
+
+## Overview
+
+Cable Incline Pushdown is a beginner pulling exercise for the lats, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

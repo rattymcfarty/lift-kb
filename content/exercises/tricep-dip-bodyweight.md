@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: tricep-dip-bodyweight
+schemaVersion: 1
 name: "Tricep Dip (Bodyweight)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -12,11 +13,21 @@ muscles:
     - Rear Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/tricep-dip-bodyweight.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Tricep Dip (Bodyweight)
-
-A bodyweight dip that trains the triceps and chest.
 
 ## Details
 
@@ -26,6 +37,10 @@ A bodyweight dip that trains the triceps and chest.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Triceps, Front Delts
 - **Secondary muscles:** Middle Delts, Rear Delts
+
+## Overview
+
+A bodyweight dip that trains the triceps and chest.
 
 ## Instructions
 

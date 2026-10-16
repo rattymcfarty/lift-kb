@@ -1,7 +1,18 @@
 ---
-id: overhead-press
-name: Overhead Press
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - dumbbell shoulder press
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Vertical Push
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: intermediate
+equipment:
+  - Dumbbell
+  - Kettlebell
+id: overhead-press
 movementPattern: push
 muscles:
   primary:
@@ -11,9 +22,17 @@ muscles:
     - Chest
     - Abs
     - Upper Back
-equipment:
-  - Dumbbell
-  - Kettlebell
+name: Overhead Press
+progression:
+  loadingGuidance: Add the smallest available increment when you can complete 3 sets of 10 with no back arch at RPE 7 or less.
+  progressTo: Barbell overhead press
+  regressTo: "Seated dumbbell press (back supported)"
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: National Strength and Conditioning Association
+    title: Essentials of Strength Training and Conditioning
+updatedAt: "2026-10-11"
 ---
 
 # Overhead Press

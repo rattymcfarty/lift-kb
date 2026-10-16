@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: terminal-knee-extension
+schemaVersion: 1
 name: Terminal Knee Extension
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
   secondary: []
 equipment:
   - Other
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/terminal-knee-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Terminal Knee Extension
-
-A beginner minimal-equipment squat-pattern exercise for the quadriceps. Terminal Knee Extension develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -22,6 +33,10 @@ A beginner minimal-equipment squat-pattern exercise for the quadriceps. Terminal
 - **Movement pattern:** squat
 - **Equipment:** Other
 - **Primary muscles:** Quadriceps
+
+## Overview
+
+A beginner minimal-equipment squat-pattern exercise for the quadriceps. Terminal Knee Extension develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

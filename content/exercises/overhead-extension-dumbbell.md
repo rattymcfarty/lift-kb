@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: overhead-extension-dumbbell
+schemaVersion: 1
 name: "Overhead Extension (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/overhead-extension-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Overhead Extension (Dumbbell)
-
-A dumbbell overhead triceps extension that stretches and loads the long head of the triceps.
 
 ## Details
 
@@ -22,6 +33,10 @@ A dumbbell overhead triceps extension that stretches and loads the long head of 
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+A dumbbell overhead triceps extension that stretches and loads the long head of the triceps.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: pull-apart-cable
+schemaVersion: 1
 name: "Pull Apart (Cable)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/pull-apart-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Pull Apart (Cable)
-
-A cable pull-apart that trains the rear delts and upper back with steady tension.
 
 ## Details
 
@@ -22,6 +33,10 @@ A cable pull-apart that trains the rear delts and upper back with steady tension
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Rear Delts
+
+## Overview
+
+A cable pull-apart that trains the rear delts and upper back with steady tension.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: jump-squat
+schemaVersion: 1
 name: Jump Squat
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/jump-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Jump Squat
-
-Jump Squat is an intermediate lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -25,6 +36,10 @@ Jump Squat is an intermediate lower-body exercise that builds the quadriceps, us
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Calves
+
+## Overview
+
+Jump Squat is an intermediate lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lu-raise
+schemaVersion: 1
 name: Lu Raise
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Rear Delts
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lu-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Lu Raise
-
-A barbell raise with a slight lean that targets the front and side deltoids.
 
 ## Details
 
@@ -25,6 +36,10 @@ A barbell raise with a slight lean that targets the front and side deltoids.
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Rear Delts
+
+## Overview
+
+A barbell raise with a slight lean that targets the front and side deltoids.
 
 ## Instructions
 

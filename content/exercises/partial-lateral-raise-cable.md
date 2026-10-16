@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: partial-lateral-raise-cable
+schemaVersion: 1
 name: "Partial Lateral Raise (Cable)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/partial-lateral-raise-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Partial Lateral Raise (Cable)
-
-Partial Lateral Raise (Cable) is an intermediate pushing exercise for the middle delts, performed with a cable machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +33,10 @@ Partial Lateral Raise (Cable) is an intermediate pushing exercise for the middle
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Middle Delts
+
+## Overview
+
+Partial Lateral Raise (Cable) is an intermediate pushing exercise for the middle delts, performed with a cable machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: front-barbell-squat-2
+schemaVersion: 1
 name: Front Barbell Squat
-difficulty: advanced
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,13 +13,26 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: squat
+image: assets/exercises/front-barbell-squat-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
+replacedBy: front-barbell-squat
 ---
 
 # Front Barbell Squat
 
 > **Deprecated**, use [Front Barbell Squat](front-barbell-squat.md).
-
-Front Barbell Squat is an advanced lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -28,6 +42,10 @@ Front Barbell Squat is an advanced lower-body exercise that builds the quadricep
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings
+
+## Overview
+
+Front Barbell Squat is an advanced lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

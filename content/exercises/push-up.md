@@ -1,7 +1,16 @@
 ---
-id: push-up
-name: Push-Up
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases: []
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Horizontal Push
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Bodyweight
+id: push-up
 movementPattern: push
 muscles:
   primary:
@@ -10,8 +19,17 @@ muscles:
     - Front Delts
   secondary:
     - Abs
-equipment:
-  - Bodyweight
+name: Push-Up
+progression:
+  loadingGuidance: "When you can do 3 sets of 15 clean reps, progress to feet-elevated push-ups or add a weighted vest."
+  progressTo: Feet-elevated push-up
+  regressTo: Incline push-up with hands on a bench or wall
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: American College of Sports Medicine
+    title: ACSM Guidelines for Exercise Testing and Prescription
+updatedAt: "2026-10-11"
 ---
 
 # Push-Up

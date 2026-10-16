@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: split-squat-front-foot-elevated-smith-machine
+schemaVersion: 1
 name: "Split Squat Front Foot Elevated (Smith Machine)"
-difficulty: intermediate
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Abs
 equipment:
   - Smith Machine
+difficulty: intermediate
+movementPattern: lunge
+image: assets/exercises/split-squat-front-foot-elevated-smith-machine.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Lunge
 ---
 
 # Split Squat Front Foot Elevated (Smith Machine)
-
-A split squat with the front foot elevated on a Smith machine that increases range for the quads and glutes.
 
 ## Details
 
@@ -26,6 +37,10 @@ A split squat with the front foot elevated on a Smith machine that increases ran
 - **Equipment:** Smith Machine
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Abs
+
+## Overview
+
+A split squat with the front foot elevated on a Smith machine that increases range for the quads and glutes.
 
 ## Instructions
 

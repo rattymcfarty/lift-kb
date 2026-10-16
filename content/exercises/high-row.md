@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: high-row
+schemaVersion: 1
 name: High Row
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Rear Delts
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/high-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # High Row
-
-A beginner machine pull-pattern exercise for the upper back. High Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner machine pull-pattern exercise for the upper back. High Row strengthen
 - **Equipment:** Machine
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Lats, Rear Delts
+
+## Overview
+
+A beginner machine pull-pattern exercise for the upper back. High Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

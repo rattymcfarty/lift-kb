@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: elevated-pigeon-stretch
+schemaVersion: 1
 name: Elevated Pigeon Stretch
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Abductors
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/elevated-pigeon-stretch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Elevated Pigeon Stretch
-
-Elevated Pigeon Stretch is a beginner mobility exercise for the glutes, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -24,6 +35,10 @@ Elevated Pigeon Stretch is a beginner mobility exercise for the glutes, performe
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Abductors
+
+## Overview
+
+Elevated Pigeon Stretch is a beginner mobility exercise for the glutes, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

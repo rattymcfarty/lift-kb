@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: side-lateral-raise
+schemaVersion: 1
 name: Side Lateral Raise
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/side-lateral-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Side Lateral Raise
-
-Side Lateral Raise is a beginner pushing exercise for the middle delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +35,10 @@ Side Lateral Raise is a beginner pushing exercise for the middle delts, performe
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Middle Delts
+
+## Overview
+
+Side Lateral Raise is a beginner pushing exercise for the middle delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

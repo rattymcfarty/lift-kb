@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: clap-push-up
+schemaVersion: 1
 name: Clap Push Up
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/clap-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Clap Push Up
-
-An explosive plyometric push-up where your hands leave the floor and clap at the top.
 
 ## Details
 
@@ -25,6 +36,10 @@ An explosive plyometric push-up where your hands leave the floor and clap at the
 - **Equipment:** Bodyweight
 - **Primary muscles:** Chest, Triceps
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+An explosive plyometric push-up where your hands leave the floor and clap at the top.
 
 ## Instructions
 

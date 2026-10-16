@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: roman-chair-sit-up
+schemaVersion: 1
 name: Roman Chair Sit-Up
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/roman-chair-sit-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Roman Chair Sit-Up
-
-An intermediate a machine core exercise for the abs. Roman Chair Sit-Up builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -22,6 +33,10 @@ An intermediate a machine core exercise for the abs. Roman Chair Sit-Up builds t
 - **Movement pattern:** core
 - **Equipment:** Machine
 - **Primary muscles:** Abs
+
+## Overview
+
+An intermediate a machine core exercise for the abs. Roman Chair Sit-Up builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

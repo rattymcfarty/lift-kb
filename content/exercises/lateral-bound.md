@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lateral-bound
+schemaVersion: 1
 name: Lateral Bound
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Adductors
@@ -13,11 +14,23 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/lateral-bound.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Lateral Bound
-
-A beginner just your bodyweight conditioning drill for the adductors. Lateral Bound improves cardiovascular fitness and athletic coordination.
 
 ## Details
 
@@ -27,6 +40,10 @@ A beginner just your bodyweight conditioning drill for the adductors. Lateral Bo
 - **Equipment:** Bodyweight
 - **Primary muscles:** Adductors
 - **Secondary muscles:** Abductors, Calves, Glutes, Hamstrings
+
+## Overview
+
+A beginner just your bodyweight conditioning drill for the adductors. Lateral Bound improves cardiovascular fitness and athletic coordination.
 
 ## Instructions
 

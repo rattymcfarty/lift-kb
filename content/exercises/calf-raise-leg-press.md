@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: calf-raise-leg-press
+schemaVersion: 1
 name: "Calf Raise (Leg Press)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Calves
   secondary: []
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/calf-raise-leg-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Calf Raise (Leg Press)
-
-A calf raise performed on a leg press machine, letting you load the calves heavily with a supported back.
 
 ## Details
 
@@ -22,6 +33,10 @@ A calf raise performed on a leg press machine, letting you load the calves heavi
 - **Movement pattern:** squat
 - **Equipment:** Machine
 - **Primary muscles:** Calves
+
+## Overview
+
+A calf raise performed on a leg press machine, letting you load the calves heavily with a supported back.
 
 ## Instructions
 

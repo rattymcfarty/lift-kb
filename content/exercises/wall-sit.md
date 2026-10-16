@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: wall-sit
+schemaVersion: 1
 name: Wall Sit
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/wall-sit.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Wall Sit
-
-A beginner bodyweight squat-pattern exercise for the quadriceps. Wall Sit develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner bodyweight squat-pattern exercise for the quadriceps. Wall Sit develo
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+A beginner bodyweight squat-pattern exercise for the quadriceps. Wall Sit develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

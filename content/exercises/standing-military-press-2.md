@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: standing-military-press-2
+schemaVersion: 1
 name: Standing Military Press
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,13 +11,26 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/standing-military-press-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
+replacedBy: standing-military-press
 ---
 
 # Standing Military Press
 
 > **Deprecated**, use [Standing Military Press](standing-military-press.md).
-
-Standing Military Press is a beginner pushing exercise for the front delts, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -26,6 +40,10 @@ Standing Military Press is a beginner pushing exercise for the front delts, perf
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+Standing Military Press is a beginner pushing exercise for the front delts, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

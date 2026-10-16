@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dynamic-hamstring-sweep
+schemaVersion: 1
 name: Dynamic Hamstring Sweep
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/dynamic-hamstring-sweep.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Dynamic Hamstring Sweep
-
-A beginner just your bodyweight mobility drill targeting the hamstrings. Dynamic Hamstring Sweep restores range of motion that desk life and hard training both tend to steal.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner just your bodyweight mobility drill targeting the hamstrings. Dynamic
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes
+
+## Overview
+
+A beginner just your bodyweight mobility drill targeting the hamstrings. Dynamic Hamstring Sweep restores range of motion that desk life and hard training both tend to steal.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: modified-dragon-fly
+schemaVersion: 1
 name: Modified Dragon Fly
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/modified-dragon-fly.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Modified Dragon Fly
-
-A regressed dragon fly with bent knees that builds the core strength for the full movement.
 
 ## Details
 
@@ -22,6 +33,10 @@ A regressed dragon fly with bent knees that builds the core strength for the ful
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+A regressed dragon fly with bent knees that builds the core strength for the full movement.
 
 ## Instructions
 

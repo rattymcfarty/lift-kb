@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: ring-dips
+schemaVersion: 1
 name: Ring Dips
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -11,11 +12,23 @@ muscles:
     - Front Delts
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/ring-dips.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Ring Dips
-
-An intermediate minimal-equipment press-pattern exercise targeting the triceps. Ring Dips builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +38,10 @@ An intermediate minimal-equipment press-pattern exercise targeting the triceps. 
 - **Equipment:** Other
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Chest, Front Delts
+
+## Overview
+
+An intermediate minimal-equipment press-pattern exercise targeting the triceps. Ring Dips builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

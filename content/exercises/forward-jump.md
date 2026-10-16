@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: forward-jump
+schemaVersion: 1
 name: Forward Jump
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/forward-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Forward Jump
-
-A beginner bodyweight hinge-pattern exercise for the quadriceps. Forward Jump builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner bodyweight hinge-pattern exercise for the quadriceps. Forward Jump bu
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Calves
+
+## Overview
+
+A beginner bodyweight hinge-pattern exercise for the quadriceps. Forward Jump builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

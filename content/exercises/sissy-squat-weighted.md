@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: sissy-squat-weighted
+schemaVersion: 1
 name: "Sissy Squat (Weighted)"
-difficulty: advanced
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
   secondary: []
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: squat
+image: assets/exercises/sissy-squat-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Sissy Squat (Weighted)
-
-Sissy Squat (Weighted) is an advanced lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -22,6 +33,10 @@ Sissy Squat (Weighted) is an advanced lower-body exercise that builds the quadri
 - **Movement pattern:** squat
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
+
+## Overview
+
+Sissy Squat (Weighted) is an advanced lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

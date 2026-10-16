@@ -1,7 +1,18 @@
 ---
-id: farmer-carry
-name: Farmer Carry
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - farmers walk
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Carry
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Dumbbell
+  - Kettlebell
+id: farmer-carry
 movementPattern: carry
 muscles:
   primary:
@@ -11,9 +22,17 @@ muscles:
     - Abs
     - Glutes
     - Quadriceps
-equipment:
-  - Dumbbell
-  - Kettlebell
+name: Farmer Carry
+progression:
+  loadingGuidance: Increase weight when you can carry for 60 seconds with perfect posture at RPE 7 or less.
+  progressTo: Trap-bar carry or heavier dumbbells for distance
+  regressTo: Single-arm suitcase carry with a light weight
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: American College of Sports Medicine
+    title: ACSM Guidelines for Exercise Testing and Prescription
+updatedAt: "2026-10-11"
 ---
 
 # Farmer Carry

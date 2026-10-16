@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: chin-up-assisted
+schemaVersion: 1
 name: "Chin-Up (Assisted)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/chin-up-assisted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Chin-Up (Assisted)
-
-A machine-assisted chin-up that lets you build up to bodyweight chin-ups with a counterweight.
 
 ## Details
 
@@ -25,6 +36,10 @@ A machine-assisted chin-up that lets you build up to bodyweight chin-ups with a 
 - **Equipment:** Machine
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A machine-assisted chin-up that lets you build up to bodyweight chin-ups with a counterweight.
 
 ## Instructions
 

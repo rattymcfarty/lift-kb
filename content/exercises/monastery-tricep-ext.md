@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: monastery-tricep-ext
+schemaVersion: 1
 name: Monastery Tricep Extension
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/monastery-tricep-ext.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Monastery Tricep Extension
-
-An intermediate cable press-pattern exercise targeting the triceps. Monastery Tricep Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +33,10 @@ An intermediate cable press-pattern exercise targeting the triceps. Monastery Tr
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Triceps
+
+## Overview
+
+An intermediate cable press-pattern exercise targeting the triceps. Monastery Tricep Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

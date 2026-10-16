@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-lunges
+schemaVersion: 1
 name: Dumbbell Lunges
-difficulty: beginner
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,23 @@ muscles:
     - Hamstrings
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: lunge
+image: assets/exercises/dumbbell-lunges.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Lunge
 ---
 
 # Dumbbell Lunges
-
-A beginner dumbbell lunge-pattern exercise targeting the quadriceps. Dumbbell Lunges develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Details
 
@@ -26,6 +39,10 @@ A beginner dumbbell lunge-pattern exercise targeting the quadriceps. Dumbbell Lu
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings
+
+## Overview
+
+A beginner dumbbell lunge-pattern exercise targeting the quadriceps. Dumbbell Lunges develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Instructions
 

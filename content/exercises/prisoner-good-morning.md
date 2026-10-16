@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: prisoner-good-morning
+schemaVersion: 1
 name: Prisoner Good Morning
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -11,11 +12,21 @@ muscles:
     - Lower Back
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/prisoner-good-morning.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Prisoner Good Morning
-
-Prisoner Good Morning is a beginner hip-hinge exercise targeting the hamstrings, performed with just your bodyweight. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +36,10 @@ Prisoner Good Morning is a beginner hip-hinge exercise targeting the hamstrings,
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes, Lower Back
+
+## Overview
+
+Prisoner Good Morning is a beginner hip-hinge exercise targeting the hamstrings, performed with just your bodyweight. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

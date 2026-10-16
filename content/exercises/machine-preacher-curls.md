@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: machine-preacher-curls
+schemaVersion: 1
 name: Machine Preacher Curls
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/machine-preacher-curls.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Machine Preacher Curls
-
-A beginner machine pull-pattern exercise for the biceps. Machine Preacher Curls strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner machine pull-pattern exercise for the biceps. Machine Preacher Curls 
 - **Movement pattern:** pull
 - **Equipment:** Machine
 - **Primary muscles:** Biceps
+
+## Overview
+
+A beginner machine pull-pattern exercise for the biceps. Machine Preacher Curls strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

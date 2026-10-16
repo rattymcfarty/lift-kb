@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kb-snatch
+schemaVersion: 1
 name: "Snatch (Kettlebell)"
-difficulty: advanced
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Full-Body
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Kettlebell
+difficulty: advanced
+movementPattern: hinge
+image: assets/exercises/kb-snatch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Olympic
 ---
 
 # Snatch (Kettlebell)
-
-An advanced kettlebell hinge-pattern exercise for the full-body. Snatch (Kettlebell) builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +36,10 @@ An advanced kettlebell hinge-pattern exercise for the full-body. Snatch (Kettleb
 - **Equipment:** Kettlebell
 - **Primary muscles:** Full-Body
 - **Secondary muscles:** Quadriceps, Front Delts
+
+## Overview
+
+An advanced kettlebell hinge-pattern exercise for the full-body. Snatch (Kettlebell) builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

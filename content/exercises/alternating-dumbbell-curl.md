@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: alternating-dumbbell-curl
+schemaVersion: 1
 name: Alternating Dumbbell Curl
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/alternating-dumbbell-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Alternating Dumbbell Curl
-
-A standing biceps curl where you alternate arms, giving each side time to rest and letting you focus on form.
 
 ## Details
 
@@ -22,6 +33,10 @@ A standing biceps curl where you alternate arms, giving each side time to rest a
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Biceps
+
+## Overview
+
+A standing biceps curl where you alternate arms, giving each side time to rest and letting you focus on form.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: powell-raise
+schemaVersion: 1
 name: Powell Raise
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -10,11 +11,21 @@ muscles:
     - Middle Delts
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/powell-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Powell Raise
-
-Powell Raise is an intermediate pulling exercise for the rear delts, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +35,10 @@ Powell Raise is an intermediate pulling exercise for the rear delts, performed w
 - **Equipment:** Dumbbell
 - **Primary muscles:** Rear Delts
 - **Secondary muscles:** Middle Delts
+
+## Overview
+
+Powell Raise is an intermediate pulling exercise for the rear delts, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

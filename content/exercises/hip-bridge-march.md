@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hip-bridge-march
+schemaVersion: 1
 name: Hip Bridge March
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/hip-bridge-march.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Hip Bridge March
-
-Hip Bridge March is a beginner hip-hinge exercise targeting the glutes, performed with just your bodyweight. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +36,10 @@ Hip Bridge March is a beginner hip-hinge exercise targeting the glutes, performe
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Abs, Hamstrings
+
+## Overview
+
+Hip Bridge March is a beginner hip-hinge exercise targeting the glutes, performed with just your bodyweight. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

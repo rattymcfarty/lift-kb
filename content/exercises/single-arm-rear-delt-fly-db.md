@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: single-arm-rear-delt-fly-db
+schemaVersion: 1
 name: "Single-Arm Rear Delt Fly (Dumbbell)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -10,11 +11,21 @@ muscles:
     - Upper Back
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/single-arm-rear-delt-fly-db.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Single-Arm Rear Delt Fly (Dumbbell)
-
-A beginner dumbbell pull-pattern exercise for the rear delts. Single-Arm Rear Delt Fly (Dumbbell) strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner dumbbell pull-pattern exercise for the rear delts. Single-Arm Rear De
 - **Equipment:** Dumbbell
 - **Primary muscles:** Rear Delts
 - **Secondary muscles:** Upper Back
+
+## Overview
+
+A beginner dumbbell pull-pattern exercise for the rear delts. Single-Arm Rear Delt Fly (Dumbbell) strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

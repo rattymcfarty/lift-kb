@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: spoto-press
+schemaVersion: 1
 name: Spoto Press
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/spoto-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Spoto Press
-
-An advanced barbell press-pattern exercise targeting the chest. Spoto Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +36,10 @@ An advanced barbell press-pattern exercise targeting the chest. Spoto Press buil
 - **Equipment:** Barbell
 - **Primary muscles:** Chest
 - **Secondary muscles:** Triceps, Front Delts
+
+## Overview
+
+An advanced barbell press-pattern exercise targeting the chest. Spoto Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

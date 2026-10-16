@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: jm-press
+schemaVersion: 1
 name: JM Press
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -11,11 +12,23 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/jm-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # JM Press
-
-JM Press is a beginner pushing exercise for the triceps, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +38,10 @@ JM Press is a beginner pushing exercise for the triceps, performed with a barbel
 - **Equipment:** Barbell
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Chest, Front Delts
+
+## Overview
+
+JM Press is a beginner pushing exercise for the triceps, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

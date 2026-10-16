@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: face-away-cable-curl
+schemaVersion: 1
 name: Face Away Cable Curl
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/face-away-cable-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Face Away Cable Curl
-
-A cable curl with the body facing away from the stack that keeps the biceps under tension in the stretched position.
 
 ## Details
 
@@ -23,6 +34,10 @@ A cable curl with the body facing away from the stack that keeps the biceps unde
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Biceps, Forearms
+
+## Overview
+
+A cable curl with the body facing away from the stack that keeps the biceps under tension in the stretched position.
 
 ## Instructions
 

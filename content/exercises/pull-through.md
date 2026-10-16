@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: pull-through
+schemaVersion: 1
 name: Pull Through
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,23 @@ muscles:
     - Lower Back
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/pull-through.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Pull Through
-
-A beginner cable squat-pattern exercise for the glutes. Pull Through develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -25,6 +38,10 @@ A beginner cable squat-pattern exercise for the glutes. Pull Through develops le
 - **Equipment:** Cable
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings, Lower Back
+
+## Overview
+
+A beginner cable squat-pattern exercise for the glutes. Pull Through develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

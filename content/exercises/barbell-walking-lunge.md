@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: barbell-walking-lunge
+schemaVersion: 1
 name: Barbell Walking Lunge
-difficulty: beginner
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: lunge
+image: assets/exercises/barbell-walking-lunge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Lunge
 ---
 
 # Barbell Walking Lunge
-
-Barbell Walking Lunge is a beginner single-leg exercise for the quadriceps, performed with a barbell. Training one leg at a time builds balance and evens out side-to-side differences.
 
 ## Details
 
@@ -26,6 +39,10 @@ Barbell Walking Lunge is a beginner single-leg exercise for the quadriceps, perf
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings
+
+## Overview
+
+Barbell Walking Lunge is a beginner single-leg exercise for the quadriceps, performed with a barbell. Training one leg at a time builds balance and evens out side-to-side differences.
 
 ## Instructions
 

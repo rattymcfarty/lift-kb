@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: db-romanian-deadlift
+schemaVersion: 1
 name: "Romanian Deadlift (Dumbbell)"
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/db-romanian-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Romanian Deadlift (Dumbbell)
-
-A beginner dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift (Dumbbell) builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift
 - **Equipment:** Dumbbell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes
+
+## Overview
+
+A beginner dumbbell hinge-pattern exercise for the hamstrings. Romanian Deadlift (Dumbbell) builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

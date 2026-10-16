@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: inverted-face-pull
+schemaVersion: 1
 name: Inverted Face Pull
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/inverted-face-pull.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Inverted Face Pull
-
-Inverted Face Pull is an intermediate pulling exercise for the rear delts, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -25,6 +36,10 @@ Inverted Face Pull is an intermediate pulling exercise for the rear delts, perfo
 - **Equipment:** Bodyweight
 - **Primary muscles:** Rear Delts
 - **Secondary muscles:** Upper Back, Biceps
+
+## Overview
+
+Inverted Face Pull is an intermediate pulling exercise for the rear delts, performed with just your bodyweight. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

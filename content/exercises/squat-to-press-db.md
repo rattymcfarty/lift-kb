@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: squat-to-press-db
+schemaVersion: 1
 name: "Squat to Press (Dumbbell)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/squat-to-press-db.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Squat to Press (Dumbbell)
-
-Squat to Press (Dumbbell) is an intermediate lower-body exercise that builds the quadriceps, usually performed with dumbbells. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -25,6 +36,10 @@ Squat to Press (Dumbbell) is an intermediate lower-body exercise that builds the
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Front Delts, Glutes
+
+## Overview
+
+Squat to Press (Dumbbell) is an intermediate lower-body exercise that builds the quadriceps, usually performed with dumbbells. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: two-arm-kettlebell-row
+schemaVersion: 1
 name: Two-Arm Kettlebell Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,23 @@ muscles:
     - Lats
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/two-arm-kettlebell-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Two-Arm Kettlebell Row
-
-An intermediate kettlebell pull-pattern exercise for the upper back. Two-Arm Kettlebell Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +38,10 @@ An intermediate kettlebell pull-pattern exercise for the upper back. Two-Arm Ket
 - **Equipment:** Kettlebell
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Biceps, Lats
+
+## Overview
+
+An intermediate kettlebell pull-pattern exercise for the upper back. Two-Arm Kettlebell Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: wall-press-dead-bug
+schemaVersion: 1
 name: Wall Press Dead Bug
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/wall-press-dead-bug.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Wall Press Dead Bug
-
-A beginner just your bodyweight core exercise for the abs. Wall Press Dead Bug builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -22,6 +33,10 @@ A beginner just your bodyweight core exercise for the abs. Wall Press Dead Bug b
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+A beginner just your bodyweight core exercise for the abs. Wall Press Dead Bug builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

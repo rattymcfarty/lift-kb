@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: pec-deck-machine
+schemaVersion: 1
 name: "Pec Deck (Machine)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/pec-deck-machine.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Pec Deck (Machine)
-
-A machine fly that isolates the chest by bringing the arms together in front of you.
 
 ## Details
 
@@ -23,6 +34,10 @@ A machine fly that isolates the chest by bringing the arms together in front of 
 - **Movement pattern:** push
 - **Equipment:** Machine
 - **Primary muscles:** Chest, Front Delts
+
+## Overview
+
+A machine fly that isolates the chest by bringing the arms together in front of you.
 
 ## Instructions
 

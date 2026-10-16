@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: reverse-barbell-curl
+schemaVersion: 1
 name: Reverse Barbell Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
@@ -10,11 +11,23 @@ muscles:
     - Forearms
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/reverse-barbell-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Reverse Barbell Curl
-
-A beginner barbell pull-pattern exercise for the biceps. Reverse Barbell Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +37,10 @@ A beginner barbell pull-pattern exercise for the biceps. Reverse Barbell Curl st
 - **Equipment:** Barbell
 - **Primary muscles:** Biceps
 - **Secondary muscles:** Forearms
+
+## Overview
+
+A beginner barbell pull-pattern exercise for the biceps. Reverse Barbell Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

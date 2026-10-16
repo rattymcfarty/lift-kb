@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kneeling-single-arm-high-pulley-row
+schemaVersion: 1
 name: Kneeling Single-Arm High Pulley Row
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,23 @@ muscles:
     - Upper Back
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/kneeling-single-arm-high-pulley-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Kneeling Single-Arm High Pulley Row
-
-A beginner cable pull-pattern exercise for the lats. Kneeling Single-Arm High Pulley Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +38,10 @@ A beginner cable pull-pattern exercise for the lats. Kneeling Single-Arm High Pu
 - **Equipment:** Cable
 - **Primary muscles:** Lats
 - **Secondary muscles:** Biceps, Upper Back
+
+## Overview
+
+A beginner cable pull-pattern exercise for the lats. Kneeling Single-Arm High Pulley Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

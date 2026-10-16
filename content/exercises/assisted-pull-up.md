@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: assisted-pull-up
+schemaVersion: 1
 name: "Pull-Up (Assisted)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Upper Back
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/assisted-pull-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Pull
 ---
 
 # Pull-Up (Assisted)
-
-Pull-Up (Assisted) is a beginner pulling exercise for the lats, performed with a machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -25,6 +36,10 @@ Pull-Up (Assisted) is a beginner pulling exercise for the lats, performed with a
 - **Equipment:** Machine
 - **Primary muscles:** Lats
 - **Secondary muscles:** Biceps, Upper Back
+
+## Overview
+
+Pull-Up (Assisted) is a beginner pulling exercise for the lats, performed with a machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

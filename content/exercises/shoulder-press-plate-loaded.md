@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: shoulder-press-plate-loaded
+schemaVersion: 1
 name: "Shoulder Press (Plate Loaded)"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Middle Delts
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/shoulder-press-plate-loaded.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Shoulder Press (Plate Loaded)
-
-A beginner machine press-pattern exercise targeting the front delts. Shoulder Press (Plate Loaded) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner machine press-pattern exercise targeting the front delts. Shoulder Pr
 - **Equipment:** Machine
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps, Middle Delts
+
+## Overview
+
+A beginner machine press-pattern exercise targeting the front delts. Shoulder Press (Plate Loaded) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

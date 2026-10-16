@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: russian-twist
+schemaVersion: 1
 name: Russian Twist
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,23 @@ muscles:
     - Lower Back
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/russian-twist.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Russian Twist
-
-Russian Twist is an intermediate core exercise targeting the abs, performed with dumbbells. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -24,6 +37,10 @@ Russian Twist is an intermediate core exercise targeting the abs, performed with
 - **Equipment:** Dumbbell
 - **Primary muscles:** Abs
 - **Secondary muscles:** Lower Back
+
+## Overview
+
+Russian Twist is an intermediate core exercise targeting the abs, performed with dumbbells. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

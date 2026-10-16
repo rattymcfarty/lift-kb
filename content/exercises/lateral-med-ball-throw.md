@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lateral-med-ball-throw
+schemaVersion: 1
 name: Lateral Medicine Ball Throw
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Abs
@@ -11,11 +12,21 @@ muscles:
     - Full-Body
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lateral-med-ball-throw.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lateral Medicine Ball Throw
-
-Lateral Medicine Ball Throw is an intermediate pushing exercise for the abs, performed with minimal equipment. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +36,10 @@ Lateral Medicine Ball Throw is an intermediate pushing exercise for the abs, per
 - **Equipment:** Other
 - **Primary muscles:** Abs
 - **Secondary muscles:** Chest, Full-Body
+
+## Overview
+
+Lateral Medicine Ball Throw is an intermediate pushing exercise for the abs, performed with minimal equipment. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

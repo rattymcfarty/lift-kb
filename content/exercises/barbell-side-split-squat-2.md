@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: barbell-side-split-squat-2
+schemaVersion: 1
 name: Barbell Side Split Squat
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,13 +13,26 @@ muscles:
     - Lower Back
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/barbell-side-split-squat-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
+replacedBy: barbell-side-split-squat
 ---
 
 # Barbell Side Split Squat
 
 > **Deprecated**, use [Barbell Side Split Squat](barbell-side-split-squat.md).
-
-Barbell Side Split Squat is a beginner lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -28,6 +42,10 @@ Barbell Side Split Squat is a beginner lower-body exercise that builds the quadr
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Hamstrings, Lower Back
+
+## Overview
+
+Barbell Side Split Squat is a beginner lower-body exercise that builds the quadriceps, usually performed with a barbell. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

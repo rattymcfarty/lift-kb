@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: leverage-shoulder-press
+schemaVersion: 1
 name: Leverage Shoulder Press
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,23 @@ muscles:
     - Triceps
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/leverage-shoulder-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Leverage Shoulder Press
-
-Leverage Shoulder Press is a beginner pushing exercise for the front delts, performed with a machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -24,6 +37,10 @@ Leverage Shoulder Press is a beginner pushing exercise for the front delts, perf
 - **Equipment:** Machine
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+Leverage Shoulder Press is a beginner pushing exercise for the front delts, performed with a machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

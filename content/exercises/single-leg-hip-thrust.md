@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: single-leg-hip-thrust
+schemaVersion: 1
 name: Single-Leg Hip Thrust
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/single-leg-hip-thrust.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Single-Leg Hip Thrust
-
-An intermediate bodyweight hinge-pattern exercise for the glutes. Single-Leg Hip Thrust builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate bodyweight hinge-pattern exercise for the glutes. Single-Leg Hip
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings
+
+## Overview
+
+An intermediate bodyweight hinge-pattern exercise for the glutes. Single-Leg Hip Thrust builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

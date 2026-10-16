@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: seated-anterior-delt-press
+schemaVersion: 1
 name: Seated Anterior Delt Press
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,21 @@ muscles:
     - Triceps
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/seated-anterior-delt-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Seated Anterior Delt Press
-
-Seated Anterior Delt Press is a beginner pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -24,6 +35,10 @@ Seated Anterior Delt Press is a beginner pushing exercise for the front delts, p
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+Seated Anterior Delt Press is a beginner pushing exercise for the front delts, performed with dumbbells. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

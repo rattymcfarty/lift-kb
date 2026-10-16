@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: double-leg-multi-directional-pogo
+schemaVersion: 1
 name: Double Leg Multi-Directional Pogo
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Calves
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/double-leg-multi-directional-pogo.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Double Leg Multi-Directional Pogo
-
-A series of small, quick two-footed hops in different directions that builds ankle stiffness and reactive strength.
 
 ## Details
 
@@ -23,6 +34,10 @@ A series of small, quick two-footed hops in different directions that builds ank
 - **Movement pattern:** cardio
 - **Equipment:** Bodyweight
 - **Primary muscles:** Calves, Quadriceps
+
+## Overview
+
+A series of small, quick two-footed hops in different directions that builds ankle stiffness and reactive strength.
 
 ## Instructions
 

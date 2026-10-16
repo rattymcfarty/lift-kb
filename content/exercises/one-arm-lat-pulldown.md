@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: one-arm-lat-pulldown
+schemaVersion: 1
 name: One Arm Lat Pulldown
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,23 @@ muscles:
     - Upper Back
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/one-arm-lat-pulldown.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Pull
 ---
 
 # One Arm Lat Pulldown
-
-One Arm Lat Pulldown is a beginner pulling exercise for the lats, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -25,6 +38,10 @@ One Arm Lat Pulldown is a beginner pulling exercise for the lats, performed with
 - **Equipment:** Cable
 - **Primary muscles:** Lats
 - **Secondary muscles:** Biceps, Upper Back
+
+## Overview
+
+One Arm Lat Pulldown is a beginner pulling exercise for the lats, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

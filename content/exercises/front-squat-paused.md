@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: front-squat-paused
+schemaVersion: 1
 name: "Front Squat (Paused)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Lower Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/front-squat-paused.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Front Squat (Paused)
-
-A front squat with a one to two second pause at the bottom, which builds strength and control out of the hole.
 
 ## Details
 
@@ -26,6 +37,10 @@ A front squat with a one to two second pause at the bottom, which builds strengt
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Lower Back
+
+## Overview
+
+A front squat with a one to two second pause at the bottom, which builds strength and control out of the hole.
 
 ## Instructions
 

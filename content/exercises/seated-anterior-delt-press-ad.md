@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: seated-anterior-delt-press-ad
+schemaVersion: 1
 name: "Seated Anterior Delt Press (AD)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/seated-anterior-delt-press-ad.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Seated Anterior Delt Press (AD)
-
-A seated shoulder press variant that emphasises the front delts.
 
 ## Details
 
@@ -25,6 +36,10 @@ A seated shoulder press variant that emphasises the front delts.
 - **Equipment:** Other
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A seated shoulder press variant that emphasises the front delts.
 
 ## Instructions
 

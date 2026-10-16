@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: alternating-lunge-with-rotation
+schemaVersion: 1
 name: Alternating Lunge with Rotation
-difficulty: intermediate
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Abs
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: lunge
+image: assets/exercises/alternating-lunge-with-rotation.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Lunge
 ---
 
 # Alternating Lunge with Rotation
-
-An intermediate bodyweight lunge-pattern exercise targeting the quadriceps and glutes. Alternating Lunge with Rotation develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate bodyweight lunge-pattern exercise targeting the quadriceps and g
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Abs
+
+## Overview
+
+An intermediate bodyweight lunge-pattern exercise targeting the quadriceps and glutes. Alternating Lunge with Rotation develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Instructions
 

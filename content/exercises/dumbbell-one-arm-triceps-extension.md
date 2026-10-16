@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-one-arm-triceps-extension
+schemaVersion: 1
 name: Dumbbell One-Arm Triceps Extension
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/dumbbell-one-arm-triceps-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Dumbbell One-Arm Triceps Extension
-
-An intermediate dumbbell press-pattern exercise targeting the triceps. Dumbbell One-Arm Triceps Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +35,10 @@ An intermediate dumbbell press-pattern exercise targeting the triceps. Dumbbell 
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+An intermediate dumbbell press-pattern exercise targeting the triceps. Dumbbell One-Arm Triceps Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lying-tricep-extension-barbell
+schemaVersion: 1
 name: "Lying Tricep Extension (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-tricep-extension-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Lying Tricep Extension (Barbell)
-
-A skull-crusher style barbell extension performed lying on a bench that isolates the triceps.
 
 ## Details
 
@@ -22,6 +33,10 @@ A skull-crusher style barbell extension performed lying on a bench that isolates
 - **Movement pattern:** push
 - **Equipment:** Barbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+A skull-crusher style barbell extension performed lying on a bench that isolates the triceps.
 
 ## Instructions
 

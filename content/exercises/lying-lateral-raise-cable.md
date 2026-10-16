@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lying-lateral-raise-cable
+schemaVersion: 1
 name: "Lying Lateral Raise (Cable)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-lateral-raise-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lying Lateral Raise (Cable)
-
-An intermediate cable press-pattern exercise targeting the middle delts. Lying Lateral Raise (Cable) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +33,10 @@ An intermediate cable press-pattern exercise targeting the middle delts. Lying L
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Middle Delts
+
+## Overview
+
+An intermediate cable press-pattern exercise targeting the middle delts. Lying Lateral Raise (Cable) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

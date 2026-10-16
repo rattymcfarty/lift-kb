@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: bench-t-spine-stretch
+schemaVersion: 1
 name: Bench T-Spine Stretch
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/bench-t-spine-stretch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Bench T-Spine Stretch
-
-A kneeling stretch that opens the upper back and shoulders by sitting your hips back while your arms rest on a bench.
 
 ## Details
 
@@ -22,6 +33,10 @@ A kneeling stretch that opens the upper back and shoulders by sitting your hips 
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A kneeling stretch that opens the upper back and shoulders by sitting your hips back while your arms rest on a bench.
 
 ## Instructions
 

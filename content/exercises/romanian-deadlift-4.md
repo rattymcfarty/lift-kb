@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: romanian-deadlift-4
+schemaVersion: 1
 name: Romanian Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -12,13 +13,26 @@ muscles:
     - Lower Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/romanian-deadlift-4.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
+replacedBy: romanian-deadlift
 ---
 
 # Romanian Deadlift
 
 > **Deprecated**, use [Romanian Deadlift](romanian-deadlift.md).
-
-An intermediate barbell hinge-pattern exercise for the hamstrings. Romanian Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -28,6 +42,10 @@ An intermediate barbell hinge-pattern exercise for the hamstrings. Romanian Dead
 - **Equipment:** Barbell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Calves, Glutes, Lower Back
+
+## Overview
+
+An intermediate barbell hinge-pattern exercise for the hamstrings. Romanian Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: seated-shoulder-press-dumbbell
+schemaVersion: 1
 name: "Seated Shoulder Press (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/seated-shoulder-press-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Seated Shoulder Press (Dumbbell)
-
-A seated dumbbell shoulder press that builds the delts and triceps.
 
 ## Details
 
@@ -25,6 +36,10 @@ A seated dumbbell shoulder press that builds the delts and triceps.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Middle Delts, Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A seated dumbbell shoulder press that builds the delts and triceps.
 
 ## Instructions
 

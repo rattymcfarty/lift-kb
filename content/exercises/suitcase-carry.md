@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: suitcase-carry
+schemaVersion: 1
 name: Suitcase Carry
-difficulty: beginner
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Abs
@@ -12,11 +13,21 @@ muscles:
     - Quadriceps
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: carry
+image: assets/exercises/suitcase-carry.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Carry
 ---
 
 # Suitcase Carry
-
-A beginner loaded carry with dumbbells for the abs. Suitcase Carry builds the grip, core, and postural strength used every time you haul groceries or luggage.
 
 ## Details
 
@@ -26,6 +37,10 @@ A beginner loaded carry with dumbbells for the abs. Suitcase Carry builds the gr
 - **Equipment:** Dumbbell
 - **Primary muscles:** Abs
 - **Secondary muscles:** Forearms, Glutes, Quadriceps
+
+## Overview
+
+A beginner loaded carry with dumbbells for the abs. Suitcase Carry builds the grip, core, and postural strength used every time you haul groceries or luggage.
 
 ## Instructions
 

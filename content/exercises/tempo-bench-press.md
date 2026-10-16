@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: tempo-bench-press
+schemaVersion: 1
 name: Tempo Bench Press
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,21 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/tempo-bench-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Tempo Bench Press
-
-An intermediate barbell press-pattern exercise targeting the chest. Tempo Bench Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate barbell press-pattern exercise targeting the chest. Tempo Bench 
 - **Equipment:** Barbell
 - **Primary muscles:** Chest
 - **Secondary muscles:** Triceps
+
+## Overview
+
+An intermediate barbell press-pattern exercise targeting the chest. Tempo Bench Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

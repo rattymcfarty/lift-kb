@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: butt-kicks
+schemaVersion: 1
 name: Butt Kicks
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/butt-kicks.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Butt Kicks
-
-Butt Kicks is a beginner core exercise targeting the hamstrings, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -25,6 +36,10 @@ Butt Kicks is a beginner core exercise targeting the hamstrings, performed with 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Quadriceps, Calves
+
+## Overview
+
+Butt Kicks is a beginner core exercise targeting the hamstrings, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

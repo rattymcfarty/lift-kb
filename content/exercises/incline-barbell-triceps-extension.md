@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: incline-barbell-triceps-extension
+schemaVersion: 1
 name: Incline Barbell Triceps Extension
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -10,11 +11,23 @@ muscles:
     - Forearms
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/incline-barbell-triceps-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Incline Barbell Triceps Extension
-
-An intermediate barbell press-pattern exercise targeting the triceps. Incline Barbell Triceps Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +37,10 @@ An intermediate barbell press-pattern exercise targeting the triceps. Incline Ba
 - **Equipment:** Barbell
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Forearms
+
+## Overview
+
+An intermediate barbell press-pattern exercise targeting the triceps. Incline Barbell Triceps Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

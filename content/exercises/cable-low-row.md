@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: cable-low-row
+schemaVersion: 1
 name: Cable Low Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/cable-low-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Cable Low Row
-
-A seated cable row to a low pulley that trains the lats, mid-back and biceps with steady tension.
 
 ## Details
 
@@ -25,6 +36,10 @@ A seated cable row to a low pulley that trains the lats, mid-back and biceps wit
 - **Equipment:** Cable
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A seated cable row to a low pulley that trains the lats, mid-back and biceps with steady tension.
 
 ## Instructions
 

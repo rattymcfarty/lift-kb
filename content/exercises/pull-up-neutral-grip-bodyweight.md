@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: pull-up-neutral-grip-bodyweight
+schemaVersion: 1
 name: "Pull-Up (Neutral Grip, Bodyweight)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/pull-up-neutral-grip-bodyweight.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Pull-Up (Neutral Grip, Bodyweight)
-
-A pull-up with palms facing each other, which is often easier on the shoulders and elbows.
 
 ## Details
 
@@ -25,6 +36,10 @@ A pull-up with palms facing each other, which is often easier on the shoulders a
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A pull-up with palms facing each other, which is often easier on the shoulders and elbows.
 
 ## Instructions
 

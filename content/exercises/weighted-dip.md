@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: weighted-dip
+schemaVersion: 1
 name: Weighted Dip
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/weighted-dip.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Weighted Dip
-
-Weighted Dip is an advanced pushing exercise for the triceps, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +36,10 @@ Weighted Dip is an advanced pushing exercise for the triceps, performed with jus
 - **Equipment:** Bodyweight
 - **Primary muscles:** Triceps
 - **Secondary muscles:** Chest, Front Delts
+
+## Overview
+
+Weighted Dip is an advanced pushing exercise for the triceps, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: good-morning
+schemaVersion: 1
 name: Good Morning
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,11 +14,23 @@ muscles:
 equipment:
   - Barbell
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/good-morning.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
 ---
 
 # Good Morning
-
-Good Morning is an intermediate hip-hinge exercise targeting the hamstrings, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -27,6 +40,10 @@ Good Morning is an intermediate hip-hinge exercise targeting the hamstrings, per
 - **Equipment:** Barbell, Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Abs, Glutes, Lower Back
+
+## Overview
+
+Good Morning is an intermediate hip-hinge exercise targeting the hamstrings, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

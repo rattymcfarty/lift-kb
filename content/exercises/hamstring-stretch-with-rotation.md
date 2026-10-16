@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: hamstring-stretch-with-rotation
+schemaVersion: 1
 name: Hamstring Stretch with Rotation
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/hamstring-stretch-with-rotation.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Mobility
 ---
 
 # Hamstring Stretch with Rotation
-
-A standing or seated hamstring stretch with a thoracic rotation that adds mobility through the trunk.
 
 ## Details
 
@@ -22,6 +33,10 @@ A standing or seated hamstring stretch with a thoracic rotation that adds mobili
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+A standing or seated hamstring stretch with a thoracic rotation that adds mobility through the trunk.
 
 ## Instructions
 

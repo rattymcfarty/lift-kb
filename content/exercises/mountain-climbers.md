@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: mountain-climbers
+schemaVersion: 1
 name: Mountain Climbers
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,23 @@ muscles:
     - Front Delts
 equipment:
   - Other
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/mountain-climbers.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Mountain Climbers
-
-Mountain Climbers is a beginner conditioning exercise performed with minimal equipment, engaging the quadriceps. It raises the heart rate while building work capacity and coordination.
 
 ## Details
 
@@ -26,6 +39,10 @@ Mountain Climbers is a beginner conditioning exercise performed with minimal equ
 - **Equipment:** Other
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Chest, Hamstrings, Front Delts
+
+## Overview
+
+Mountain Climbers is a beginner conditioning exercise performed with minimal equipment, engaging the quadriceps. It raises the heart rate while building work capacity and coordination.
 
 ## Instructions
 

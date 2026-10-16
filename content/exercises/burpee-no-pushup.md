@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: burpee-no-pushup
+schemaVersion: 1
 name: "Burpee (No Push-Up)"
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Full-Body
@@ -11,11 +12,21 @@ muscles:
     - Quadriceps
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/burpee-no-pushup.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Burpee (No Push-Up)
-
-Burpee (No Push-Up) is an intermediate core exercise targeting the full-body, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -25,6 +36,10 @@ Burpee (No Push-Up) is an intermediate core exercise targeting the full-body, pe
 - **Equipment:** Bodyweight
 - **Primary muscles:** Full-Body
 - **Secondary muscles:** Chest, Quadriceps
+
+## Overview
+
+Burpee (No Push-Up) is an intermediate core exercise targeting the full-body, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

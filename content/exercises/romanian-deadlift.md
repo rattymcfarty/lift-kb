@@ -1,7 +1,19 @@
 ---
-id: romanian-deadlift
-name: Romanian Deadlift
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - RDL
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Hinge
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: intermediate
+equipment:
+  - Dumbbell
+  - Barbell
+  - Kettlebell
+id: romanian-deadlift
 movementPattern: hinge
 muscles:
   primary:
@@ -11,10 +23,17 @@ muscles:
     - Lower Back
     - Lats
     - Forearms
-equipment:
-  - Dumbbell
-  - Barbell
-  - Kettlebell
+name: Romanian Deadlift
+progression:
+  loadingGuidance: Add 2-5 kg when you can complete 3 sets of 10 with a flat back and full hamstring stretch at RPE 7 or less.
+  progressTo: Barbell Romanian deadlift from a deficit
+  regressTo: "Dowel hip-hinge drill (no weight, dowel along the spine)"
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: National Strength and Conditioning Association
+    title: Essentials of Strength Training and Conditioning
+updatedAt: "2026-10-11"
 ---
 
 # Romanian Deadlift

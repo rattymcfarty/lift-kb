@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: leg-press-45-degrees
+schemaVersion: 1
 name: "Leg Press (45 Degrees)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Abductors
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/leg-press-45-degrees.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Leg Press (45 Degrees)
-
-A machine leg press on a 45-degree sled that trains the quads, glutes and hamstrings with back support.
 
 ## Details
 
@@ -26,6 +37,10 @@ A machine leg press on a 45-degree sled that trains the quads, glutes and hamstr
 - **Equipment:** Machine
 - **Primary muscles:** Quadriceps, Hamstrings
 - **Secondary muscles:** Glutes, Abductors
+
+## Overview
+
+A machine leg press on a 45-degree sled that trains the quads, glutes and hamstrings with back support.
 
 ## Instructions
 

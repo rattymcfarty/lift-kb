@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: bear-crawl
+schemaVersion: 1
 name: Bear Crawl
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Full-Body
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/bear-crawl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Bear Crawl
-
-An intermediate just your bodyweight core exercise for the full-body. Bear Crawl builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate just your bodyweight core exercise for the full-body. Bear Crawl
 - **Equipment:** Bodyweight
 - **Primary muscles:** Full-Body
 - **Secondary muscles:** Quadriceps, Front Delts
+
+## Overview
+
+An intermediate just your bodyweight core exercise for the full-body. Bear Crawl builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

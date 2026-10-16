@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: stiff-legged-dumbbell-deadlift
+schemaVersion: 1
 name: Stiff-Legged Dumbbell Deadlift
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -11,11 +12,23 @@ muscles:
     - Lower Back
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/stiff-legged-dumbbell-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Stiff-Legged Dumbbell Deadlift
-
-A beginner dumbbell hinge-pattern exercise for the hamstrings. Stiff-Legged Dumbbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +38,10 @@ A beginner dumbbell hinge-pattern exercise for the hamstrings. Stiff-Legged Dumb
 - **Equipment:** Dumbbell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes, Lower Back
+
+## Overview
+
+A beginner dumbbell hinge-pattern exercise for the hamstrings. Stiff-Legged Dumbbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

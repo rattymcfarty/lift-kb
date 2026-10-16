@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: cable-seated-lateral-raise
+schemaVersion: 1
 name: Cable Seated Lateral Raise
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
@@ -10,11 +11,23 @@ muscles:
     - Upper Back
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/cable-seated-lateral-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Cable Seated Lateral Raise
-
-A beginner cable press-pattern exercise targeting the middle delts. Cable Seated Lateral Raise builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +37,10 @@ A beginner cable press-pattern exercise targeting the middle delts. Cable Seated
 - **Equipment:** Cable
 - **Primary muscles:** Middle Delts
 - **Secondary muscles:** Upper Back
+
+## Overview
+
+A beginner cable press-pattern exercise targeting the middle delts. Cable Seated Lateral Raise builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

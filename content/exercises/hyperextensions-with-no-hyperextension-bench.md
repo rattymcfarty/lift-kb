@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hyperextensions-with-no-hyperextension-bench
+schemaVersion: 1
 name: Hyperextensions With No Hyperextension Bench
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/hyperextensions-with-no-hyperextension-bench.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Hyperextensions With No Hyperextension Bench
-
-An intermediate bodyweight press-pattern exercise targeting the lower back. Hyperextensions With No Hyperextension Bench builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +38,10 @@ An intermediate bodyweight press-pattern exercise targeting the lower back. Hype
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+An intermediate bodyweight press-pattern exercise targeting the lower back. Hyperextensions With No Hyperextension Bench builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

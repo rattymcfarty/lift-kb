@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-wrist-extension
+schemaVersion: 1
 name: Dumbbell Wrist Extension
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Forearms
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/dumbbell-wrist-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Dumbbell Wrist Extension
-
-A beginner dumbbell pull-pattern exercise for the forearms. Dumbbell Wrist Extension strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -22,6 +33,10 @@ A beginner dumbbell pull-pattern exercise for the forearms. Dumbbell Wrist Exten
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Forearms
+
+## Overview
+
+A beginner dumbbell pull-pattern exercise for the forearms. Dumbbell Wrist Extension strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

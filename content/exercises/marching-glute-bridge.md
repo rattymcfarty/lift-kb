@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: marching-glute-bridge
+schemaVersion: 1
 name: Marching Glute Bridge
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -12,11 +13,21 @@ muscles:
     - Abductors
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/marching-glute-bridge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Marching Glute Bridge
-
-A glute bridge with alternating leg lifts that challenges hip stability and the glutes.
 
 ## Details
 
@@ -26,6 +37,10 @@ A glute bridge with alternating leg lifts that challenges hip stability and the 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes, Hamstrings
 - **Secondary muscles:** Lower Back, Abductors
+
+## Overview
+
+A glute bridge with alternating leg lifts that challenges hip stability and the glutes.
 
 ## Instructions
 

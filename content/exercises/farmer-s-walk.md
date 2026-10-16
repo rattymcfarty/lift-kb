@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: farmer-s-walk
+schemaVersion: 1
 name: "Farmer's Walk"
-difficulty: intermediate
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Forearms
@@ -13,11 +14,23 @@ muscles:
     - Lower Back
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: carry
+image: assets/exercises/farmer-s-walk.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Carry
 ---
 
 # Farmer's Walk
-
-An intermediate loaded carry with minimal equipment for the forearms. Farmer's Walk builds the grip, core, and postural strength used every time you haul groceries or luggage.
 
 ## Details
 
@@ -27,6 +40,10 @@ An intermediate loaded carry with minimal equipment for the forearms. Farmer's W
 - **Equipment:** Other
 - **Primary muscles:** Forearms
 - **Secondary muscles:** Abs, Glutes, Hamstrings, Lower Back
+
+## Overview
+
+An intermediate loaded carry with minimal equipment for the forearms. Farmer's Walk builds the grip, core, and postural strength used every time you haul groceries or luggage.
 
 ## Instructions
 

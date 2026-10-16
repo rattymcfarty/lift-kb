@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: inchworm
+schemaVersion: 1
 name: Inchworm
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Hamstrings
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/inchworm.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Inchworm
-
-Inchworm is a beginner mobility exercise for the hamstrings, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -22,6 +35,10 @@ Inchworm is a beginner mobility exercise for the hamstrings, performed with just
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
+
+## Overview
+
+Inchworm is a beginner mobility exercise for the hamstrings, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

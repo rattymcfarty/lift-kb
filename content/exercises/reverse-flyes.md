@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: reverse-flyes
+schemaVersion: 1
 name: Reverse Flyes
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/reverse-flyes.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Reverse Flyes
-
-Reverse Flyes is a beginner pulling exercise for the rear delts, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +35,10 @@ Reverse Flyes is a beginner pulling exercise for the rear delts, performed with 
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Rear Delts
+
+## Overview
+
+Reverse Flyes is a beginner pulling exercise for the rear delts, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

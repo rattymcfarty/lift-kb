@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: behind-the-neck-lat-pulldown
+schemaVersion: 1
 name: Behind-the-Neck Lat Pulldown
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/behind-the-neck-lat-pulldown.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Pull
 ---
 
 # Behind-the-Neck Lat Pulldown
-
-A lat pulldown variation that brings the bar behind the head. It demands good shoulder mobility and is not suitable for everyone.
 
 ## Details
 
@@ -23,6 +34,10 @@ A lat pulldown variation that brings the bar behind the head. It demands good sh
 - **Movement pattern:** pull
 - **Equipment:** Cable
 - **Primary muscles:** Lats, Upper Back
+
+## Overview
+
+A lat pulldown variation that brings the bar behind the head. It demands good shoulder mobility and is not suitable for everyone.
 
 ## Instructions
 

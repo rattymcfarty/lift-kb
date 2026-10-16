@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: suitcase-deadlift
+schemaVersion: 1
 name: Suitcase Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Abs
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/suitcase-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Suitcase Deadlift
-
-An intermediate barbell hinge-pattern exercise for the quadriceps. Suitcase Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate barbell hinge-pattern exercise for the quadriceps. Suitcase Dead
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Abs
+
+## Overview
+
+An intermediate barbell hinge-pattern exercise for the quadriceps. Suitcase Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

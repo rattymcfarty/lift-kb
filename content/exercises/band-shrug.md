@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: band-shrug
+schemaVersion: 1
 name: "Shrug (Band)"
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -10,11 +11,21 @@ muscles:
     - Forearms
 equipment:
   - Other
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/band-shrug.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Shrug (Band)
-
-Shrug (Band) is a beginner pulling exercise for the upper back, performed with minimal equipment. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +35,10 @@ Shrug (Band) is a beginner pulling exercise for the upper back, performed with m
 - **Equipment:** Other
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Forearms
+
+## Overview
+
+Shrug (Band) is a beginner pulling exercise for the upper back, performed with minimal equipment. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

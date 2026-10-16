@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-leg-romanian-deadlift
+schemaVersion: 1
 name: Single Leg Romanian Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/single-leg-romanian-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
 ---
 
 # Single Leg Romanian Deadlift
-
-A single-leg hip hinge that trains the hamstrings, glutes and balance.
 
 ## Details
 
@@ -27,6 +38,10 @@ A single-leg hip hinge that trains the hamstrings, glutes and balance.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Hamstrings, Glutes
 - **Secondary muscles:** Quadriceps, Lower Back, Abs
+
+## Overview
+
+A single-leg hip hinge that trains the hamstrings, glutes and balance.
 
 ## Instructions
 

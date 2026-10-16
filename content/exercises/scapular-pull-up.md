@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: scapular-pull-up
+schemaVersion: 1
 name: Scapular Pull-Up
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -10,11 +11,23 @@ muscles:
     - Lats
 equipment:
   - Other
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/scapular-pull-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Pull
 ---
 
 # Scapular Pull-Up
-
-A beginner minimal-equipment pull-pattern exercise for the upper back. Scapular Pull-Up strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +37,10 @@ A beginner minimal-equipment pull-pattern exercise for the upper back. Scapular 
 - **Equipment:** Other
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Lats
+
+## Overview
+
+A beginner minimal-equipment pull-pattern exercise for the upper back. Scapular Pull-Up strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

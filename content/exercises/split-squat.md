@@ -1,7 +1,18 @@
 ---
-id: split-squat
-name: Split Squat
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - "bulgarian split squat (rear-foot elevated variant)"
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Lunge
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Bodyweight
+  - Dumbbell
+id: split-squat
 movementPattern: lunge
 muscles:
   primary:
@@ -11,9 +22,17 @@ muscles:
     - Hamstrings
     - Calves
     - Abs
-equipment:
-  - Bodyweight
-  - Dumbbell
+name: Split Squat
+progression:
+  loadingGuidance: "Add dumbbells when you can do 3 sets of 10 per leg with a 2-second pause at the bottom, no balance assist."
+  progressTo: "Rear-foot-elevated (Bulgarian) split squat"
+  regressTo: Assisted split squat holding a doorframe or TRX
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: American College of Sports Medicine
+    title: ACSM Guidelines for Exercise Testing and Prescription
+updatedAt: "2026-10-11"
 ---
 
 # Split Squat

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: superman
+schemaVersion: 1
 name: Superman
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/superman.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Superman
-
-Superman is a beginner mobility exercise for the lower back, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Details
 
@@ -25,6 +38,10 @@ Superman is a beginner mobility exercise for the lower back, performed with just
 - **Equipment:** Bodyweight
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+Superman is a beginner mobility exercise for the lower back, performed with just your bodyweight. Regular mobility work keeps joints moving freely and makes strength training safer.
 
 ## Instructions
 

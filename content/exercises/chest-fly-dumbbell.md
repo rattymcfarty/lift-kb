@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: chest-fly-dumbbell
+schemaVersion: 1
 name: "Chest Fly (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/chest-fly-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Chest Fly (Dumbbell)
-
-A dumbbell chest fly on a flat bench that stretches and shortens the chest through an arc.
 
 ## Details
 
@@ -23,6 +34,10 @@ A dumbbell chest fly on a flat bench that stretches and shortens the chest throu
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest, Front Delts
+
+## Overview
+
+A dumbbell chest fly on a flat bench that stretches and shortens the chest through an arc.
 
 ## Instructions
 

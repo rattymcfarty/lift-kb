@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: shadow-kick-boxing
+schemaVersion: 1
 name: Shadow Kick Boxing
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Other
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/shadow-kick-boxing.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Shadow Kick Boxing
-
-Punching and kicking drills without a target for conditioning.
 
 ## Details
 
@@ -22,6 +33,10 @@ Punching and kicking drills without a target for conditioning.
 - **Movement pattern:** cardio
 - **Equipment:** Bodyweight
 - **Primary muscles:** Other
+
+## Overview
+
+Punching and kicking drills without a target for conditioning.
 
 ## Instructions
 

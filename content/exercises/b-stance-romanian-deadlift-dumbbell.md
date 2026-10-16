@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: b-stance-romanian-deadlift-dumbbell
+schemaVersion: 1
 name: "B-Stance Romanian Deadlift (Dumbbell)"
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,11 +14,21 @@ muscles:
     - Abs
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/b-stance-romanian-deadlift-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
 ---
 
 # B-Stance Romanian Deadlift (Dumbbell)
-
-A Romanian deadlift variation with a staggered stance that shifts most of the load onto the front leg while the back foot only stabilises.
 
 ## Details
 
@@ -27,6 +38,10 @@ A Romanian deadlift variation with a staggered stance that shifts most of the lo
 - **Equipment:** Dumbbell
 - **Primary muscles:** Hamstrings, Glutes
 - **Secondary muscles:** Lower Back, Adductors, Abs
+
+## Overview
+
+A Romanian deadlift variation with a staggered stance that shifts most of the load onto the front leg while the back foot only stabilises.
 
 ## Instructions
 

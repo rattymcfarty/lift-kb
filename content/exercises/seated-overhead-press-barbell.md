@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: seated-overhead-press-barbell
+schemaVersion: 1
 name: "Seated Overhead Press (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/seated-overhead-press-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Seated Overhead Press (Barbell)
-
-A seated barbell overhead press that removes leg drive and focuses on the shoulders and triceps.
 
 ## Details
 
@@ -25,6 +36,10 @@ A seated barbell overhead press that removes leg drive and focuses on the should
 - **Equipment:** Barbell
 - **Primary muscles:** Middle Delts, Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A seated barbell overhead press that removes leg drive and focuses on the shoulders and triceps.
 
 ## Instructions
 

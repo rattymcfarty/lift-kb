@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: reverse-hyperextension
+schemaVersion: 1
 name: Reverse Hyperextension
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -11,11 +12,23 @@ muscles:
     - Glutes
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/reverse-hyperextension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Reverse Hyperextension
-
-Reverse Hyperextension is an intermediate hip-hinge exercise targeting the hamstrings, performed with a machine. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +38,10 @@ Reverse Hyperextension is an intermediate hip-hinge exercise targeting the hamst
 - **Equipment:** Machine
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Calves, Glutes
+
+## Overview
+
+Reverse Hyperextension is an intermediate hip-hinge exercise targeting the hamstrings, performed with a machine. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

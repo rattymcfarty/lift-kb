@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-arm-pushdown
+schemaVersion: 1
 name: Single Arm Pushdown
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/single-arm-pushdown.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Single Arm Pushdown
-
-A single-arm cable pushdown that isolates one triceps at a time.
 
 ## Details
 
@@ -22,6 +33,10 @@ A single-arm cable pushdown that isolates one triceps at a time.
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Triceps
+
+## Overview
+
+A single-arm cable pushdown that isolates one triceps at a time.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: pin-press-bench-barbell
+schemaVersion: 1
 name: "Pin Press Bench (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/pin-press-bench-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Pin Press Bench (Barbell)
-
-A bench press from pins that starts each rep from a dead stop, removing the stretch reflex.
 
 ## Details
 
@@ -25,6 +36,10 @@ A bench press from pins that starts each rep from a dead stop, removing the stre
 - **Equipment:** Barbell
 - **Primary muscles:** Chest, Triceps
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+A bench press from pins that starts each rep from a dead stop, removing the stretch reflex.
 
 ## Instructions
 

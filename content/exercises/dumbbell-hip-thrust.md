@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-hip-thrust
+schemaVersion: 1
 name: Dumbbell Hip Thrust
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/dumbbell-hip-thrust.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Dumbbell Hip Thrust
-
-Dumbbell Hip Thrust is an intermediate hip-hinge exercise targeting the glutes, performed with dumbbells. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +38,10 @@ Dumbbell Hip Thrust is an intermediate hip-hinge exercise targeting the glutes, 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Calves, Hamstrings
+
+## Overview
+
+Dumbbell Hip Thrust is an intermediate hip-hinge exercise targeting the glutes, performed with dumbbells. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

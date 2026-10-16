@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: power-jerk
+schemaVersion: 1
 name: Power Jerk
-difficulty: advanced
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,23 @@ muscles:
     - Hamstrings
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: squat
+image: assets/exercises/power-jerk.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Power Jerk
-
-An advanced barbell squat-pattern exercise for the quadriceps. Power Jerk develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -27,6 +40,10 @@ An advanced barbell squat-pattern exercise for the quadriceps. Power Jerk develo
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Abs, Calves, Glutes, Hamstrings
+
+## Overview
+
+An advanced barbell squat-pattern exercise for the quadriceps. Power Jerk develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

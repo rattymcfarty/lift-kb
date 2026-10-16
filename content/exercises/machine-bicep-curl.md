@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: machine-bicep-curl
+schemaVersion: 1
 name: Machine Bicep Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Machine
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/machine-bicep-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Machine Bicep Curl
-
-Machine Bicep Curl is a beginner pulling exercise for the biceps, performed with a machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +35,10 @@ Machine Bicep Curl is a beginner pulling exercise for the biceps, performed with
 - **Movement pattern:** pull
 - **Equipment:** Machine
 - **Primary muscles:** Biceps
+
+## Overview
+
+Machine Bicep Curl is a beginner pulling exercise for the biceps, performed with a machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: copenhagen-plank
+schemaVersion: 1
 name: Copenhagen Plank
-difficulty: advanced
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Adductors
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: core
+image: assets/exercises/copenhagen-plank.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Copenhagen Plank
-
-An advanced just your bodyweight core exercise for the adductors. Copenhagen Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -25,6 +36,10 @@ An advanced just your bodyweight core exercise for the adductors. Copenhagen Pla
 - **Equipment:** Bodyweight
 - **Primary muscles:** Adductors
 - **Secondary muscles:** Abs, Glutes
+
+## Overview
+
+An advanced just your bodyweight core exercise for the adductors. Copenhagen Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: turkish-get-up
+schemaVersion: 1
 name: Turkish Get Up
-difficulty: advanced
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Full-Body
   secondary: []
 equipment:
   - Kettlebell
+difficulty: advanced
+movementPattern: lunge
+image: assets/exercises/turkish-get-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Turkish Get Up
-
-A multi-step movement from lying to standing with a weight overhead that trains stability and mobility.
 
 ## Details
 
@@ -22,6 +33,10 @@ A multi-step movement from lying to standing with a weight overhead that trains 
 - **Movement pattern:** lunge
 - **Equipment:** Kettlebell
 - **Primary muscles:** Full-Body
+
+## Overview
+
+A multi-step movement from lying to standing with a weight overhead that trains stability and mobility.
 
 ## Instructions
 

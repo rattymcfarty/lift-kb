@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kelso-shrug
+schemaVersion: 1
 name: Kelso Shrug
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -10,11 +11,21 @@ muscles:
     - Rear Delts
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/kelso-shrug.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Kelso Shrug
-
-An intermediate dumbbell pull-pattern exercise for the upper back. Kelso Shrug strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate dumbbell pull-pattern exercise for the upper back. Kelso Shrug s
 - **Equipment:** Dumbbell
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Rear Delts
+
+## Overview
+
+An intermediate dumbbell pull-pattern exercise for the upper back. Kelso Shrug strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

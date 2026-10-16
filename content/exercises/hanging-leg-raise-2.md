@@ -1,21 +1,35 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: hanging-leg-raise-2
+schemaVersion: 1
 name: Hanging Leg Raise
-difficulty: advanced
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: core
+image: assets/exercises/hanging-leg-raise-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
+replacedBy: hanging-leg-raise
 ---
 
 # Hanging Leg Raise
 
 > **Deprecated**, use [Hanging Leg Raise](hanging-leg-raise.md).
-
-An advanced just your bodyweight core exercise for the abs. Hanging Leg Raise builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +38,10 @@ An advanced just your bodyweight core exercise for the abs. Hanging Leg Raise bu
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+An advanced just your bodyweight core exercise for the abs. Hanging Leg Raise builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: jammer-press
+schemaVersion: 1
 name: Jammer Press
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/jammer-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Jammer Press
-
-Jammer Press is an intermediate pushing exercise for the chest, performed with a machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +36,10 @@ Jammer Press is an intermediate pushing exercise for the chest, performed with a
 - **Equipment:** Machine
 - **Primary muscles:** Chest
 - **Secondary muscles:** Front Delts, Triceps
+
+## Overview
+
+Jammer Press is an intermediate pushing exercise for the chest, performed with a machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

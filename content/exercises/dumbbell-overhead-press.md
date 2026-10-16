@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-overhead-press
+schemaVersion: 1
 name: "Overhead Press (Dumbbell)"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Middle Delts
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/dumbbell-overhead-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Overhead Press (Dumbbell)
-
-A beginner dumbbell press-pattern exercise targeting the front delts. Overhead Press (Dumbbell) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner dumbbell press-pattern exercise targeting the front delts. Overhead P
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps, Middle Delts
+
+## Overview
+
+A beginner dumbbell press-pattern exercise targeting the front delts. Overhead Press (Dumbbell) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

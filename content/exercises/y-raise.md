@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: y-raise
+schemaVersion: 1
 name: Y Raise
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/y-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Y Raise
-
-A Y-shaped raise that strengthens the lower traps and rear delts.
 
 ## Details
 
@@ -23,6 +34,10 @@ A Y-shaped raise that strengthens the lower traps and rear delts.
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Rear Delts, Upper Back
+
+## Overview
+
+A Y-shaped raise that strengthens the lower traps and rear delts.
 
 ## Instructions
 

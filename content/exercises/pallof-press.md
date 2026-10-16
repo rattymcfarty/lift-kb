@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: pallof-press
+schemaVersion: 1
 name: Pallof Press
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/pallof-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Pallof Press
-
-An anti-rotation core exercise where you press a cable away from your chest without letting your torso twist.
 
 ## Details
 
@@ -22,6 +33,10 @@ An anti-rotation core exercise where you press a cable away from your chest with
 - **Movement pattern:** core
 - **Equipment:** Cable
 - **Primary muscles:** Abs
+
+## Overview
+
+An anti-rotation core exercise where you press a cable away from your chest without letting your torso twist.
 
 ## Instructions
 

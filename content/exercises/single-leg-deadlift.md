@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: single-leg-deadlift
+schemaVersion: 1
 name: Single-Leg Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -11,11 +12,21 @@ muscles:
     - Lower Back
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/single-leg-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Single-Leg Deadlift
-
-An intermediate bodyweight hinge-pattern exercise for the hamstrings. Single-Leg Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate bodyweight hinge-pattern exercise for the hamstrings. Single-Leg
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes, Lower Back
+
+## Overview
+
+An intermediate bodyweight hinge-pattern exercise for the hamstrings. Single-Leg Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

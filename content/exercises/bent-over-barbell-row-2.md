@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: bent-over-barbell-row-2
+schemaVersion: 1
 name: Bent Over Barbell Row
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -12,13 +13,26 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/bent-over-barbell-row-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: bent-over-barbell-row
 ---
 
 # Bent Over Barbell Row
 
 > **Deprecated**, use [Bent Over Barbell Row](bent-over-barbell-row.md).
-
-Bent Over Barbell Row is a beginner pulling exercise for the upper back, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -28,6 +42,10 @@ Bent Over Barbell Row is a beginner pulling exercise for the upper back, perform
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Biceps, Lats, Front Delts
+
+## Overview
+
+Bent Over Barbell Row is a beginner pulling exercise for the upper back, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

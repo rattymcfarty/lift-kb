@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: tricep-dumbbell-kickback
+schemaVersion: 1
 name: Tricep Dumbbell Kickback
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/tricep-dumbbell-kickback.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Tricep Dumbbell Kickback
-
-A beginner dumbbell press-pattern exercise targeting the triceps. Tricep Dumbbell Kickback builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner dumbbell press-pattern exercise targeting the triceps. Tricep Dumbbel
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+A beginner dumbbell press-pattern exercise targeting the triceps. Tricep Dumbbell Kickback builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

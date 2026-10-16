@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: seated-barbell-military-press-2
+schemaVersion: 1
 name: Seated Barbell Military Press
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,13 +11,26 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/seated-barbell-military-press-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
+replacedBy: seated-barbell-military-press
 ---
 
 # Seated Barbell Military Press
 
 > **Deprecated**, use [Seated Barbell Military Press](seated-barbell-military-press.md).
-
-An intermediate barbell press-pattern exercise targeting the front delts. Seated Barbell Military Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -26,6 +40,10 @@ An intermediate barbell press-pattern exercise targeting the front delts. Seated
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+An intermediate barbell press-pattern exercise targeting the front delts. Seated Barbell Military Press builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

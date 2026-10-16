@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: isometric-dumbbell-row-hold
+schemaVersion: 1
 name: Isometric Dumbbell Row Hold
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/isometric-dumbbell-row-hold.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Isometric Dumbbell Row Hold
-
-An intermediate dumbbell pull-pattern exercise for the lats and upper back. Isometric Dumbbell Row Hold strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate dumbbell pull-pattern exercise for the lats and upper back. Isom
 - **Equipment:** Dumbbell
 - **Primary muscles:** Lats, Upper Back
 - **Secondary muscles:** Biceps
+
+## Overview
+
+An intermediate dumbbell pull-pattern exercise for the lats and upper back. Isometric Dumbbell Row Hold strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: windshield-wipers
+schemaVersion: 1
 name: Windshield Wipers
-difficulty: advanced
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Abs
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: core
+image: assets/exercises/windshield-wipers.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Windshield Wipers
-
-An advanced just your bodyweight core exercise for the abs. Windshield Wipers builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +35,10 @@ An advanced just your bodyweight core exercise for the abs. Windshield Wipers bu
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Abs
+
+## Overview
+
+An advanced just your bodyweight core exercise for the abs. Windshield Wipers builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

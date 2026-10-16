@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: sumo-deadlift-paused
+schemaVersion: 1
 name: "Sumo Deadlift (Paused)"
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Adductors
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/sumo-deadlift-paused.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
 ---
 
 # Sumo Deadlift (Paused)
-
-A sumo deadlift with a pause just off the floor that builds position and strength at the start.
 
 ## Details
 
@@ -26,6 +37,10 @@ A sumo deadlift with a pause just off the floor that builds position and strengt
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Adductors
+
+## Overview
+
+A sumo deadlift with a pause just off the floor that builds position and strength at the start.
 
 ## Instructions
 

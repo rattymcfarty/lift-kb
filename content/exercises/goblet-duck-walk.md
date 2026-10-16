@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: goblet-duck-walk
+schemaVersion: 1
 name: Goblet Duck Walk
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/goblet-duck-walk.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Goblet Duck Walk
-
-An intermediate dumbbell squat-pattern exercise for the quadriceps. Goblet Duck Walk develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate dumbbell squat-pattern exercise for the quadriceps. Goblet Duck 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Calves
+
+## Overview
+
+An intermediate dumbbell squat-pattern exercise for the quadriceps. Goblet Duck Walk develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

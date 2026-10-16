@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lying-side-lateral-raise
+schemaVersion: 1
 name: Lying Side Lateral Raise
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
@@ -11,11 +12,21 @@ muscles:
     - Rear Delts
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-side-lateral-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Lying Side Lateral Raise
-
-A side-lying lateral raise that isolates the side delt through a different angle of resistance.
 
 ## Details
 
@@ -25,6 +36,10 @@ A side-lying lateral raise that isolates the side delt through a different angle
 - **Equipment:** Dumbbell
 - **Primary muscles:** Middle Delts, Front Delts
 - **Secondary muscles:** Rear Delts
+
+## Overview
+
+A side-lying lateral raise that isolates the side delt through a different angle of resistance.
 
 ## Instructions
 

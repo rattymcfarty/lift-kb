@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: rope-pressdown
+schemaVersion: 1
 name: Rope Pressdown
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/rope-pressdown.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Rope Pressdown
-
-A cable triceps pressdown with a rope that lets you spread the ends at the bottom.
 
 ## Details
 
@@ -22,6 +33,10 @@ A cable triceps pressdown with a rope that lets you spread the ends at the botto
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Triceps
+
+## Overview
+
+A cable triceps pressdown with a rope that lets you spread the ends at the bottom.
 
 ## Instructions
 

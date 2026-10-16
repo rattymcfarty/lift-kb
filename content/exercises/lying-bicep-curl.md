@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lying-bicep-curl
+schemaVersion: 1
 name: Lying Bicep Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/lying-bicep-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lying Bicep Curl
-
-Lying Bicep Curl is a beginner pulling exercise for the biceps, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -22,6 +33,10 @@ Lying Bicep Curl is a beginner pulling exercise for the biceps, performed with d
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Biceps
+
+## Overview
+
+Lying Bicep Curl is a beginner pulling exercise for the biceps, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

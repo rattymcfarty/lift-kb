@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: broad-jump
+schemaVersion: 1
 name: Broad Jump
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/broad-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Broad Jump
-
-An intermediate bodyweight hinge-pattern exercise for the quadriceps. Broad Jump builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -26,6 +37,10 @@ An intermediate bodyweight hinge-pattern exercise for the quadriceps. Broad Jump
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings, Calves
+
+## Overview
+
+An intermediate bodyweight hinge-pattern exercise for the quadriceps. Broad Jump builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

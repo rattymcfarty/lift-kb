@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kettlebell-hang-clean
+schemaVersion: 1
 name: Kettlebell Hang Clean
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,11 +14,23 @@ muscles:
     - Front Delts
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/kettlebell-hang-clean.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Kettlebell Hang Clean
-
-Kettlebell Hang Clean is an intermediate hip-hinge exercise targeting the hamstrings, performed with a kettlebell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -27,6 +40,10 @@ Kettlebell Hang Clean is an intermediate hip-hinge exercise targeting the hamstr
 - **Equipment:** Kettlebell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Calves, Glutes, Lower Back, Front Delts
+
+## Overview
+
+Kettlebell Hang Clean is an intermediate hip-hinge exercise targeting the hamstrings, performed with a kettlebell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

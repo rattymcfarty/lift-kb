@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: pinwheel-curl
+schemaVersion: 1
 name: Pinwheel Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
@@ -10,11 +11,21 @@ muscles:
     - Forearms
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/pinwheel-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Pinwheel Curl
-
-A beginner dumbbell pull-pattern exercise for the biceps. Pinwheel Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner dumbbell pull-pattern exercise for the biceps. Pinwheel Curl strength
 - **Equipment:** Dumbbell
 - **Primary muscles:** Biceps
 - **Secondary muscles:** Forearms
+
+## Overview
+
+A beginner dumbbell pull-pattern exercise for the biceps. Pinwheel Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

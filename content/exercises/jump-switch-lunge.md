@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: jump-switch-lunge
+schemaVersion: 1
 name: Jump Switch Lunge
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/jump-switch-lunge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Jump Switch Lunge
-
-A plyometric lunge where you jump and switch legs in the air to train power and conditioning.
 
 ## Details
 
@@ -25,6 +36,10 @@ A plyometric lunge where you jump and switch legs in the air to train power and 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Hamstrings
 - **Secondary muscles:** Calves
+
+## Overview
+
+A plyometric lunge where you jump and switch legs in the air to train power and conditioning.
 
 ## Instructions
 

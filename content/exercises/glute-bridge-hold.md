@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: glute-bridge-hold
+schemaVersion: 1
 name: Glute Bridge Hold
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/glute-bridge-hold.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Glute Bridge Hold
-
-A beginner bodyweight hinge-pattern exercise for the glutes. Glute Bridge Hold builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner bodyweight hinge-pattern exercise for the glutes. Glute Bridge Hold b
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings
+
+## Overview
+
+A beginner bodyweight hinge-pattern exercise for the glutes. Glute Bridge Hold builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: hands-on-hips-countermovement-jump
+schemaVersion: 1
 name: Hands on Hips Countermovement Jump
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/hands-on-hips-countermovement-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Hands on Hips Countermovement Jump
-
-A jump that begins with a quick dip, with the hands on the hips so power comes from the legs.
 
 ## Details
 
@@ -26,6 +37,10 @@ A jump that begins with a quick dip, with the hands on the hips so power comes f
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Calves
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+A jump that begins with a quick dip, with the hands on the hips so power comes from the legs.
 
 ## Instructions
 

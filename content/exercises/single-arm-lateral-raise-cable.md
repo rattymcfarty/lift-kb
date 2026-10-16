@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: single-arm-lateral-raise-cable
+schemaVersion: 1
 name: "Single-Arm Lateral Raise (Cable)"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Middle Delts
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/single-arm-lateral-raise-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Single-Arm Lateral Raise (Cable)
-
-A beginner cable press-pattern exercise targeting the middle delts. Single-Arm Lateral Raise (Cable) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +33,10 @@ A beginner cable press-pattern exercise targeting the middle delts. Single-Arm L
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Middle Delts
+
+## Overview
+
+A beginner cable press-pattern exercise targeting the middle delts. Single-Arm Lateral Raise (Cable) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

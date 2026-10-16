@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: seated-pin-press
+schemaVersion: 1
 name: "Seated Pin Press (Barbell)"
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,21 @@ muscles:
     - Triceps
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/seated-pin-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Seated Pin Press (Barbell)
-
-Seated Pin Press (Barbell) is an advanced pushing exercise for the front delts, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -24,6 +35,10 @@ Seated Pin Press (Barbell) is an advanced pushing exercise for the front delts, 
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+Seated Pin Press (Barbell) is an advanced pushing exercise for the front delts, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

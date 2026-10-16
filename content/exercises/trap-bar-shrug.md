@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: trap-bar-shrug
+schemaVersion: 1
 name: Trap Bar Shrug
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -10,11 +11,21 @@ muscles:
     - Forearms
 equipment:
   - Other
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/trap-bar-shrug.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Trap Bar Shrug
-
-A beginner minimal-equipment pull-pattern exercise for the upper back. Trap Bar Shrug strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner minimal-equipment pull-pattern exercise for the upper back. Trap Bar 
 - **Equipment:** Other
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Forearms
+
+## Overview
+
+A beginner minimal-equipment pull-pattern exercise for the upper back. Trap Bar Shrug strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

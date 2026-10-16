@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: hip-extension
+schemaVersion: 1
 name: Hip Extension
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/hip-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Hip Extension
-
-A floor or bench exercise that extends the hips to train the glutes and lower back.
 
 ## Details
 
@@ -23,6 +34,10 @@ A floor or bench exercise that extends the hips to train the glutes and lower ba
 - **Movement pattern:** hinge
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes, Lower Back
+
+## Overview
+
+A floor or bench exercise that extends the hips to train the glutes and lower back.
 
 ## Instructions
 

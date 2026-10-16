@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: swiss-ball-plank
+schemaVersion: 1
 name: Swiss Ball Plank
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/swiss-ball-plank.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Swiss Ball Plank
-
-An intermediate minimal equipment core exercise for the abs. Swiss Ball Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -22,6 +33,10 @@ An intermediate minimal equipment core exercise for the abs. Swiss Ball Plank bu
 - **Movement pattern:** core
 - **Equipment:** Other
 - **Primary muscles:** Abs
+
+## Overview
+
+An intermediate minimal equipment core exercise for the abs. Swiss Ball Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

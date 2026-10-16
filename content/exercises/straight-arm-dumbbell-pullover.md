@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: straight-arm-dumbbell-pullover
+schemaVersion: 1
 name: Straight-Arm Dumbbell Pullover
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Chest
@@ -12,11 +13,23 @@ muscles:
     - Triceps
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/straight-arm-dumbbell-pullover.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Straight-Arm Dumbbell Pullover
-
-Straight-Arm Dumbbell Pullover is an intermediate pulling exercise for the chest, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -26,6 +39,10 @@ Straight-Arm Dumbbell Pullover is an intermediate pulling exercise for the chest
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest
 - **Secondary muscles:** Lats, Front Delts, Triceps
+
+## Overview
+
+Straight-Arm Dumbbell Pullover is an intermediate pulling exercise for the chest, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

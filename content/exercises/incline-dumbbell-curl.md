@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: incline-dumbbell-curl
+schemaVersion: 1
 name: Incline Dumbbell Curl
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/incline-dumbbell-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Incline Dumbbell Curl
-
-A beginner dumbbell pull-pattern exercise for the biceps. Incline Dumbbell Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -22,6 +35,10 @@ A beginner dumbbell pull-pattern exercise for the biceps. Incline Dumbbell Curl 
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Biceps
+
+## Overview
+
+A beginner dumbbell pull-pattern exercise for the biceps. Incline Dumbbell Curl strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

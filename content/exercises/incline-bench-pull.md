@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: incline-bench-pull
+schemaVersion: 1
 name: Incline Bench Pull
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,23 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/incline-bench-pull.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Incline Bench Pull
-
-Incline Bench Pull is a beginner pushing exercise for the upper back, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +38,10 @@ Incline Bench Pull is a beginner pushing exercise for the upper back, performed 
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Lats, Front Delts
+
+## Overview
+
+Incline Bench Pull is a beginner pushing exercise for the upper back, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

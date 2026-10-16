@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: half-kneeling-shoulder-press-kettlebell
+schemaVersion: 1
 name: "Half Kneeling Shoulder Press (Kettlebell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/half-kneeling-shoulder-press-kettlebell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Half Kneeling Shoulder Press (Kettlebell)
-
-A single-arm kettlebell overhead press in a half-kneeling stance that demands core and hip stability.
 
 ## Details
 
@@ -25,6 +36,10 @@ A single-arm kettlebell overhead press in a half-kneeling stance that demands co
 - **Equipment:** Kettlebell
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A single-arm kettlebell overhead press in a half-kneeling stance that demands core and hip stability.
 
 ## Instructions
 

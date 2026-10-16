@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: side-plank
+schemaVersion: 1
 name: Side Plank
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -11,11 +12,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/side-plank.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Side Plank
-
-A beginner just your bodyweight core exercise for the abs. Side Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner just your bodyweight core exercise for the abs. Side Plank builds the
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Abs, Glutes
+
+## Overview
+
+A beginner just your bodyweight core exercise for the abs. Side Plank builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: bent-over-row-barbell-paused
+schemaVersion: 1
 name: "Bent Over Row (Barbell, Paused)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/bent-over-row-barbell-paused.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Bent Over Row (Barbell, Paused)
-
-A barbell bent-over row with a pause at the top that removes momentum and builds upper-back strength.
 
 ## Details
 
@@ -25,6 +36,10 @@ A barbell bent-over row with a pause at the top that removes momentum and builds
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A barbell bent-over row with a pause at the top that removes momentum and builds upper-back strength.
 
 ## Instructions
 

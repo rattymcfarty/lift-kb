@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kroc-row
+schemaVersion: 1
 name: Kroc Row
-difficulty: advanced
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Dumbbell
+difficulty: advanced
+movementPattern: pull
+image: assets/exercises/kroc-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Kroc Row
-
-Kroc Row is an advanced pulling exercise for the lats, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -25,6 +36,10 @@ Kroc Row is an advanced pulling exercise for the lats, performed with dumbbells.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Lats
 - **Secondary muscles:** Upper Back, Biceps
+
+## Overview
+
+Kroc Row is an advanced pulling exercise for the lats, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

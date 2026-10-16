@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: skater-hop
+schemaVersion: 1
 name: Skater Hop
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Adductors
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/skater-hop.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Skater Hop
-
-A lateral bounding jump that trains single-leg power and balance.
 
 ## Details
 
@@ -25,6 +36,10 @@ A lateral bounding jump that trains single-leg power and balance.
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Adductors
+
+## Overview
+
+A lateral bounding jump that trains single-leg power and balance.
 
 ## Instructions
 

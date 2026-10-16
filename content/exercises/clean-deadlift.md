@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: clean-deadlift
+schemaVersion: 1
 name: Clean Deadlift
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -13,11 +14,23 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/clean-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Clean Deadlift
-
-Clean Deadlift is a beginner hip-hinge exercise targeting the hamstrings, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -27,6 +40,10 @@ Clean Deadlift is a beginner hip-hinge exercise targeting the hamstrings, perfor
 - **Equipment:** Barbell
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Forearms, Glutes, Lower Back, Upper Back
+
+## Overview
+
+Clean Deadlift is a beginner hip-hinge exercise targeting the hamstrings, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

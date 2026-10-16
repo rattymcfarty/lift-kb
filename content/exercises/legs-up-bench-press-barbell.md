@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: legs-up-bench-press-barbell
+schemaVersion: 1
 name: "Legs Up Bench Press (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/legs-up-bench-press-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Legs Up Bench Press (Barbell)
-
-A flat bench press with the feet up on the bench or in the air, reducing leg drive and lower-back arch.
 
 ## Details
 
@@ -25,6 +36,10 @@ A flat bench press with the feet up on the bench or in the air, reducing leg dri
 - **Equipment:** Barbell
 - **Primary muscles:** Chest, Triceps
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+A flat bench press with the feet up on the bench or in the air, reducing leg drive and lower-back arch.
 
 ## Instructions
 

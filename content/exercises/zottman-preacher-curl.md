@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: zottman-preacher-curl
+schemaVersion: 1
 name: Zottman Preacher Curl
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Biceps
@@ -10,11 +11,23 @@ muscles:
     - Forearms
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/zottman-preacher-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Zottman Preacher Curl
-
-Zottman Preacher Curl is an intermediate pulling exercise for the biceps, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -24,6 +37,10 @@ Zottman Preacher Curl is an intermediate pulling exercise for the biceps, perfor
 - **Equipment:** Dumbbell
 - **Primary muscles:** Biceps
 - **Secondary muscles:** Forearms
+
+## Overview
+
+Zottman Preacher Curl is an intermediate pulling exercise for the biceps, performed with dumbbells. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

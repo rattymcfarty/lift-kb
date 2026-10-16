@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: vertical-jump
+schemaVersion: 1
 name: Vertical Jump
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/vertical-jump.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Vertical Jump
-
-Vertical Jump is a beginner lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -25,6 +36,10 @@ Vertical Jump is a beginner lower-body exercise that builds the quadriceps, usua
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Calves
+
+## Overview
+
+Vertical Jump is a beginner lower-body exercise that builds the quadriceps, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

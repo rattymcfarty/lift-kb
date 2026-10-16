@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: shoulder-ytwl
+schemaVersion: 1
 name: Shoulder YTWL
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -11,11 +12,21 @@ muscles:
     - Upper Back
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/shoulder-ytwl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Shoulder YTWL
-
-A beginner bodyweight pull-pattern exercise for the rear delts. Shoulder YTWL strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner bodyweight pull-pattern exercise for the rear delts. Shoulder YTWL st
 - **Equipment:** Bodyweight
 - **Primary muscles:** Rear Delts
 - **Secondary muscles:** Middle Delts, Upper Back
+
+## Overview
+
+A beginner bodyweight pull-pattern exercise for the rear delts. Shoulder YTWL strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

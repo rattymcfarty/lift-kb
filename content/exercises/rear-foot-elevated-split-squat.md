@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: rear-foot-elevated-split-squat
+schemaVersion: 1
 name: Rear Foot Elevated Split Squat
-difficulty: intermediate
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -12,11 +13,21 @@ muscles:
     - Abs
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: lunge
+image: assets/exercises/rear-foot-elevated-split-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Lunge
 ---
 
 # Rear Foot Elevated Split Squat
-
-A split squat with the back foot on a bench that trains the quads and glutes one side at a time.
 
 ## Details
 
@@ -26,6 +37,10 @@ A split squat with the back foot on a bench that trains the quads and glutes one
 - **Equipment:** Dumbbell
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings, Abs
+
+## Overview
+
+A split squat with the back foot on a bench that trains the quads and glutes one side at a time.
 
 ## Instructions
 

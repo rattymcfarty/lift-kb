@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: plank-shoulder-taps
+schemaVersion: 1
 name: Plank with Shoulder Taps
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -10,11 +11,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/plank-shoulder-taps.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Plank with Shoulder Taps
-
-An intermediate just your bodyweight core exercise for the abs. Plank with Shoulder Taps builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate just your bodyweight core exercise for the abs. Plank with Shoul
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+An intermediate just your bodyweight core exercise for the abs. Plank with Shoulder Taps builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

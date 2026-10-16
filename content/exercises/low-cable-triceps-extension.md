@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: low-cable-triceps-extension
+schemaVersion: 1
 name: Low Cable Triceps Extension
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/low-cable-triceps-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Low Cable Triceps Extension
-
-Low Cable Triceps Extension is a beginner pushing exercise for the triceps, performed with a cable machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -22,6 +35,10 @@ Low Cable Triceps Extension is a beginner pushing exercise for the triceps, perf
 - **Movement pattern:** push
 - **Equipment:** Cable
 - **Primary muscles:** Triceps
+
+## Overview
+
+Low Cable Triceps Extension is a beginner pushing exercise for the triceps, performed with a cable machine. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

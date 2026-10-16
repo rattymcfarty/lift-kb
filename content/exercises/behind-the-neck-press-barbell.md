@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: behind-the-neck-press-barbell
+schemaVersion: 1
 name: "Behind-the-Neck Press (Barbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -12,11 +13,21 @@ muscles:
     - Rear Delts
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/behind-the-neck-press-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Behind-the-Neck Press (Barbell)
-
-A barbell overhead press with the bar lowered behind the head. It targets the shoulders and triceps but demands excellent shoulder mobility.
 
 ## Details
 
@@ -26,6 +37,10 @@ A barbell overhead press with the bar lowered behind the head. It targets the sh
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts, Triceps
 - **Secondary muscles:** Middle Delts, Rear Delts
+
+## Overview
+
+A barbell overhead press with the bar lowered behind the head. It targets the shoulders and triceps but demands excellent shoulder mobility.
 
 ## Instructions
 

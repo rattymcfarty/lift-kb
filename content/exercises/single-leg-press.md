@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-leg-press
+schemaVersion: 1
 name: Single Leg Press
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Hamstrings
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/single-leg-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Squat
 ---
 
 # Single Leg Press
-
-A machine leg press done with one leg at a time to train the quads and glutes while correcting side-to-side imbalances.
 
 ## Details
 
@@ -25,6 +36,10 @@ A machine leg press done with one leg at a time to train the quads and glutes wh
 - **Equipment:** Machine
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Hamstrings
+
+## Overview
+
+A machine leg press done with one leg at a time to train the quads and glutes while correcting side-to-side imbalances.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: smith-machine-squat
+schemaVersion: 1
 name: Smith Machine Squat
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,23 @@ muscles:
     - Lower Back
 equipment:
   - Smith Machine
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/smith-machine-squat.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Smith Machine Squat
-
-A beginner Smith machine squat-pattern exercise for the quadriceps. Smith Machine Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -27,6 +40,10 @@ A beginner Smith machine squat-pattern exercise for the quadriceps. Smith Machin
 - **Equipment:** Smith Machine
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Calves, Glutes, Hamstrings, Lower Back
+
+## Overview
+
+A beginner Smith machine squat-pattern exercise for the quadriceps. Smith Machine Squat develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

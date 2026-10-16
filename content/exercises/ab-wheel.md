@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: ab-wheel
+schemaVersion: 1
 name: Ab Wheel
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/ab-wheel.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Ab Wheel
-
-A rolling anti-extension core exercise that trains your abs and trunk to resist your lower back sagging as your arms reach overhead.
 
 ## Details
 
@@ -22,6 +33,10 @@ A rolling anti-extension core exercise that trains your abs and trunk to resist 
 - **Movement pattern:** core
 - **Equipment:** Other
 - **Primary muscles:** Abs
+
+## Overview
+
+A rolling anti-extension core exercise that trains your abs and trunk to resist your lower back sagging as your arms reach overhead.
 
 ## Instructions
 

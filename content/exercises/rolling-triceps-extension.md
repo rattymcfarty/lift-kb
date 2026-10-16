@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: rolling-triceps-extension
+schemaVersion: 1
 name: Rolling Triceps Extension
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/rolling-triceps-extension.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Rolling Triceps Extension
-
-An intermediate dumbbell press-pattern exercise targeting the triceps. Rolling Triceps Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +33,10 @@ An intermediate dumbbell press-pattern exercise targeting the triceps. Rolling T
 - **Movement pattern:** push
 - **Equipment:** Dumbbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+An intermediate dumbbell press-pattern exercise targeting the triceps. Rolling Triceps Extension builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

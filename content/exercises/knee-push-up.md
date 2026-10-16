@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: knee-push-up
+schemaVersion: 1
 name: "Push-Up (Knees)"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/knee-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Push-Up (Knees)
-
-Push-Up (Knees) is a beginner pushing exercise for the chest, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +36,10 @@ Push-Up (Knees) is a beginner pushing exercise for the chest, performed with jus
 - **Equipment:** Bodyweight
 - **Primary muscles:** Chest
 - **Secondary muscles:** Triceps, Front Delts
+
+## Overview
+
+Push-Up (Knees) is a beginner pushing exercise for the chest, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

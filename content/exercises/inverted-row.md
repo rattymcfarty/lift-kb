@@ -1,7 +1,18 @@
 ---
-id: inverted-row
-name: Inverted Row
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases:
+  - bodyweight row
+  - supine row
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Horizontal Pull
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Bodyweight
+id: inverted-row
 movementPattern: pull
 muscles:
   primary:
@@ -12,8 +23,17 @@ muscles:
     - Biceps
     - Abs
     - Forearms
-equipment:
-  - Bodyweight
+name: Inverted Row
+progression:
+  loadingGuidance: "Lower the bar (steeper body angle) when you can do 3 sets of 12 with a 1-second pause at the top."
+  progressTo: Pull-up or chin-up
+  regressTo: Standing band row at chest height
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: National Strength and Conditioning Association
+    title: Essentials of Strength Training and Conditioning
+updatedAt: "2026-10-14"
 ---
 
 # Inverted Row

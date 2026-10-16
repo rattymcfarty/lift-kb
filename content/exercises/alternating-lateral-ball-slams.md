@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: alternating-lateral-ball-slams
+schemaVersion: 1
 name: Alternating Lateral Ball Slams
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
@@ -12,11 +13,21 @@ muscles:
     - Quadriceps
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/alternating-lateral-ball-slams.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Alternating Lateral Ball Slams
-
-An explosive core and shoulder exercise that slams a medicine ball diagonally down to one side then the other.
 
 ## Details
 
@@ -26,6 +37,10 @@ An explosive core and shoulder exercise that slams a medicine ball diagonally do
 - **Equipment:** Other
 - **Primary muscles:** Abs, Chest
 - **Secondary muscles:** Front Delts, Quadriceps
+
+## Overview
+
+An explosive core and shoulder exercise that slams a medicine ball diagonally down to one side then the other.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: partial-calf-raise
+schemaVersion: 1
 name: Partial Calf Raise
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Calves
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/partial-calf-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Partial Calf Raise
-
-Partial Calf Raise is a beginner core exercise targeting the calves, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -22,6 +33,10 @@ Partial Calf Raise is a beginner core exercise targeting the calves, performed w
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Calves
+
+## Overview
+
+Partial Calf Raise is a beginner core exercise targeting the calves, performed with just your bodyweight. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: suitcase-carry-march
+schemaVersion: 1
 name: Suitcase Carry March
-difficulty: intermediate
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Adductors
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: carry
+image: assets/exercises/suitcase-carry-march.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Carry
 ---
 
 # Suitcase Carry March
-
-A single-side loaded carry with a march that trains the obliques and hip stability.
 
 ## Details
 
@@ -25,6 +36,10 @@ A single-side loaded carry with a march that trains the obliques and hip stabili
 - **Equipment:** Dumbbell
 - **Primary muscles:** Glutes, Quadriceps
 - **Secondary muscles:** Adductors
+
+## Overview
+
+A single-side loaded carry with a march that trains the obliques and hip stability.
 
 ## Instructions
 

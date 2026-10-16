@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: pendlay-row
+schemaVersion: 1
 name: Pendlay Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Abs
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/pendlay-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Pendlay Row
-
-A strict barbell row where each rep starts from a dead stop on the floor.
 
 ## Details
 
@@ -25,6 +36,10 @@ A strict barbell row where each rep starts from a dead stop on the floor.
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Abs
+
+## Overview
+
+A strict barbell row where each rep starts from a dead stop on the floor.
 
 ## Instructions
 

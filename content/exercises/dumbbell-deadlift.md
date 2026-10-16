@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: dumbbell-deadlift
+schemaVersion: 1
 name: Dumbbell Deadlift
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -12,11 +13,21 @@ muscles:
     - Lower Back
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/dumbbell-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Dumbbell Deadlift
-
-A beginner dumbbell hinge-pattern exercise for the glutes. Dumbbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -26,6 +37,10 @@ A beginner dumbbell hinge-pattern exercise for the glutes. Dumbbell Deadlift bui
 - **Equipment:** Dumbbell
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings, Quadriceps, Lower Back
+
+## Overview
+
+A beginner dumbbell hinge-pattern exercise for the glutes. Dumbbell Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: kelso-shrug-chest-supported
+schemaVersion: 1
 name: "Kelso Shrug (Chest Supported)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/kelso-shrug-chest-supported.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # Kelso Shrug (Chest Supported)
-
-A chest-supported shrug that targets the mid and lower traps by squeezing the shoulder blades together.
 
 ## Details
 
@@ -22,6 +33,10 @@ A chest-supported shrug that targets the mid and lower traps by squeezing the sh
 - **Movement pattern:** pull
 - **Equipment:** Dumbbell
 - **Primary muscles:** Upper Back
+
+## Overview
+
+A chest-supported shrug that targets the mid and lower traps by squeezing the shoulder blades together.
 
 ## Instructions
 

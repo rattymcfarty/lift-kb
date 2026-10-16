@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-arm-farmer-carry
+schemaVersion: 1
 name: Single Arm Farmer Carry
-difficulty: intermediate
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Abs
@@ -12,11 +13,21 @@ muscles:
     - Hamstrings
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: carry
+image: assets/exercises/single-arm-farmer-carry.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Carry
 ---
 
 # Single Arm Farmer Carry
-
-A single-arm loaded carry that trains grip and the core's anti-lean strength.
 
 ## Details
 
@@ -26,6 +37,10 @@ A single-arm loaded carry that trains grip and the core's anti-lean strength.
 - **Equipment:** Dumbbell
 - **Primary muscles:** Abs, Upper Back
 - **Secondary muscles:** Forearms, Hamstrings
+
+## Overview
+
+A single-arm loaded carry that trains grip and the core's anti-lean strength.
 
 ## Instructions
 

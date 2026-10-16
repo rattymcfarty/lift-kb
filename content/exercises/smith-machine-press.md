@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: smith-machine-press
+schemaVersion: 1
 name: "Press (Smith Machine)"
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,21 @@ muscles:
     - Triceps
 equipment:
   - Smith Machine
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/smith-machine-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Press (Smith Machine)
-
-A beginner Smith machine press-pattern exercise targeting the front delts. Press (Smith Machine) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -24,6 +35,10 @@ A beginner Smith machine press-pattern exercise targeting the front delts. Press
 - **Equipment:** Smith Machine
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A beginner Smith machine press-pattern exercise targeting the front delts. Press (Smith Machine) builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

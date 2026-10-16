@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: plate-hop
+schemaVersion: 1
 name: Plate Hop
-difficulty: beginner
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Calves
@@ -10,11 +11,21 @@ muscles:
     - Quadriceps
 equipment:
   - Other
+difficulty: beginner
+movementPattern: core
+image: assets/exercises/plate-hop.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # Plate Hop
-
-Plate Hop is a beginner core exercise targeting the calves, performed with minimal equipment. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ Plate Hop is a beginner core exercise targeting the calves, performed with minim
 - **Equipment:** Other
 - **Primary muscles:** Calves
 - **Secondary muscles:** Quadriceps
+
+## Overview
+
+Plate Hop is a beginner core exercise targeting the calves, performed with minimal equipment. A strong trunk stabilizes every lift and protects the spine in daily life.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: car-deadlift
+schemaVersion: 1
 name: Car Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -13,11 +14,23 @@ muscles:
     - Lower Back
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/car-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Car Deadlift
-
-Car Deadlift is an intermediate hip-hinge exercise targeting the quadriceps, performed with minimal equipment. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -27,6 +40,10 @@ Car Deadlift is an intermediate hip-hinge exercise targeting the quadriceps, per
 - **Equipment:** Other
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Forearms, Glutes, Hamstrings, Lower Back
+
+## Overview
+
+Car Deadlift is an intermediate hip-hinge exercise targeting the quadriceps, performed with minimal equipment. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

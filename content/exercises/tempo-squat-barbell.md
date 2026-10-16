@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: tempo-squat-barbell
+schemaVersion: 1
 name: "Tempo Squat (Barbell)"
-difficulty: intermediate
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: squat
+image: assets/exercises/tempo-squat-barbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Squat
 ---
 
 # Tempo Squat (Barbell)
-
-An intermediate barbell squat-pattern exercise for the quadriceps. Tempo Squat (Barbell) develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Details
 
@@ -24,6 +35,10 @@ An intermediate barbell squat-pattern exercise for the quadriceps. Tempo Squat (
 - **Equipment:** Barbell
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes
+
+## Overview
+
+An intermediate barbell squat-pattern exercise for the quadriceps. Tempo Squat (Barbell) develops leg strength through a full range of motion, which carries straight into daily life.
 
 ## Instructions
 

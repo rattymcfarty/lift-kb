@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: behind-the-neck-push-press
+schemaVersion: 1
 name: Behind-the-Neck Push Press
-difficulty: advanced
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: push
+image: assets/exercises/behind-the-neck-push-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # Behind-the-Neck Push Press
-
-An explosive overhead press from behind the neck that uses a small leg drive to move the bar overhead.
 
 ## Details
 
@@ -23,6 +34,10 @@ An explosive overhead press from behind the neck that uses a small leg drive to 
 - **Movement pattern:** push
 - **Equipment:** Barbell
 - **Primary muscles:** Front Delts, Triceps
+
+## Overview
+
+An explosive overhead press from behind the neck that uses a small leg drive to move the bar overhead.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: flexion-row
+schemaVersion: 1
 name: Flexion Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/flexion-row.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Flexion Row
-
-A cable row performed with a slightly rounded upper back to train the mid-back through spinal flexion.
 
 ## Details
 
@@ -25,6 +36,10 @@ A cable row performed with a slightly rounded upper back to train the mid-back t
 - **Equipment:** Cable
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A cable row performed with a slightly rounded upper back to train the mid-back through spinal flexion.
 
 ## Instructions
 

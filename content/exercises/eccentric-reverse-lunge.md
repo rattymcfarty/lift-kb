@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: eccentric-reverse-lunge
+schemaVersion: 1
 name: Eccentric Reverse Lunge
-difficulty: beginner
-movementPattern: lunge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: lunge
+image: assets/exercises/eccentric-reverse-lunge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Lunge
 ---
 
 # Eccentric Reverse Lunge
-
-A beginner bodyweight lunge-pattern exercise targeting the quadriceps. Eccentric Reverse Lunge develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner bodyweight lunge-pattern exercise targeting the quadriceps. Eccentric
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+A beginner bodyweight lunge-pattern exercise targeting the quadriceps. Eccentric Reverse Lunge develops single-leg strength and stability that transfers to walking, stairs, and sport.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: i-y-t-iyt-raise
+schemaVersion: 1
 name: "I, Y, T (IYT) Raise"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Rear Delts
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/i-y-t-iyt-raise.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # I, Y, T (IYT) Raise
-
-A prone sequence of arm raises that strengthens the lower traps, rear delts and shoulder stabilisers.
 
 ## Details
 
@@ -25,6 +36,10 @@ A prone sequence of arm raises that strengthens the lower traps, rear delts and 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Rear Delts
+
+## Overview
+
+A prone sequence of arm raises that strengthens the lower traps, rear delts and shoulder stabilisers.
 
 ## Instructions
 

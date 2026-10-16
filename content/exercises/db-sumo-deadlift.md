@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: db-sumo-deadlift
+schemaVersion: 1
 name: "Sumo Deadlift (Dumbbell)"
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Adductors
 equipment:
   - Dumbbell
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/db-sumo-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Sumo Deadlift (Dumbbell)
-
-A beginner dumbbell hinge-pattern exercise for the glutes. Sumo Deadlift (Dumbbell) builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner dumbbell hinge-pattern exercise for the glutes. Sumo Deadlift (Dumbbe
 - **Equipment:** Dumbbell
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Quadriceps, Adductors
+
+## Overview
+
+A beginner dumbbell hinge-pattern exercise for the glutes. Sumo Deadlift (Dumbbell) builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: farmers-walk-weighted
+schemaVersion: 1
 name: "Farmer's Walk (Weighted)"
-difficulty: intermediate
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Forearms
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: carry
+image: assets/exercises/farmers-walk-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Carry
 ---
 
 # Farmer's Walk (Weighted)
-
-A loaded carry holding heavy dumbbells at your sides that builds grip, upper back, core and overall stability.
 
 ## Details
 
@@ -23,6 +34,10 @@ A loaded carry holding heavy dumbbells at your sides that builds grip, upper bac
 - **Movement pattern:** carry
 - **Equipment:** Dumbbell
 - **Primary muscles:** Forearms, Upper Back
+
+## Overview
+
+A loaded carry holding heavy dumbbells at your sides that builds grip, upper back, core and overall stability.
 
 ## Instructions
 

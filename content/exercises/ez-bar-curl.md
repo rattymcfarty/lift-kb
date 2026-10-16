@@ -1,19 +1,33 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: ez-bar-curl
+schemaVersion: 1
 name: EZ-Bar Curl
-difficulty: beginner
-movementPattern: pull
+aliases:
+  - "21s"
 muscles:
   primary:
     - Biceps
   secondary: []
 equipment:
   - Barbell
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/ez-bar-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # EZ-Bar Curl
-
-EZ-Bar Curl is a beginner pulling exercise for the biceps, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -23,6 +37,10 @@ EZ-Bar Curl is a beginner pulling exercise for the biceps, performed with a barb
 - **Equipment:** Barbell
 - **Primary muscles:** Biceps
 - **Aliases:** 21s
+
+## Overview
+
+EZ-Bar Curl is a beginner pulling exercise for the biceps, performed with a barbell. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

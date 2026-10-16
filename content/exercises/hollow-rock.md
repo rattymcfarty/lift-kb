@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: hollow-rock
+schemaVersion: 1
 name: Hollow Rock
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/hollow-rock.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Core
 ---
 
 # Hollow Rock
-
-An intermediate just your bodyweight core exercise for the abs. Hollow Rock builds the trunk stability that underpins safe movement as you age.
 
 ## Details
 
@@ -22,6 +33,10 @@ An intermediate just your bodyweight core exercise for the abs. Hollow Rock buil
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+An intermediate just your bodyweight core exercise for the abs. Hollow Rock builds the trunk stability that underpins safe movement as you age.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: kas-glute-bridge
+schemaVersion: 1
 name: KAS Glute Bridge
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Lower Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/kas-glute-bridge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
 ---
 
 # KAS Glute Bridge
-
-A barbell glute bridge in the KAS (Kinetic Alignment Standard) style that keeps constant tension on the glutes with a partial range.
 
 ## Details
 
@@ -25,6 +36,10 @@ A barbell glute bridge in the KAS (Kinetic Alignment Standard) style that keeps 
 - **Equipment:** Barbell
 - **Primary muscles:** Glutes, Hamstrings
 - **Secondary muscles:** Lower Back
+
+## Overview
+
+A barbell glute bridge in the KAS (Kinetic Alignment Standard) style that keeps constant tension on the glutes with a partial range.
 
 ## Instructions
 

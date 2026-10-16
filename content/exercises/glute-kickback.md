@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: glute-kickback
+schemaVersion: 1
 name: Glute Kickback
-difficulty: beginner
-movementPattern: squat
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -10,11 +11,23 @@ muscles:
     - Hamstrings
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: squat
+image: assets/exercises/glute-kickback.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Glute Kickback
-
-Glute Kickback is a beginner lower-body exercise that builds the glutes, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Details
 
@@ -24,6 +37,10 @@ Glute Kickback is a beginner lower-body exercise that builds the glutes, usually
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings
+
+## Overview
+
+Glute Kickback is a beginner lower-body exercise that builds the glutes, usually performed with just your bodyweight. It trains the deep knee-and-hip bend you use every time you sit, stand, or climb stairs.
 
 ## Instructions
 

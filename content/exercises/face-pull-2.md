@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: face-pull-2
+schemaVersion: 1
 name: Face Pull
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Rear Delts
@@ -10,13 +11,26 @@ muscles:
     - Upper Back
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/face-pull-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
+replacedBy: face-pull
 ---
 
 # Face Pull
 
 > **Deprecated**, use [Face Pull](face-pull.md).
-
-An intermediate cable pull-pattern exercise for the rear delts. Face Pull strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -26,6 +40,10 @@ An intermediate cable pull-pattern exercise for the rear delts. Face Pull streng
 - **Equipment:** Cable
 - **Primary muscles:** Rear Delts
 - **Secondary muscles:** Upper Back
+
+## Overview
+
+An intermediate cable pull-pattern exercise for the rear delts. Face Pull strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

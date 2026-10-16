@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: speed-deadlift
+schemaVersion: 1
 name: Speed Deadlift
-difficulty: advanced
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Lower Back
 equipment:
   - Barbell
+difficulty: advanced
+movementPattern: hinge
+image: assets/exercises/speed-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Speed Deadlift
-
-Speed Deadlift is an advanced hip-hinge exercise targeting the glutes, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -25,6 +36,10 @@ Speed Deadlift is an advanced hip-hinge exercise targeting the glutes, performed
 - **Equipment:** Barbell
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings, Lower Back
+
+## Overview
+
+Speed Deadlift is an advanced hip-hinge exercise targeting the glutes, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

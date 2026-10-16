@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: nordic-hamstring-curl
+schemaVersion: 1
 name: Nordic Hamstring Curl
-difficulty: advanced
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Hamstrings
@@ -10,11 +11,21 @@ muscles:
     - Glutes
 equipment:
   - Bodyweight
+difficulty: advanced
+movementPattern: hinge
+image: assets/exercises/nordic-hamstring-curl.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Nordic Hamstring Curl
-
-An advanced bodyweight hinge-pattern exercise for the hamstrings. Nordic Hamstring Curl builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -24,6 +35,10 @@ An advanced bodyweight hinge-pattern exercise for the hamstrings. Nordic Hamstri
 - **Equipment:** Bodyweight
 - **Primary muscles:** Hamstrings
 - **Secondary muscles:** Glutes
+
+## Overview
+
+An advanced bodyweight hinge-pattern exercise for the hamstrings. Nordic Hamstring Curl builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

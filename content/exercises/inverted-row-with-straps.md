@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: inverted-row-with-straps
+schemaVersion: 1
 name: Inverted Row with Straps
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,23 @@ muscles:
     - Lats
 equipment:
   - Other
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/inverted-row-with-straps.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Inverted Row with Straps
-
-A beginner minimal-equipment pull-pattern exercise for the upper back. Inverted Row with Straps strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +38,10 @@ A beginner minimal-equipment pull-pattern exercise for the upper back. Inverted 
 - **Equipment:** Other
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Biceps, Lats
+
+## Overview
+
+A beginner minimal-equipment pull-pattern exercise for the upper back. Inverted Row with Straps strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

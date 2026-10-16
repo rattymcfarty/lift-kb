@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: decline-sit-up-weighted
+schemaVersion: 1
 name: "Decline Sit Up (Weighted)"
-difficulty: intermediate
-movementPattern: core
+aliases: []
 muscles:
   primary:
     - Abs
   secondary: []
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: core
+image: assets/exercises/decline-sit-up-weighted.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Core
 ---
 
 # Decline Sit Up (Weighted)
-
-A decline sit-up with added load for more abdominal and hip-flexor strength.
 
 ## Details
 
@@ -22,6 +33,10 @@ A decline sit-up with added load for more abdominal and hip-flexor strength.
 - **Movement pattern:** core
 - **Equipment:** Bodyweight
 - **Primary muscles:** Abs
+
+## Overview
+
+A decline sit-up with added load for more abdominal and hip-flexor strength.
 
 ## Instructions
 

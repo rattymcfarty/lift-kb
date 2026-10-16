@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: pike-push-up
+schemaVersion: 1
 name: Pike Push-Up
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Chest
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/pike-push-up.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Vertical Push
 ---
 
 # Pike Push-Up
-
-Pike Push-Up is an intermediate pushing exercise for the front delts, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -25,6 +36,10 @@ Pike Push-Up is an intermediate pushing exercise for the front delts, performed 
 - **Equipment:** Bodyweight
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Triceps, Chest
+
+## Overview
+
+Pike Push-Up is an intermediate pushing exercise for the front delts, performed with just your bodyweight. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

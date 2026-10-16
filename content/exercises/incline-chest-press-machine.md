@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: incline-chest-press-machine
+schemaVersion: 1
 name: "Incline Chest Press (Machine)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Machine
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/incline-chest-press-machine.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Incline Chest Press (Machine)
-
-A machine press at an incline that targets the upper chest, shoulders and triceps.
 
 ## Details
 
@@ -25,6 +36,10 @@ A machine press at an incline that targets the upper chest, shoulders and tricep
 - **Equipment:** Machine
 - **Primary muscles:** Chest, Front Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A machine press at an incline that targets the upper chest, shoulders and triceps.
 
 ## Instructions
 

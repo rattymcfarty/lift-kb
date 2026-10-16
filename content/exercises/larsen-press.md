@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: larsen-press
+schemaVersion: 1
 name: Larsen Press
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -12,11 +13,21 @@ muscles:
 equipment:
   - Barbell
   - Smith Machine
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/larsen-press.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Push
 ---
 
 # Larsen Press
-
-Larsen Press is an intermediate pushing exercise for the chest, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Details
 
@@ -26,6 +37,10 @@ Larsen Press is an intermediate pushing exercise for the chest, performed with a
 - **Equipment:** Barbell, Smith Machine
 - **Primary muscles:** Chest
 - **Secondary muscles:** Triceps, Front Delts
+
+## Overview
+
+Larsen Press is an intermediate pushing exercise for the chest, performed with a barbell. Pressing strength keeps daily pushing tasks — and your shoulders — working well for decades.
 
 ## Instructions
 

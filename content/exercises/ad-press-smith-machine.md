@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: ad-press-smith-machine
+schemaVersion: 1
 name: "AD Press (Smith Machine)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -11,11 +12,21 @@ muscles:
     - Triceps
 equipment:
   - Smith Machine
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/ad-press-smith-machine.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Vertical Push
 ---
 
 # AD Press (Smith Machine)
-
-A seated or standing Smith-machine press with the bar in front of the face that emphasises the front and side deltoids on a guided path.
 
 ## Details
 
@@ -25,6 +36,10 @@ A seated or standing Smith-machine press with the bar in front of the face that 
 - **Equipment:** Smith Machine
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Triceps
+
+## Overview
+
+A seated or standing Smith-machine press with the bar in front of the face that emphasises the front and side deltoids on a guided path.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: kettlebell-halo
+schemaVersion: 1
 name: Kettlebell Halo
-difficulty: beginner
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -12,11 +13,23 @@ muscles:
     - Triceps
 equipment:
   - Kettlebell
+difficulty: beginner
+movementPattern: push
+image: assets/exercises/kettlebell-halo.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Kettlebell Halo
-
-A beginner kettlebell press-pattern exercise targeting the front delts. Kettlebell Halo builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -26,6 +39,10 @@ A beginner kettlebell press-pattern exercise targeting the front delts. Kettlebe
 - **Equipment:** Kettlebell
 - **Primary muscles:** Front Delts
 - **Secondary muscles:** Upper Back, Abs, Triceps
+
+## Overview
+
+A beginner kettlebell press-pattern exercise targeting the front delts. Kettlebell Halo builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: glute-bridge-walkout
+schemaVersion: 1
 name: Glute Bridge Walkout
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/glute-bridge-walkout.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Glute Bridge Walkout
-
-An intermediate bodyweight hinge-pattern exercise for the glutes. Glute Bridge Walkout builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate bodyweight hinge-pattern exercise for the glutes. Glute Bridge W
 - **Equipment:** Bodyweight
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Hamstrings, Calves
+
+## Overview
+
+An intermediate bodyweight hinge-pattern exercise for the glutes. Glute Bridge Walkout builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: thoracic-extension-stretch
+schemaVersion: 1
 name: Thoracic Extension Stretch
-difficulty: beginner
-movementPattern: mobility
+aliases: []
 muscles:
   primary:
     - Upper Back
   secondary: []
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: mobility
+image: assets/exercises/thoracic-extension-stretch.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Mobility
 ---
 
 # Thoracic Extension Stretch
-
-A beginner just your bodyweight mobility drill targeting the upper back. Thoracic Extension Stretch restores range of motion that desk life and hard training both tend to steal.
 
 ## Details
 
@@ -22,6 +33,10 @@ A beginner just your bodyweight mobility drill targeting the upper back. Thoraci
 - **Movement pattern:** mobility
 - **Equipment:** Bodyweight
 - **Primary muscles:** Upper Back
+
+## Overview
+
+A beginner just your bodyweight mobility drill targeting the upper back. Thoracic Extension Stretch restores range of motion that desk life and hard training both tend to steal.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: one-arm-overhead-carry-with-march
+schemaVersion: 1
 name: One Arm Overhead Carry with March
-difficulty: intermediate
-movementPattern: carry
+aliases: []
 muscles:
   primary:
     - Front Delts
@@ -13,11 +14,21 @@ muscles:
     - Adductors
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: carry
+image: assets/exercises/one-arm-overhead-carry-with-march.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Carry
 ---
 
 # One Arm Overhead Carry with March
-
-A single-arm overhead carry with a marching step that trains shoulder stability and core control.
 
 ## Details
 
@@ -27,6 +38,10 @@ A single-arm overhead carry with a marching step that trains shoulder stability 
 - **Equipment:** Dumbbell
 - **Primary muscles:** Front Delts, Middle Delts
 - **Secondary muscles:** Glutes, Quadriceps, Adductors
+
+## Overview
+
+A single-arm overhead carry with a marching step that trains shoulder stability and core control.
 
 ## Instructions
 

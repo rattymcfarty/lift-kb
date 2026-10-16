@@ -1,19 +1,30 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: power-shrug
+schemaVersion: 1
 name: Power Shrug
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
   secondary: []
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/power-shrug.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Olympic
 ---
 
 # Power Shrug
-
-An explosive shrug from the hang position that trains the traps and the power pull.
 
 ## Details
 
@@ -22,6 +33,10 @@ An explosive shrug from the hang position that trains the traps and the power pu
 - **Movement pattern:** pull
 - **Equipment:** Barbell
 - **Primary muscles:** Upper Back
+
+## Overview
+
+An explosive shrug from the hang position that trains the traps and the power pull.
 
 ## Instructions
 

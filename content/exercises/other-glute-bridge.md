@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: other-glute-bridge
+schemaVersion: 1
 name: Other Glute Bridge
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Glutes
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/other-glute-bridge.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Other Glute Bridge
-
-An intermediate minimal-equipment hinge-pattern exercise for the glutes. Other Glute Bridge builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +38,10 @@ An intermediate minimal-equipment hinge-pattern exercise for the glutes. Other G
 - **Equipment:** Other
 - **Primary muscles:** Glutes
 - **Secondary muscles:** Calves, Hamstrings
+
+## Overview
+
+An intermediate minimal-equipment hinge-pattern exercise for the glutes. Other Glute Bridge builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

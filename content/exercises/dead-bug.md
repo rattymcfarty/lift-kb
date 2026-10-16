@@ -1,14 +1,32 @@
 ---
-id: dead-bug
-name: Dead Bug
+fields: ["aliases","attribution","category","commonMistakes","cues","demoMedia","deprecated","difficulty","equipment","id","instructions","longevityNotes","movementPattern","muscles","name","progression","replacedBy","safetyNotes","schemaVersion","sources","updatedAt"]
+aliases: []
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+category: Core
+demoMedia:
+  images: []
+  video: null
+deprecated: false
 difficulty: beginner
+equipment:
+  - Bodyweight
+id: dead-bug
 movementPattern: core
 muscles:
   primary:
     - Abs
   secondary: []
-equipment:
-  - Bodyweight
+name: Dead Bug
+progression:
+  loadingGuidance: "When you can do 3 sets of 10 per side with zero back arch, slow the tempo to 4 seconds per rep or add a light band."
+  progressTo: Hollow-body hold
+  regressTo: "Supine 90-90 breathing with a light brace (no limb movement)"
+replacedBy: null
+schemaVersion: 1
+sources:
+  - publisher: National Strength and Conditioning Association
+    title: Essentials of Strength Training and Conditioning
+updatedAt: "2026-10-11"
 ---
 
 # Dead Bug

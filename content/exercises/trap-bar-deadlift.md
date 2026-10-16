@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: trap-bar-deadlift
+schemaVersion: 1
 name: Trap Bar Deadlift
-difficulty: beginner
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,23 @@ muscles:
     - Hamstrings
 equipment:
   - Other
+difficulty: beginner
+movementPattern: hinge
+image: assets/exercises/trap-bar-deadlift.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Hinge
 ---
 
 # Trap Bar Deadlift
-
-A beginner minimal-equipment hinge-pattern exercise for the quadriceps. Trap Bar Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Details
 
@@ -25,6 +38,10 @@ A beginner minimal-equipment hinge-pattern exercise for the quadriceps. Trap Bar
 - **Equipment:** Other
 - **Primary muscles:** Quadriceps
 - **Secondary muscles:** Glutes, Hamstrings
+
+## Overview
+
+A beginner minimal-equipment hinge-pattern exercise for the quadriceps. Trap Bar Deadlift builds posterior-chain strength that protects your back in everyday lifting.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: a-skip
+schemaVersion: 1
 name: A-Skip
-difficulty: beginner
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Calves
 equipment:
   - Bodyweight
+difficulty: beginner
+movementPattern: cardio
+image: assets/exercises/a-skip.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Cardio
 ---
 
 # A-Skip
-
-A beginner just your bodyweight conditioning drill for the quadriceps and glutes. A-Skip improves cardiovascular fitness and athletic coordination.
 
 ## Details
 
@@ -25,6 +36,10 @@ A beginner just your bodyweight conditioning drill for the quadriceps and glutes
 - **Equipment:** Bodyweight
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Calves
+
+## Overview
+
+A beginner just your bodyweight conditioning drill for the quadriceps and glutes. A-Skip improves cardiovascular fitness and athletic coordination.
 
 ## Instructions
 

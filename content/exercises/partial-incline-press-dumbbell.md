@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: partial-incline-press-dumbbell
+schemaVersion: 1
 name: "Partial Incline Press (Dumbbell)"
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -11,11 +12,21 @@ muscles:
     - Front Delts
 equipment:
   - Dumbbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/partial-incline-press-dumbbell.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Partial Incline Press (Dumbbell)
-
-A shortened-range incline dumbbell press that focuses on the upper chest without going deep at the shoulders.
 
 ## Details
 
@@ -25,6 +36,10 @@ A shortened-range incline dumbbell press that focuses on the upper chest without
 - **Equipment:** Dumbbell
 - **Primary muscles:** Chest, Triceps
 - **Secondary muscles:** Front Delts
+
+## Overview
+
+A shortened-range incline dumbbell press that focuses on the upper chest without going deep at the shoulders.
 
 ## Instructions
 

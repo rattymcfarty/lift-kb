@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-leg-plate-hop
+schemaVersion: 1
 name: Single Leg Plate Hop
-difficulty: intermediate
-movementPattern: cardio
+aliases: []
 muscles:
   primary:
     - Quadriceps
@@ -11,11 +12,21 @@ muscles:
     - Adductors
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: cardio
+image: assets/exercises/single-leg-plate-hop.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Cardio
 ---
 
 # Single Leg Plate Hop
-
-A single-leg hop over or onto a plate that builds ankle stiffness and single-leg power.
 
 ## Details
 
@@ -25,6 +36,10 @@ A single-leg hop over or onto a plate that builds ankle stiffness and single-leg
 - **Equipment:** Other
 - **Primary muscles:** Quadriceps, Glutes
 - **Secondary muscles:** Adductors
+
+## Overview
+
+A single-leg hop over or onto a plate that builds ankle stiffness and single-leg power.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: seated-cable-rows-3
+schemaVersion: 1
 name: Seated Cable Rows
-difficulty: beginner
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -12,13 +13,26 @@ muscles:
     - Front Delts
 equipment:
   - Cable
+difficulty: beginner
+movementPattern: pull
+image: assets/exercises/seated-cable-rows-3.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Other
+replacedBy: seated-cable-rows
 ---
 
 # Seated Cable Rows
 
 > **Deprecated**, use [Seated Cable Rows](seated-cable-rows.md).
-
-Seated Cable Rows is a beginner pulling exercise for the upper back, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Details
 
@@ -28,6 +42,10 @@ Seated Cable Rows is a beginner pulling exercise for the upper back, performed w
 - **Equipment:** Cable
 - **Primary muscles:** Upper Back
 - **Secondary muscles:** Biceps, Lats, Front Delts
+
+## Overview
+
+Seated Cable Rows is a beginner pulling exercise for the upper back, performed with a cable machine. Pulling balances all the pressing we do in life and keeps the upper back and posture strong.
 
 ## Instructions
 

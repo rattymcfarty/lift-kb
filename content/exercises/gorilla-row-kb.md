@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: gorilla-row-kb
+schemaVersion: 1
 name: Kettlebell Gorilla Row
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Lats
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Kettlebell
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/gorilla-row-kb.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Horizontal Pull
 ---
 
 # Kettlebell Gorilla Row
-
-An intermediate kettlebell pull-pattern exercise for the lats. Kettlebell Gorilla Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Details
 
@@ -25,6 +36,10 @@ An intermediate kettlebell pull-pattern exercise for the lats. Kettlebell Gorill
 - **Equipment:** Kettlebell
 - **Primary muscles:** Lats
 - **Secondary muscles:** Upper Back, Biceps
+
+## Overview
+
+An intermediate kettlebell pull-pattern exercise for the lats. Kettlebell Gorilla Row strengthens the back of the upper body, which pays off in posture and shoulder health.
 
 ## Instructions
 

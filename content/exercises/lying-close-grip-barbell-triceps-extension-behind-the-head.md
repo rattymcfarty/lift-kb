@@ -1,19 +1,32 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
 id: lying-close-grip-barbell-triceps-extension-behind-the-head
+schemaVersion: 1
 name: Lying Close-Grip Barbell Triceps Extension Behind The Head
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Triceps
   secondary: []
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-close-grip-barbell-triceps-extension-behind-the-head.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-12"
+category: Other
 ---
 
 # Lying Close-Grip Barbell Triceps Extension Behind The Head
-
-An intermediate barbell press-pattern exercise targeting the triceps. Lying Close-Grip Barbell Triceps Extension Behind The Head builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Details
 
@@ -22,6 +35,10 @@ An intermediate barbell press-pattern exercise targeting the triceps. Lying Clos
 - **Movement pattern:** push
 - **Equipment:** Barbell
 - **Primary muscles:** Triceps
+
+## Overview
+
+An intermediate barbell press-pattern exercise targeting the triceps. Lying Close-Grip Barbell Triceps Extension Behind The Head builds the upper-body pushing strength used in everything from getting off the floor to overhead reaching.
 
 ## Instructions
 

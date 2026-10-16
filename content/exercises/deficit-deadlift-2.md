@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","replacedBy"]
 id: deficit-deadlift-2
+schemaVersion: 1
 name: Deficit Deadlift
-difficulty: intermediate
-movementPattern: hinge
+aliases: []
 muscles:
   primary:
     - Lower Back
@@ -13,13 +14,26 @@ muscles:
     - Upper Back
 equipment:
   - Barbell
+difficulty: intermediate
+movementPattern: hinge
+image: assets/exercises/deficit-deadlift-2.png
+demoMedia:
+  images: []
+  video: null
+deprecated: true
+sources:
+  - title: "Free Exercise DB (public domain)"
+    publisher: yuhonas
+    url: "https://github.com/yuhonas/free-exercise-db"
+attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Hinge
+replacedBy: deficit-deadlift
 ---
 
 # Deficit Deadlift
 
 > **Deprecated**, use [Deficit Deadlift](deficit-deadlift.md).
-
-Deficit Deadlift is an intermediate hip-hinge exercise targeting the lower back, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Details
 
@@ -29,6 +43,10 @@ Deficit Deadlift is an intermediate hip-hinge exercise targeting the lower back,
 - **Equipment:** Barbell
 - **Primary muscles:** Lower Back
 - **Secondary muscles:** Forearms, Glutes, Hamstrings, Upper Back
+
+## Overview
+
+Deficit Deadlift is an intermediate hip-hinge exercise targeting the lower back, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
 
 ## Instructions
 

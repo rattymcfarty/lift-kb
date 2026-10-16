@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: single-arm-high-row-cable
+schemaVersion: 1
 name: "Single Arm High Row (Cable)"
-difficulty: intermediate
-movementPattern: pull
+aliases: []
 muscles:
   primary:
     - Upper Back
@@ -11,11 +12,21 @@ muscles:
     - Biceps
 equipment:
   - Cable
+difficulty: intermediate
+movementPattern: pull
+image: assets/exercises/single-arm-high-row-cable.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Pull
 ---
 
 # Single Arm High Row (Cable)
-
-A single-arm cable row from a high pulley.
 
 ## Details
 
@@ -25,6 +36,10 @@ A single-arm cable row from a high pulley.
 - **Equipment:** Cable
 - **Primary muscles:** Upper Back, Lats
 - **Secondary muscles:** Biceps
+
+## Overview
+
+A single-arm cable row from a high pulley.
 
 ## Instructions
 

@@ -1,8 +1,9 @@
 ---
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes"]
 id: lying-chest-pass-med-ball-throw
+schemaVersion: 1
 name: Lying Chest Pass Med Ball Throw
-difficulty: intermediate
-movementPattern: push
+aliases: []
 muscles:
   primary:
     - Chest
@@ -10,11 +11,21 @@ muscles:
   secondary: []
 equipment:
   - Other
+difficulty: intermediate
+movementPattern: push
+image: assets/exercises/lying-chest-pass-med-ball-throw.png
+demoMedia:
+  images: []
+  video: null
+deprecated: false
+sources:
+  - title: Original to the LIFT knowledge base
+attribution: "Original prose written for the LIFT knowledge base (CC BY 4.0)."
+updatedAt: "2026-10-14"
+category: Horizontal Push
 ---
 
 # Lying Chest Pass Med Ball Throw
-
-A lying explosive chest pass that trains upper-body power with a medicine ball.
 
 ## Details
 
@@ -23,6 +34,10 @@ A lying explosive chest pass that trains upper-body power with a medicine ball.
 - **Movement pattern:** push
 - **Equipment:** Other
 - **Primary muscles:** Chest, Triceps
+
+## Overview
+
+A lying explosive chest pass that trains upper-body power with a medicine ball.
 
 ## Instructions
 
