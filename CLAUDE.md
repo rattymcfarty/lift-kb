@@ -5,15 +5,17 @@ Content repository for **LIFT** (the app lives in `rattymcfarty/lift-app`).
 project-wide rules, state and recovery runbook. This file is the KB-specific part.
 
 ## What is here
-- `exercises/<id>.json` — one exercise per file (`id` == filename). Schema:
-  `schemas/exercise.schema.json` (draft-07, `additionalProperties: false`).
-- `programs/*.json` — multi-week programs (`schemas/program.schema.json`).
-- `content/` — **generated** Markdown pages for browsing (one per exercise and program,
-  plus an index). Built from the JSON by `node scripts/build-markdown.mjs`; never edit by
-  hand. JSON stays the source of truth.
+- `content/exercises/<id>.md` — one exercise per page (`id` == filename), the **only source of
+  truth**. YAML frontmatter carries the structured fields (`fields:` lists their original key
+  order, which the bundle hash depends on); `## Heading` sections carry the prose lists
+  (instructions, cues, mistakes, safety, longevity); everything else on the page is
+  human-only and ignored by the parser. Schema: `schemas/exercise.schema.json`.
+- `content/programs/<id>.md` — multi-week programs (`schemas/program.schema.json`).
+- `content/README.md` — browsable index (keep it in step when adding pages).
+- `scripts/lib/md-content.mjs` — the Markdown parser; `scripts/validate-content.mjs` — schema check.
 - `kb-version.json` — current bundle version; `channel.json` — release channel
   (`latest`, `sha256`, …) which **must match a fresh build** (CI fails otherwise).
-- `scripts/build-bundle.mjs` — validates ids/filenames and emits
+- `scripts/build-bundle.mjs` — validates ids/filenames and reads `content/*.md` and emits
   `dist/kb-bundle-<version>.json` (+ `.sha256`); `--write-channel` updates `channel.json`.
 - `.github/workflows/validate.yml` — CI (maintained by hand; paste via the web UI,
   automation cannot write workflow files).
@@ -30,14 +32,12 @@ project-wide rules, state and recovery runbook. This file is the KB-specific par
 4. No expert/trainer names; cite publications. Prose is CC BY 4.0, original.
 5. After any content change: bump `kb-version.json`, run
    `node scripts/build-bundle.mjs --write-channel`, validate
-   (`npx -y ajv-cli validate -s schemas/exercise.schema.json -d 'exercises/*.json'`),
+   (`node scripts/validate-content.mjs`),
    commit, push — then refresh the app snapshot:
    `node ~/lift/lift-app/scripts/sync-kb-snapshot.mjs ~/lift/lift-kb` in `lift-app`
    and run `npm run verify` there.
-6. After any JSON change run `node scripts/build-markdown.mjs` and commit `content/` too
-   (`--check` exits 1 if it is stale).
-7. Preserve each file's existing JSON formatting (indented vs compact) — rewriting
-   untouched files creates giant noisy diffs.
+6. Edit the Markdown pages directly; run `node scripts/validate-content.mjs` before committing.
+   Keep each page's `fields:` list in step with its frontmatter keys.
 
 ## Current state (2026-10-14)
 Bundle 0.5.1 · 627 files · 577 live · 1 program. See app HANDOFF §1 for quality caveats.
