@@ -1,0 +1,57 @@
+---
+id: clean-pull
+name: Clean Pull
+difficulty: intermediate
+movementPattern: hinge
+muscles:
+  primary:
+    - Quadriceps
+  secondary:
+    - Forearms
+    - Glutes
+    - Hamstrings
+    - Lower Back
+equipment:
+  - Barbell
+---
+
+# Clean Pull
+
+Clean Pull is an intermediate hip-hinge exercise targeting the quadriceps, performed with a barbell. The hinge is the foundation of safe lifting — it teaches you to load the hips, not the spine.
+
+## Details
+
+- **Category:** Other
+- **Difficulty:** intermediate
+- **Movement pattern:** hinge
+- **Equipment:** Barbell
+- **Primary muscles:** Quadriceps
+- **Secondary muscles:** Forearms, Glutes, Hamstrings, Lower Back
+
+## Instructions
+
+1. With a barbell on the floor close to the shins, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.
+2. Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight and elbows out. Move the weight with control as you continue to above the knees.
+3. Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary.
+
+## Cues
+
+- Hips back, spine long
+- Feel the hamstrings load
+- Squeeze glutes to finish
+
+## Longevity notes
+
+A strong hinge is back insurance. Learn it light, groove it often, and add load slowly — the goal is a back that never complains about picking things up.
+
+## Sources
+
+- [Free Exercise DB (public domain)](https://github.com/yuhonas/free-exercise-db) — yuhonas
+
+## Metadata
+
+- **Schema version:** 1
+- **Updated:** 2026-10-12
+- **Image:** `assets/exercises/clean-pull.png`
+- **Attribution:** Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).
+- **Demo media:** images [], video null

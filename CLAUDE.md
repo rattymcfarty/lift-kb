@@ -8,6 +8,9 @@ project-wide rules, state and recovery runbook. This file is the KB-specific par
 - `exercises/<id>.json` — one exercise per file (`id` == filename). Schema:
   `schemas/exercise.schema.json` (draft-07, `additionalProperties: false`).
 - `programs/*.json` — multi-week programs (`schemas/program.schema.json`).
+- `content/` — **generated** Markdown pages for browsing (one per exercise and program,
+  plus an index). Built from the JSON by `node scripts/build-markdown.mjs`; never edit by
+  hand. JSON stays the source of truth.
 - `kb-version.json` — current bundle version; `channel.json` — release channel
   (`latest`, `sha256`, …) which **must match a fresh build** (CI fails otherwise).
 - `scripts/build-bundle.mjs` — validates ids/filenames and emits
@@ -31,7 +34,9 @@ project-wide rules, state and recovery runbook. This file is the KB-specific par
    commit, push — then refresh the app snapshot:
    `node ~/lift/lift-app/scripts/sync-kb-snapshot.mjs ~/lift/lift-kb` in `lift-app`
    and run `npm run verify` there.
-6. Preserve each file's existing JSON formatting (indented vs compact) — rewriting
+6. After any JSON change run `node scripts/build-markdown.mjs` and commit `content/` too
+   (`--check` exits 1 if it is stale).
+7. Preserve each file's existing JSON formatting (indented vs compact) — rewriting
    untouched files creates giant noisy diffs.
 
 ## Current state (2026-10-14)
