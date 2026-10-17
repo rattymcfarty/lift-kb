@@ -141,22 +141,56 @@ export function splitDocument(md) {
 
 // --- body sections ----------------------------------------------------------
 
-/** Map each `## Heading` to its raw (untrimmed) lines. */
+/** The fence run (`` ``` `` / `~~~`) a line opens with, or null. */
+function fenceMarker(line) {
+  const m = /^(`{3,}|~{3,})/.exec(line.trimStart());
+  return m ? m[1] : null;
+}
+
+/**
+ * Map each `## Heading` to its raw (untrimmed) lines.
+ *
+ * Only level-2 headings split a section: `###` and deeper belong to the
+ * section they sit in, as do blank lines, lists, tables, blockquotes and
+ * horizontal rules. A line starting with `## ` inside a fenced code block is
+ * content, not a heading, so fences are tracked while scanning.
+ */
 function extractSections(body) {
   const sections = {};
   let current = null;
+  let fence = null; // the marker run (`` ` `` or `~`) we are inside, if any
   for (const line of body.split('\n')) {
-    const m = /^##\s+(.+?)\s*$/.exec(line);
-    if (m) {
-      current = m[1];
-      sections[current] = [];
+    const marker = fenceMarker(line);
+    if (marker !== null) {
+      // A closing fence is a bare run of the same char, at least as long as
+      // the opening one; anything else (e.g. an info string) is content.
+      const rest = line.trimStart().slice(marker.length).trim();
+      if (fence === null) fence = marker;
+      else if (rest === '' && marker[0] === fence[0] && marker.length >= fence.length) {
+        fence = null;
+      }
+      if (current) sections[current].push(line);
       continue;
+    }
+    if (fence === null) {
+      const m = /^##\s+(.+?)\s*$/.exec(line);
+      if (m) {
+        current = m[1];
+        sections[current] = [];
+        continue;
+      }
     }
     if (current) sections[current].push(line);
   }
   return sections;
 }
 
+/**
+ * A prose value: drop leading/trailing blank lines only, and keep everything
+ * in between byte-for-byte — blank lines, `###` subheadings, bullet and
+ * numbered lists, blockquotes, tables, `---` rules, inline markup and emoji
+ * all round-trip unchanged.
+ */
 function paragraph(lines) {
   const start = lines.findIndex((l) => l.trim() !== '');
   if (start === -1) return '';

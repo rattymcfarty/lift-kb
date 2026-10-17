@@ -16,7 +16,7 @@
  */
 import { readFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 import { parseExercise, parseProgram } from './lib/md-content.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -44,7 +44,7 @@ function deepEqual(a, b) {
   return JSON.stringify(a) === JSON.stringify(b);
 }
 
-function validate(value, schema, path, errors) {
+export function validate(value, schema, path, errors) {
   if (schema.type !== undefined) {
     const types = Array.isArray(schema.type) ? schema.type : [schema.type];
     if (!types.some((t) => matchesType(value, t))) {
@@ -103,8 +103,13 @@ function validate(value, schema, path, errors) {
   }
 }
 
+/** Read one of the JSON Schemas under schemas/. */
+export function loadSchema(schemaFile) {
+  return JSON.parse(readFileSync(join(root, 'schemas', schemaFile), 'utf8'));
+}
+
 function check(kind, dir, schemaFile, parse) {
-  const schema = JSON.parse(readFileSync(join(root, 'schemas', schemaFile), 'utf8'));
+  const schema = loadSchema(schemaFile);
   const files = readdirSync(join(root, 'content', dir))
     .filter((f) => f.endsWith('.md'))
     .sort();
@@ -117,17 +122,25 @@ function check(kind, dir, schemaFile, parse) {
   return { count: files.length, errors: errors.length, kind };
 }
 
-const results = [
-  check('exercise', 'exercises', 'exercise.schema.json', parseExercise),
-  check('program', 'programs', 'program.schema.json', parseProgram),
-];
+function run() {
+  const results = [
+    check('exercise', 'exercises', 'exercise.schema.json', parseExercise),
+    check('program', 'programs', 'program.schema.json', parseProgram),
+  ];
 
-const total = results.reduce((n, r) => n + r.errors, 0);
-for (const r of results) {
-  console.log(`${r.kind}: ${r.count} page(s), ${r.errors} error(s)`);
+  const total = results.reduce((n, r) => n + r.errors, 0);
+  for (const r of results) {
+    console.log(`${r.kind}: ${r.count} page(s), ${r.errors} error(s)`);
+  }
+  if (total > 0) {
+    console.error(`content validation FAILED with ${total} error(s)`);
+    process.exit(1);
+  }
+  console.log('content validation OK');
 }
-if (total > 0) {
-  console.error(`content validation FAILED with ${total} error(s)`);
-  process.exit(1);
+
+// Only run as a CLI; importing this module (e.g. from lint-content.mjs) must
+// not validate and exit on its own.
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  run();
 }
-console.log('content validation OK');
