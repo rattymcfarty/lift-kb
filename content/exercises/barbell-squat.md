@@ -1,5 +1,5 @@
 ---
-fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category"]
+fields: ["id","schemaVersion","name","aliases","muscles","equipment","difficulty","movementPattern","instructions","cues","longevityNotes","overview","image","demoMedia","deprecated","sources","attribution","updatedAt","category","commonMistakes","safetyNotes","progression"]
 id: barbell-squat
 schemaVersion: 1
 name: Barbell Squat
@@ -26,8 +26,19 @@ sources:
     publisher: yuhonas
     url: "https://github.com/yuhonas/free-exercise-db"
 attribution: "Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0)."
-updatedAt: "2026-10-12"
+updatedAt: "2026-10-18"
 category: Squat
+commonMistakes:
+  - Knees collapsing inwards as you stand up
+  - Heels lifting, so the weight shifts onto the toes
+  - Losing the brace at the bottom and letting the chest drop
+  - Cutting depth as the weight gets heavy instead of reducing the load
+  - Looking up hard at the ceiling and craning the neck
+safetyNotes: Always squat in a rack with the safety pins set just below your bottom position, and never round your back to finish a rep. Learn the pattern with a goblet squat or an empty bar first. If you have an acute knee or lower-back injury, or pain that pinches at a consistent depth, reduce the range to what is pain-free and get it assessed rather than pushing through. Sharp joint pain, or pain that lingers after the set, means stop.
+progression:
+  loadingGuidance: Add weight when 3 sets of 5 to 8 reps reach depth with the same tempo and no form change, leaving two reps in reserve.
+  progressTo: Heavier sets of 5, a front squat, or a paused squat to build control at the bottom
+  regressTo: Goblet squat or box squat to a bench, at bodyweight first
 ---
 
 # Barbell Squat
@@ -47,22 +58,56 @@ Barbell Squat is a beginner lower-body exercise that builds the quadriceps, usua
 
 ## Instructions
 
-1. This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack to just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.
-2. Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.
-3. Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section).
-4. Begin to slowly lower the bar by bending the knees and hips as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees. Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.
-5. Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position.
-6. Repeat for the recommended amount of repetitions.
+1. Set the bar in a rack at roughly mid-chest height with the safety pins just below where your hips will end up. Step under it so it sits on your upper back — not on your neck — and take a grip a little wider than your shoulders.
+2. Stand the bar up by pushing with your legs, take one small step back, and set your feet about shoulder-width with the toes turned out slightly.
+3. Take a breath, brace your trunk as if for a light punch, and keep your chest tall with your gaze on a point a few metres ahead.
+4. Push your hips back and bend your knees together, lowering over two to three seconds until your hip crease is level with your knees — or as deep as you can go while keeping a long back and your heels down.
+5. Drive through the whole foot and stand up in one smooth motion, exhaling as you rise. Keep your knees tracking over your toes.
+6. Finish the set standing tall, then walk the bar back into the rack and set it down on the pins. Work in sets of 5 to 8 reps, leaving two reps in reserve.
 
 ## Cues
 
+- Brace, then sit down between your feet
 - Knees track over toes
-- Chest tall, brace the core
-- Drive through the whole foot
+- Whole foot planted, heels down
+- Two seconds down, drive up
+- Chest tall the whole way
+
+## Common mistakes
+
+- Knees collapsing inwards as you stand up
+- Heels lifting, so the weight shifts onto the toes
+- Losing the brace at the bottom and letting the chest drop
+- Cutting depth as the weight gets heavy instead of reducing the load
+- Looking up hard at the ceiling and craning the neck
+
+## Safety
+
+Always squat in a rack with the safety pins set just below your bottom position, and never round your back to finish a rep. Learn the pattern with a goblet squat or an empty bar first. If you have an acute knee or lower-back injury, or pain that pinches at a consistent depth, reduce the range to what is pain-free and get it assessed rather than pushing through. Sharp joint pain, or pain that lingers after the set, means stop.
 
 ## Longevity notes
 
-Keep the squat pattern for life: depth and control matter more than load. Train it pain-free, leave reps in reserve, and your knees and hips will thank you at 80.
+### Why this matters for a long life
+
+Sitting down and standing up is the single most repeated movement of a long life, and the squat is the only lift that trains it under load. The strength to rise from a low chair without pushing off the arms is one of the most reliable markers of independence in later life.
+
+It also keeps the hips and knees moving through their full range, which is what makes stairs, hills and getting off the floor stay easy rather than becoming a project.
+
+### Rhythm and tempo
+
+Lower over two to three seconds, pause for a moment at the bottom without relaxing, then drive up in one smooth motion. Three sets of 5 to 8 reps with two reps in reserve, twice a week, is plenty to build and keep strength. Slow, controlled reps beat grinding singles: the goal is a movement you can trust, not a number on the bar.
+
+### Keeping it for life
+
+Depth and control matter more than load, and they last longer. Rotate heavier weeks with goblet squats, box squats or split squats, and keep the range of motion you want to have at 80 — if you can only squat to a chair now, work on the range before you work on the weight.
+
+> You are training the movement you will use every day for the rest of your life.
+
+## Progression
+
+- **Loading guidance:** Add weight when 3 sets of 5 to 8 reps reach depth with the same tempo and no form change, leaving two reps in reserve.
+- **Progress to:** Heavier sets of 5, a front squat, or a paused squat to build control at the bottom
+- **Regress to:** Goblet squat or box squat to a bench, at bodyweight first
 
 ## Sources
 
@@ -71,7 +116,7 @@ Keep the squat pattern for life: depth and control matter more than load. Train 
 ## Metadata
 
 - **Schema version:** 1
-- **Updated:** 2026-10-12
+- **Updated:** 2026-10-18
 - **Image:** `assets/exercises/barbell-squat.png`
 - **Attribution:** Exercise data adapted from the Free Exercise DB (The Unlicense / public domain). Prose written for the LIFT knowledge base (CC BY 4.0).
 - **Demo media:** images [], video null

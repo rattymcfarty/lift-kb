@@ -13,7 +13,9 @@ versioned JSON bundles — **content only, never user data**.
 
 ## How it works
 
-1. Content lives here as validated JSON (`exercises/`, `programs/`).
+1. Content lives here as validated **Markdown pages** under `content/` — one page
+   per exercise or program, YAML frontmatter for the structured fields plus fixed
+   prose sections. Markdown is the only source of truth.
 2. CI validates every file against `schemas/`, then builds
    `dist/kb-bundle-<version>.json` (+ `.sha256`) and uploads it as a
    **GitHub Release asset**.
@@ -40,10 +42,12 @@ versioned JSON bundles — **content only, never user data**.
 ## Repo layout
 
 ```
-exercises/     one JSON file per exercise (id = filename)
-programs/      multi-week training blocks (progression + deloads)
+content/exercises/  one Markdown page per exercise (id = filename)
+content/programs/   multi-week training blocks (progression + deloads)
+content/README.md   hand-maintained index of every page
 schemas/       JSON Schemas CI validates against
 scripts/       build-bundle.mjs — emits dist/kb-bundle-<v>.json
+               validate-content.mjs / lint-content.mjs / test-md-content.mjs
 media/         CC0 asset manifest + naming conventions (assets via release)
 channel.json   release channel descriptor (CI fills sha256)
 kb-version.json  current bundle version + schemaVersion
@@ -56,7 +60,9 @@ See `CLAUDE.md` here and, in the app repo (`rattymcfarty/lift-app`), `CLAUDE.md`
 
 ## Contributing
 
-1. Add/edit JSON under `exercises/` or `programs/`.
-2. `node scripts/build-bundle.mjs` locally to sanity-check.
+1. Add or edit a Markdown page under `content/exercises/` or `content/programs/`,
+   and add it to `content/README.md`.
+2. `node scripts/validate-content.mjs`, `node scripts/lint-content.mjs` and
+   `node scripts/test-md-content.mjs`, then `node scripts/build-bundle.mjs`.
 3. Open a PR — CI validates schemas and builds the bundle. Coach review
    required before merge.

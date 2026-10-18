@@ -22,7 +22,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 // sha256 of the canonical bundle (generatedAt excluded) for the content as it
 // stands. build-bundle.mjs prints the same value and channel.json records it.
 const EXPECTED_SHA =
-  'd9b469368c45f0534965b1d515c8f45af2ee5157f1b8c4f342a7391010b56cc7';
+  'c7e5932f971ef62e164f4de1d45647784b3028be921a6c01ec08b2f5f0655966';
 
 let passed = 0;
 const failures = [];

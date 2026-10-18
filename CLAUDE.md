@@ -39,5 +39,12 @@ project-wide rules, state and recovery runbook. This file is the KB-specific par
 6. Edit the Markdown pages directly; run `node scripts/validate-content.mjs` before committing.
    Keep each page's `fields:` list in step with its frontmatter keys.
 
-## Current state (2026-10-14)
-Bundle 0.5.1 · 627 files · 577 live · 1 program. See app HANDOFF §1 for quality caveats.
+## Current state (2026-10-18)
+Bundle 0.6.0 · 631 files · 581 live · 1 program. See app HANDOFF §1 for quality caveats.
+Rich pages pilot (2026-10-18): `barbell-squat`, `barbell-deadlift`, `push-up`,
+`farmer-carry` plus the new `bird-dog`, `cable-woodchops`, `rowing-machine` and
+`outdoor-cycling` carry the target shape — `### ` subheadings in `longevityNotes`
+(why it matters for a long life / rhythm and tempo / keeping it for life), tempo
+written into the instructions, a one-line motivation blockquote, and a real
+safety note. Awaiting the owner's approval before the rest of the catalogue is
+rewritten the same way.

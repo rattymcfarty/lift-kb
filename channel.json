@@ -1,7 +1,7 @@
 {
-  "latest": "0.5.1",
+  "latest": "0.6.0",
   "minAppVersion": "0.1.0",
   "revoked": [],
   "schemaVersion": 1,
-  "sha256": "d9b469368c45f0534965b1d515c8f45af2ee5157f1b8c4f342a7391010b56cc7"
+  "sha256": "c7e5932f971ef62e164f4de1d45647784b3028be921a6c01ec08b2f5f0655966"
 }
